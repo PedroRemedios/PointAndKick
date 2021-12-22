@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: e8447fd4ad22ae84c969330c2e3d8c0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1860614905036991877
+    second: Heavy Diabolo 2 Sprite_0
+  - first:
+      213: -2025613027327895095
+    second: Heavy Diabolo 2 Sprite_1
+  - first:
+      213: -1653372351971044381
+    second: Heavy Diabolo 2 Sprite_2
+  - first:
+      213: -6714358555834289229
+    second: Heavy Diabolo 2 Sprite_3
+  - first:
+      213: -3900867475710479974
+    second: Heavy Diabolo 2 Sprite_4
+  - first:
+      213: -3668445927080406025
+    second: Heavy Diabolo 2 Sprite_5
+  - first:
+      213: 3915141394259454572
+    second: Heavy Diabolo 2 Sprite_6
+  - first:
+      213: -1923189904729899717
+    second: Heavy Diabolo 2 Sprite_7
+  - first:
+      213: -6581116530684093390
+    second: Heavy Diabolo 2 Sprite_8
+  - first:
+      213: 5565825327645974204
+    second: Heavy Diabolo 2 Sprite_9
+  - first:
+      213: -7112287866928967561
+    second: Heavy Diabolo 2 Sprite_10
+  - first:
+      213: 3704978913922068352
+    second: Heavy Diabolo 2 Sprite_11
+  - first:
+      213: -1198435564770772095
+    second: Heavy Diabolo 2 Sprite_12
+  - first:
+      213: -6052345622499009205
+    second: Heavy Diabolo 2 Sprite_13
+  - first:
+      213: 4261125321806675321
+    second: Heavy Diabolo 2 Sprite_14
+  - first:
+      213: -3239423599044541930
+    second: Heavy Diabolo 2 Sprite_15
+  - first:
+      213: -4743008001151986654
+    second: Heavy Diabolo 2 Sprite_16
+  - first:
+      213: 6476154763768152324
+    second: Heavy Diabolo 2 Sprite_17
+  - first:
+      213: -4252984544668630342
+    second: Heavy Diabolo 2 Sprite_18
+  - first:
+      213: 1920065815515805175
+    second: Heavy Diabolo 2 Sprite_19
+  - first:
+      213: 6399058083697617425
+    second: Heavy Diabolo 2 Sprite_20
+  - first:
+      213: -3272127016696357273
+    second: Heavy Diabolo 2 Sprite_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1680
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7219711a94cd26e0800000000000000
+      internalID: -1860614905036991877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1680
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c997bd0fa393e3e0800000000000000
+      internalID: -2025613027327895095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e350571b9a0e09e0800000000000000
+      internalID: -1653372351971044381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1260
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b374e8b77ec1d2a0800000000000000
+      internalID: -6714358555834289229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1260
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91f662d2b55dd9c0800000000000000
+      internalID: -3900867475710479974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1260
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d4a69ddf071dc0800000000000000
+      internalID: -3668445927080406025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1260
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a2342da50655630800000000000000
+      internalID: 3915141394259454572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1260
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3df4fc98f47f45e0800000000000000
+      internalID: -1923189904729899717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c9f13326d2ba4a0800000000000000
+      internalID: -6581116530684093390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 840
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed53085a8cd3d40800000000000000
+      internalID: 5565825327645974204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 840
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770d0671ed31c4d90800000000000000
+      internalID: -7112287866928967561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 840
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f23a041baba6330800000000000000
+      internalID: 3704978913922068352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 840
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bb4a3143d4e5fe0800000000000000
+      internalID: -1198435564770772095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 840
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5e0919bfb10ca0800000000000000
+      internalID: -6052345622499009205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d75bd57ee822b30800000000000000
+      internalID: 4261125321806675321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 420
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ceed56614b03d0800000000000000
+      internalID: -3239423599044541930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 420
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224108c3a537d2eb0800000000000000
+      internalID: -4743008001151986654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 420
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401cadc027cefd950800000000000000
+      internalID: 6476154763768152324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 420
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2ccc3071d5af4c0800000000000000
+      internalID: -4252984544668630342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 420
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5b03fafa175aa10800000000000000
+      internalID: 1920065815515805175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a63e76c650ec850800000000000000
+      internalID: 6399058083697617425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Diabolo 2 Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 0
+        width: 298
+        height: 420
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76edad590d11792d0800000000000000
+      internalID: -3272127016696357273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 29f1f94059d9e634c8b657e936dde3b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2157884404350293900
+    second: Fred Idle Sprite_0
+  - first:
+      213: 6529166365989639083
+    second: Fred Idle Sprite_1
+  - first:
+      213: -925996923361992917
+    second: Fred Idle Sprite_2
+  - first:
+      213: 6041795213075303673
+    second: Fred Idle Sprite_3
+  - first:
+      213: -5684297001601424750
+    second: Fred Idle Sprite_4
+  - first:
+      213: 8110685948271694614
+    second: Fred Idle Sprite_5
+  - first:
+      213: -3900899820708832701
+    second: Fred Idle Sprite_6
+  - first:
+      213: 4020431683410439966
+    second: Fred Idle Sprite_7
+  - first:
+      213: -489635729065012557
+    second: Fred Idle Sprite_8
+  - first:
+      213: -7379277715288335525
+    second: Fred Idle Sprite_9
+  - first:
+      213: 2083381224195655330
+    second: Fred Idle Sprite_10
+  - first:
+      213: 5402887506908776819
+    second: Fred Idle Sprite_11
+  - first:
+      213: -4565713297323399406
+    second: Fred Idle Sprite_12
+  - first:
+      213: 7157593435621269848
+    second: Fred Idle Sprite_13
+  - first:
+      213: 3691273012078980148
+    second: Fred Idle Sprite_14
+  - first:
+      213: 6987257124674724045
+    second: Fred Idle Sprite_15
+  - first:
+      213: 6594230469161894089
+    second: Fred Idle Sprite_16
+  - first:
+      213: 2031350380817607402
+    second: Fred Idle Sprite_17
+  - first:
+      213: -5929079694946889535
+    second: Fred Idle Sprite_18
+  - first:
+      213: 7727665013691155263
+    second: Fred Idle Sprite_19
+  - first:
+      213: 8543136061452278234
+    second: Fred Idle Sprite_20
+  - first:
+      213: 8215492544459207646
+    second: Fred Idle Sprite_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fred Idle Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1684
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8797abce6852fd10800000000000000
+      internalID: 2157884404350293900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1684
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba39d3487324c9a50800000000000000
+      internalID: 6529166365989639083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1684
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f57ef44b23623f0800000000000000
+      internalID: -925996923361992917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1684
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc42094cb4c8d350800000000000000
+      internalID: 6041795213075303673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1684
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292aab56ef15d11b0800000000000000
+      internalID: -5684297001601424750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6139c7fc5e1fe8070800000000000000
+      internalID: 8110685948271694614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1263
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad34ae7483dd9c0800000000000000
+      internalID: -3900899820708832701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1263
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fa76d90517bc730800000000000000
+      internalID: 4020431683410439966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1263
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b29dbb06e67439f0800000000000000
+      internalID: -489635729065012557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1263
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b5849d30a879990800000000000000
+      internalID: -7379277715288335525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a686e76f28a9ec10800000000000000
+      internalID: 2083381224195655330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 842
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37981b2df89eafa40800000000000000
+      internalID: 5402887506908776819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 842
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e2ce32f353a0c0800000000000000
+      internalID: -4565713297323399406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 842
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851afd0ae41e45360800000000000000
+      internalID: 7157593435621269848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 842
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c24fd4f390a3330800000000000000
+      internalID: 3691273012078980148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0ed86b559b7f060800000000000000
+      internalID: 6987257124674724045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 421
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0c3798ca9638b50800000000000000
+      internalID: 6594230469161894089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 421
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaecf6a86ec03c10800000000000000
+      internalID: 2031350380817607402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 421
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c095b95e6da7bda0800000000000000
+      internalID: -5929079694946889535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 421
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338644136e2e3b60800000000000000
+      internalID: 7727665013691155263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad951b20cf05f8670800000000000000
+      internalID: 8543136061452278234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Idle Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 259
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37c5f01fa430270800000000000000
+      internalID: 8215492544459207646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

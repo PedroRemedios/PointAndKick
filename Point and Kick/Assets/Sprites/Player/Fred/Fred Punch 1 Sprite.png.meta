@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: f994b1fefc47e7140908ed7aa95e308c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6334273795615863751
+    second: Fred Punch 1 Sprite_0
+  - first:
+      213: -8467594631195993463
+    second: Fred Punch 1 Sprite_1
+  - first:
+      213: 713824086690978240
+    second: Fred Punch 1 Sprite_2
+  - first:
+      213: 4261128452857625068
+    second: Fred Punch 1 Sprite_3
+  - first:
+      213: 9116510462412771610
+    second: Fred Punch 1 Sprite_4
+  - first:
+      213: 5869679262099309214
+    second: Fred Punch 1 Sprite_5
+  - first:
+      213: -9064586150611563288
+    second: Fred Punch 1 Sprite_6
+  - first:
+      213: -8901972116382153839
+    second: Fred Punch 1 Sprite_7
+  - first:
+      213: -1138131759172225363
+    second: Fred Punch 1 Sprite_8
+  - first:
+      213: 4529397406343136453
+    second: Fred Punch 1 Sprite_9
+  - first:
+      213: -3730748215279858089
+    second: Fred Punch 1 Sprite_10
+  - first:
+      213: -5254243749956997878
+    second: Fred Punch 1 Sprite_11
+  - first:
+      213: 6748287303380132227
+    second: Fred Punch 1 Sprite_12
+  - first:
+      213: -6997326298808957102
+    second: Fred Punch 1 Sprite_13
+  - first:
+      213: 4199118654015291084
+    second: Fred Punch 1 Sprite_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3bfb9e47cd7e750800000000000000
+      internalID: 6334273795615863751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ade81db8f0d7a80800000000000000
+      internalID: -8467594631195993463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9555f893308e900800000000000000
+      internalID: 713824086690978240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce973ee50c1922b30800000000000000
+      internalID: 4261128452857625068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11de37d6f9548e70800000000000000
+      internalID: 9116510462412771610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 842
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9208e2a03a457150800000000000000
+      internalID: 5869679262099309214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 842
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec4fd81cee143280800000000000000
+      internalID: -9064586150611563288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 842
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1930c9a5687d57480800000000000000
+      internalID: -8901972116382153839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6f2f2f13b8430f0800000000000000
+      internalID: -1138131759172225363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 421
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c488ab71f6abde30800000000000000
+      internalID: 4529397406343136453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 421
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e42d9b348b93cc0800000000000000
+      internalID: -3730748215279858089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 421
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d2f78c52d2517b0800000000000000
+      internalID: -5254243749956997878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38160486c8bb6ad50800000000000000
+      internalID: 6748287303380132227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2574efdfdc084ee90800000000000000
+      internalID: -6997326298808957102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Punch 1 Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce3c4efa24464a30800000000000000
+      internalID: 4199118654015291084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

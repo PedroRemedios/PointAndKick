@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: ebc8942554558ca4883af7e0a94dca52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8053565860817453682
+    second: Hatty_0
+  - first:
+      213: 4098924633905891151
+    second: Hatty_1
+  - first:
+      213: -6000637530736980191
+    second: Hatty_2
+  - first:
+      213: 8315910212598595770
+    second: Hatty_3
+  - first:
+      213: 6583860809899166689
+    second: Hatty_4
+  - first:
+      213: 1229233967113325245
+    second: Hatty_5
+  - first:
+      213: -5286558783175317088
+    second: Hatty_6
+  - first:
+      213: 416106378215319182
+    second: Hatty_7
+  - first:
+      213: 5357394183368623540
+    second: Hatty_8
+  - first:
+      213: -8437070326836720231
+    second: Hatty_9
+  - first:
+      213: -1999660008775004809
+    second: Hatty_10
+  - first:
+      213: -5179567426475466365
+    second: Hatty_11
+  - first:
+      213: -1984241480458247431
+    second: Hatty_12
+  - first:
+      213: -2037313143879455384
+    second: Hatty_13
+  - first:
+      213: -9097707435752734228
+    second: Hatty_14
+  - first:
+      213: 6631471964059819021
+    second: Hatty_15
+  - first:
+      213: -5729767108652751682
+    second: Hatty_16
+  - first:
+      213: 319436478224468813
+    second: Hatty_17
+  - first:
+      213: 1228202542957975544
+    second: Hatty_18
+  - first:
+      213: 8736691814938690608
+    second: Hatty_19
+  - first:
+      213: 1532063358528461130
+    second: Hatty_20
+  - first:
+      213: 4389546450122877427
+    second: Hatty_21
+  - first:
+      213: 7339596971593830092
+    second: Hatty_22
+  - first:
+      213: 256697014482953432
+    second: Hatty_23
+  - first:
+      213: 9206631993675002784
+    second: Hatty_24
+  - first:
+      213: 449252888723236787
+    second: Hatty_25
+  - first:
+      213: -4497026687863903351
+    second: Hatty_26
+  - first:
+      213: 7321725129692755662
+    second: Hatty_27
+  - first:
+      213: -131750158607500237
+    second: Hatty_28
+  - first:
+      213: 7964469042475342857
+    second: Hatty_29
+  - first:
+      213: -4715048888481382619
+    second: Hatty_30
+  - first:
+      213: -8440185251473095099
+    second: Hatty_31
+  - first:
+      213: 2261086981821382849
+    second: Hatty_32
+  - first:
+      213: 2523167873153029538
+    second: Hatty_33
+  - first:
+      213: 1034754042982736385
+    second: Hatty_34
+  - first:
+      213: -8217899508688468785
+    second: Hatty_35
+  - first:
+      213: 7993070445670979691
+    second: Hatty_36
+  - first:
+      213: -115860454279023117
+    second: Hatty_37
+  - first:
+      213: -1498802039865375572
+    second: Hatty_38
+  - first:
+      213: -5448086123383681232
+    second: Hatty_39
+  - first:
+      213: -8493742603839321979
+    second: Hatty_40
+  - first:
+      213: 812431069481899871
+    second: Hatty_41
+  - first:
+      213: 5505567150385623465
+    second: Hatty_42
+  - first:
+      213: -832260144226556591
+    second: Hatty_43
+  - first:
+      213: 1078110999860736202
+    second: Hatty_44
+  - first:
+      213: -8948079070615473351
+    second: Hatty_45
+  - first:
+      213: -538605063840291136
+    second: Hatty_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hatty_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2526
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272cc351b7304cf60800000000000000
+      internalID: 8053565860817453682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2526
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f470f0dcc3e42e830800000000000000
+      internalID: 4098924633905891151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2526
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f8b8265f379bca0800000000000000
+      internalID: -6000637530736980191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2526
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08bfd574c086370800000000000000
+      internalID: 8315910212598595770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_4
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2526
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc7a816829e5b50800000000000000
+      internalID: 6583860809899166689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_5
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2526
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba42a3c7cd1f0110800000000000000
+      internalID: 1229233967113325245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_6
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2526
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a92d9ccbce52a6b0800000000000000
+      internalID: -5286558783175317088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2105
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e866c4edb8e46c500800000000000000
+      internalID: 416106378215319182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2105
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b54e6500a9495a40800000000000000
+      internalID: 5357394183368623540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2105
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d88ef3d3189ea80800000000000000
+      internalID: -8437070326836720231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_10
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2105
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d496111d7cf34e0800000000000000
+      internalID: -1999660008775004809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_11
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2105
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381eebe3eda7e18b0800000000000000
+      internalID: -5179567426475466365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_12
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2105
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2e0b0f2ee8674e0800000000000000
+      internalID: -1984241480458247431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_13
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2105
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da4d26d720ab3e0800000000000000
+      internalID: -2037313143879455384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1684
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce14785f9437eb180800000000000000
+      internalID: -9097707435752734228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1684
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c5fb3cd98b70c50800000000000000
+      internalID: 6631471964059819021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1684
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4290b1c27cb70b0800000000000000
+      internalID: -5729767108652751682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1684
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b0fd4d8cdde6400800000000000000
+      internalID: 319436478224468813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_18
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1684
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7dd3d94b37b0110800000000000000
+      internalID: 1228202542957975544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_19
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1684
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034cb7daae6fe3970800000000000000
+      internalID: 8736691814938690608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_20
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1684
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a491b72e18bf24510800000000000000
+      internalID: 1532063358528461130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9a6a45d3dcaec30800000000000000
+      internalID: 4389546450122877427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce026e0f8c7bd560800000000000000
+      internalID: 7339596971593830092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4e82b1398ff8300800000000000000
+      internalID: 256697014482953432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_24
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3beb8f40784cf70800000000000000
+      internalID: 9206631993675002784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_25
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7aaae3f111c3600800000000000000
+      internalID: 449252888723236787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_26
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bab6cbd0a5791c0800000000000000
+      internalID: -4497026687863903351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_27
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6336a963efb9560800000000000000
+      internalID: 7321725129692755662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c3915cdedeb2ef0800000000000000
+      internalID: -131750158607500237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 842
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c9655856a778e60800000000000000
+      internalID: 7964469042475342857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_30
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 842
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f777f6408c09eb0800000000000000
+      internalID: -4715048888481382619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_31
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 842
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54684775b307eda80800000000000000
+      internalID: -8440185251473095099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_32
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 842
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c049b551aef06f10800000000000000
+      internalID: 2261086981821382849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_33
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 842
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5d6f3ffc7140320800000000000000
+      internalID: 2523167873153029538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_34
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 842
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102a2e9d15f2c5e00800000000000000
+      internalID: 1034754042982736385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc444c8efe724fd80800000000000000
+      internalID: -8217899508688468785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 421
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6854e2a8371dee60800000000000000
+      internalID: 7993070445670979691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_37
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 421
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5fe2bd781646ef0800000000000000
+      internalID: -115860454279023117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_38
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 421
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca481395c7f233be0800000000000000
+      internalID: -1498802039865375572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_39
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 421
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f0bf539828464b0800000000000000
+      internalID: -5448086123383681232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_40
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 421
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5884e848a1a202a80800000000000000
+      internalID: -8493742603839321979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_41
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 421
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5795f4d0c5564b00800000000000000
+      internalID: 812431069481899871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17bcd4724b76c40800000000000000
+      internalID: 5505567150385623465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_43
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15529aeeec73374f0800000000000000
+      internalID: -832260144226556591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_44
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f3270e3836fe00800000000000000
+      internalID: 1078110999860736202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_45
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 0
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9337bd58e7902d380800000000000000
+      internalID: -8948079070615473351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hatty_46
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 0
+        width: 298
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6a29f4c8d7688f0800000000000000
+      internalID: -538605063840291136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

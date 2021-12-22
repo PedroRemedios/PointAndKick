@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Character
   layers:
   - Default
   - TransparentFX
@@ -15,11 +17,11 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - CameraConfiner
+  - Player
+  - Character
+  - Environment
+  - Ground Check
   - 
   - 
   - 
@@ -38,6 +40,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3784979061
+    locked: 0
+  - name: Middle Ground
+    uniqueID: 3506898603
+    locked: 0
+  - name: Playable Ground
+    uniqueID: 428132647
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1867707007
     locked: 0

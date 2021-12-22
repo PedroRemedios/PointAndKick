@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 1b2537c78d714e445a55dc9fb07a48f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5871176401622503088
+    second: Fred Hook Sprite_0
+  - first:
+      213: -9022620158922144211
+    second: Fred Hook Sprite_1
+  - first:
+      213: 3357208288278757231
+    second: Fred Hook Sprite_2
+  - first:
+      213: -4489395854857302499
+    second: Fred Hook Sprite_3
+  - first:
+      213: 2639502144370249691
+    second: Fred Hook Sprite_4
+  - first:
+      213: -350326397050105739
+    second: Fred Hook Sprite_5
+  - first:
+      213: 1594114148834262477
+    second: Fred Hook Sprite_6
+  - first:
+      213: 5307702183451226948
+    second: Fred Hook Sprite_7
+  - first:
+      213: -1734319389784578785
+    second: Fred Hook Sprite_8
+  - first:
+      213: -2089024864324544528
+    second: Fred Hook Sprite_9
+  - first:
+      213: -5403757087910344760
+    second: Fred Hook Sprite_10
+  - first:
+      213: 2224151129852117955
+    second: Fred Hook Sprite_11
+  - first:
+      213: -8925467256749581089
+    second: Fred Hook Sprite_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fred Hook Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05172a76b24658ea0800000000000000
+      internalID: -5871176401622503088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ca24f4c639c280800000000000000
+      internalID: -9022620158922144211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3ad3a623379e20800000000000000
+      internalID: 3357208288278757231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1263
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e8e1f714672b1c0800000000000000
+      internalID: -4489395854857302499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf0213373561a420800000000000000
+      internalID: 2639502144370249691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 842
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570d26c7ff3632bf0800000000000000
+      internalID: -350326397050105739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 842
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb0b45f5e6f1610800000000000000
+      internalID: 1594114148834262477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 842
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443fc22b30fb8a940800000000000000
+      internalID: 5307702183451226948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1561dc24b57ee7e0800000000000000
+      internalID: -1734319389784578785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 421
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71afa34fa4203e0800000000000000
+      internalID: -2089024864324544528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 421
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ca921f8ff105b0800000000000000
+      internalID: -5403757087910344760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 421
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38e952ba5cdde10800000000000000
+      internalID: 2224151129852117955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Hook Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 298
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc9f03b1de522480800000000000000
+      internalID: -8925467256749581089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
