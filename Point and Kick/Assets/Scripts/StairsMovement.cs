@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class StairsMovement : MonoBehaviour
 {
-    [SerializeField] private float slope;
-    private float previousSlope;
     private PlayerController playerController;
+    private float previousSlope;
+    private float slope;
 
     void Start()
     {
-        playerController = GameObject.Find("Player").GetComponent<PlayerController>();
+        playerController = GameObject.FindWithTag("Player").GetComponent<PlayerController>();
     }
     
     private void OnTriggerEnter2D(Collider2D other) {

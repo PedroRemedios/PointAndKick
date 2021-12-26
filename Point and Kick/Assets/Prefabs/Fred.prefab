@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5566782743938143138}
   - component: {fileID: 5823607887135849011}
   - component: {fileID: 5555426456864216175}
-  - component: {fileID: 949395249}
+  - component: {fileID: 1987977448255930520}
   - component: {fileID: 1788683654426696113}
   m_Layer: 12
   m_Name: Fred
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 2157884404350293900, guid: 29f1f94059d9e634c8b657e936dde3b0, type: 3}
+  m_Sprite: {fileID: 1242505862127788646, guid: 94424482ad813c040a3fd4212bd9fdbf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -104,7 +104,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &949395249
+--- !u!114 &1987977448255930520
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -113,12 +113,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 8880599333115111386}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 094c7cb9c48f20949a4d7d75090ddc21, type: 3}
+  m_Script: {fileID: 11500000, guid: 72946c3ea3887ff43b11c38c2953d727, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gravityScale: 3
+  walkSpeed: 4
+  runSpeed: 9
   jumpPower: 12
-  jumpVelocity: 0
+  gravityScale: 4
 --- !u!61 &1788683654426696113
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -136,7 +137,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.05}
-    oldSize: {x: 2.5901368, y: 4.21}
+    oldSize: {x: 2.9866667, y: 4.213333}
     newSize: {x: 5.95, y: 8.42}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
