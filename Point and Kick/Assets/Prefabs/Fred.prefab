@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5823607887135849011}
   - component: {fileID: 5555426456864216175}
   - component: {fileID: 1987977448255930520}
+  - component: {fileID: 3859821200362602507}
   - component: {fileID: 1788683654426696113}
   m_Layer: 12
   m_Name: Fred
@@ -116,10 +117,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72946c3ea3887ff43b11c38c2953d727, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horizontalInput: 0
+  verticalInput: 0
+  moveDirection: {x: 0, y: 0}
   walkSpeed: 4
   runSpeed: 9
-  jumpPower: 12
-  gravityScale: 4
+  jumpPower: 10
+  gravityScale: 3
+--- !u!114 &3859821200362602507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8880599333115111386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8fc4627605dc02478075f1a3aee7b2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!61 &1788683654426696113
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 06a035f90442d7745af07484cd37eb6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4002758248736814293
+    second: Fred Guard Sprite HD_0
+  - first:
+      213: -1189164646608858230
+    second: Fred Guard Sprite HD_1
+  - first:
+      213: -22958783696853287
+    second: Fred Guard Sprite HD_2
+  - first:
+      213: 5885779483300537793
+    second: Fred Guard Sprite HD_3
+  - first:
+      213: 339756186101094727
+    second: Fred Guard Sprite HD_4
+  - first:
+      213: -2349816683086152074
+    second: Fred Guard Sprite HD_5
+  - first:
+      213: 4083285844981966722
+    second: Fred Guard Sprite HD_6
+  - first:
+      213: 2613140347261199632
+    second: Fred Guard Sprite HD_7
+  - first:
+      213: 8015674320041875291
+    second: Fred Guard Sprite HD_8
+  - first:
+      213: -373938864432641553
+    second: Fred Guard Sprite HD_9
+  - first:
+      213: -5103308762456052365
+    second: Fred Guard Sprite HD_10
+  - first:
+      213: 3766232573453749942
+    second: Fred Guard Sprite HD_11
+  - first:
+      213: -554439467423918954
+    second: Fred Guard Sprite HD_12
+  - first:
+      213: -1226583571565756053
+    second: Fred Guard Sprite HD_13
+  - first:
+      213: 5551820035863320179
+    second: Fred Guard Sprite HD_14
+  - first:
+      213: 3102979523183205571
+    second: Fred Guard Sprite HD_15
+  - first:
+      213: -7385251275192449487
+    second: Fred Guard Sprite HD_16
+  - first:
+      213: 4907106181596099946
+    second: Fred Guard Sprite HD_17
+  - first:
+      213: 3655977540659635486
+    second: Fred Guard Sprite HD_18
+  - first:
+      213: 4971562239092655193
+    second: Fred Guard Sprite HD_19
+  - first:
+      213: 3596790519580103500
+    second: Fred Guard Sprite HD_20
+  - first:
+      213: 2841501241955110656
+    second: Fred Guard Sprite HD_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4f8b17b67ac8730800000000000000
+      internalID: 4002758248736814293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a831d6bed0d3f7fe0800000000000000
+      internalID: -1189164646608858230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6264d9b1f6eaff0800000000000000
+      internalID: -22958783696853287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c52960814d7ea150800000000000000
+      internalID: 5885779483300537793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7491cce737e07b400800000000000000
+      internalID: 339756186101094727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67efc553d26c36fd0800000000000000
+      internalID: -2349816683086152074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e78287debaa830800000000000000
+      internalID: 4083285844981966722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015aeb20d4db34420800000000000000
+      internalID: 2613140347261199632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_8
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57115143556d3f60800000000000000
+      internalID: 8015674320041875291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_9
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe987c185908fcaf0800000000000000
+      internalID: -373938864432641553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2ba218b76d29b0800000000000000
+      internalID: -5103308762456052365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be473a3298544430800000000000000
+      internalID: 3766232573453749942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_12
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6949dbeed3c3e48f0800000000000000
+      internalID: -554439467423918954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_13
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b614e798dbc4afee0800000000000000
+      internalID: -1226583571565756053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376978668e60c0d40800000000000000
+      internalID: 5551820035863320179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc55a0af6fff0b20800000000000000
+      internalID: 3102979523183205571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136472d0811528990800000000000000
+      internalID: -7385251275192449487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b82db21b891440800000000000000
+      internalID: 4907106181596099946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_18
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e2d9f334acb230800000000000000
+      internalID: 3655977540659635486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_19
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9540dd714898ef440800000000000000
+      internalID: 4971562239092655193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c439013cbed5ae130800000000000000
+      internalID: 3596790519580103500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Guard Sprite HD_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc09b135a0f6720800000000000000
+      internalID: 2841501241955110656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

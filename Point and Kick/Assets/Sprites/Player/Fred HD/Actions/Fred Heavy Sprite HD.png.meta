@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: a7db64158cabeee478fffb4efd75e876
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 819158609532694302
+    second: Fred Heavy Sprite HD_0
+  - first:
+      213: -3939418898340302447
+    second: Fred Heavy Sprite HD_1
+  - first:
+      213: 6268107174570983894
+    second: Fred Heavy Sprite HD_2
+  - first:
+      213: -1140114168487194855
+    second: Fred Heavy Sprite HD_3
+  - first:
+      213: 5669088569074704285
+    second: Fred Heavy Sprite HD_4
+  - first:
+      213: 8013169694674690934
+    second: Fred Heavy Sprite HD_5
+  - first:
+      213: 5613665739821641788
+    second: Fred Heavy Sprite HD_6
+  - first:
+      213: 216216176219499663
+    second: Fred Heavy Sprite HD_7
+  - first:
+      213: 6899663219834631892
+    second: Fred Heavy Sprite HD_8
+  - first:
+      213: -1885095956888501650
+    second: Fred Heavy Sprite HD_9
+  - first:
+      213: -2652161308241237038
+    second: Fred Heavy Sprite HD_10
+  - first:
+      213: 6242115371467737374
+    second: Fred Heavy Sprite HD_11
+  - first:
+      213: -8354816560590945889
+    second: Fred Heavy Sprite HD_12
+  - first:
+      213: 6997412723783945555
+    second: Fred Heavy Sprite HD_13
+  - first:
+      213: 3092504307333509636
+    second: Fred Heavy Sprite HD_14
+  - first:
+      213: -4013591714730954826
+    second: Fred Heavy Sprite HD_15
+  - first:
+      213: 983447717421266383
+    second: Fred Heavy Sprite HD_16
+  - first:
+      213: 5993726671858291838
+    second: Fred Heavy Sprite HD_17
+  - first:
+      213: 1119043204204725198
+    second: Fred Heavy Sprite HD_18
+  - first:
+      213: -3111262541748357988
+    second: Fred Heavy Sprite HD_19
+  - first:
+      213: 3910134182435786909
+    second: Fred Heavy Sprite HD_20
+  - first:
+      213: -5044818751943766845
+    second: Fred Heavy Sprite HD_21
+  - first:
+      213: -247860615650807191
+    second: Fred Heavy Sprite HD_22
+  - first:
+      213: 6809112683952620247
+    second: Fred Heavy Sprite HD_23
+  - first:
+      213: -3188281057481363318
+    second: Fred Heavy Sprite HD_24
+  - first:
+      213: 726514577669567734
+    second: Fred Heavy Sprite HD_25
+  - first:
+      213: -3578047792943749788
+    second: Fred Heavy Sprite HD_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f26ef4a6c3e5b00800000000000000
+      internalID: 819158609532694302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19137f6426f5459c0800000000000000
+      internalID: -3939418898340302447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d18162f34accf650800000000000000
+      internalID: 6268107174570983894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f4eef44308d20f0800000000000000
+      internalID: -1140114168487194855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fdce77406acae40800000000000000
+      internalID: 5669088569074704285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_5
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673a208b16f743f60800000000000000
+      internalID: 8013169694674690934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3079d57f3fb7ed40800000000000000
+      internalID: 5613665739821641788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ca14a7777200300800000000000000
+      internalID: 216216176219499663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_8
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d63218742780cf50800000000000000
+      internalID: 6899663219834631892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_9
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c222073bc6d5e0800000000000000
+      internalID: -1885095956888501650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_10
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbee378751a13bd0800000000000000
+      internalID: -2652161308241237038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_11
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190753bbd270a650800000000000000
+      internalID: 6242115371467737374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f910d669a9abd0c80800000000000000
+      internalID: -8354816560590945889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dc0f36ccdcb1160800000000000000
+      internalID: 6997412723783945555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402baf06848caea20800000000000000
+      internalID: 3092504307333509636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_15
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfa202b99bdc48c0800000000000000
+      internalID: -4013591714730954826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_16
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5301c0d78e5ad00800000000000000
+      internalID: 983447717421266383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_17
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74d5e4e6aefd2350800000000000000
+      internalID: 5993726671858291838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec300f28dd3a78f00800000000000000
+      internalID: 1119043204204725198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c943c14d33392d4d0800000000000000
+      internalID: -3111262541748357988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_20
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9092387256934630800000000000000
+      internalID: 3910134182435786909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc892ed2143df9b0800000000000000
+      internalID: -5044818751943766845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_22
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962f252551c6f8cf0800000000000000
+      internalID: -247860615650807191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_23
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d24a9ae8e3de7e50800000000000000
+      internalID: 6809112683952620247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8077bc3543f0c3d0800000000000000
+      internalID: -3188281057481363318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4332eb829151a00800000000000000
+      internalID: 726514577669567734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Heavy Sprite HD_26
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.42, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a7385d78385ec0800000000000000
+      internalID: -3578047792943749788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

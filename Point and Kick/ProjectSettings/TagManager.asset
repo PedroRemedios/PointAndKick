@@ -6,8 +6,8 @@ TagManager:
   tags:
   - Ground
   - Character
-  - Scale Border
   - NPC
+  - CM Camera
   layers:
   - Default
   - TransparentFX

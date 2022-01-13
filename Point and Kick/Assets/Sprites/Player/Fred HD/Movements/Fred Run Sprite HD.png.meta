@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 3a420f98eb9b541438d667ee28441dcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5656519462770502835
+    second: Fred Run Cycle HD_0
+  - first:
+      213: 4667799465741710923
+    second: Fred Run Cycle HD_1
+  - first:
+      213: 7904027361309042133
+    second: Fred Run Cycle HD_2
+  - first:
+      213: 8372118613465378308
+    second: Fred Run Cycle HD_3
+  - first:
+      213: -984208220896343053
+    second: Fred Run Cycle HD_4
+  - first:
+      213: 7768612448970845338
+    second: Fred Run Cycle HD_5
+  - first:
+      213: 9079287514465898357
+    second: Fred Run Cycle HD_6
+  - first:
+      213: -7074589673995611655
+    second: Fred Run Cycle HD_7
+  - first:
+      213: -8413273386276971254
+    second: Fred Run Cycle HD_8
+  - first:
+      213: 3811105623530242118
+    second: Fred Run Cycle HD_9
+  - first:
+      213: -2059807446324849896
+    second: Fred Run Cycle HD_10
+  - first:
+      213: -2765383706556163996
+    second: Fred Run Cycle HD_11
+  - first:
+      213: -2571977692351718088
+    second: Fred Run Cycle HD_12
+  - first:
+      213: 1981967777155681506
+    second: Fred Run Cycle HD_13
+  - first:
+      213: 6584095855600314523
+    second: Fred Run Cycle HD_14
+  - first:
+      213: -8837689515912946044
+    second: Fred Run Cycle HD_15
+  - first:
+      213: -5224989892866624393
+    second: Fred Run Cycle HD_16
+  - first:
+      213: -4130501402983449031
+    second: Fred Run Cycle HD_17
+  - first:
+      213: 6842517706204290134
+    second: Fred Run Cycle HD_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce48b5b7eff7e40800000000000000
+      internalID: 5656519462770502835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46fa4e02ea57c040800000000000000
+      internalID: 4667799465741710923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d52bcdf10fb0bd60800000000000000
+      internalID: 7904027361309042133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e2a05858dbf2470800000000000000
+      internalID: 8372118613465378308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb447076d36752f0800000000000000
+      internalID: -984208220896343053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ca59accd7afcb60800000000000000
+      internalID: 7768612448970845338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f0169e3eb100e70800000000000000
+      internalID: 9079287514465898357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f158dd9c2202dd90800000000000000
+      internalID: -7074589673995611655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_8
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d96bc3e6c0e3b80800000000000000
+      internalID: -8413273386276971254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_9
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640830c5f54c3e430800000000000000
+      internalID: 3811105623530242118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8135a187a081a63e0800000000000000
+      internalID: -2059807446324849896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4681117ab226f99d0800000000000000
+      internalID: -2765383706556163996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_12
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d952d6aef7e4cd0800000000000000
+      internalID: -2571977692351718088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_13
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec82a1413d518b10800000000000000
+      internalID: 1981967777155681506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98ad20fb486f5b50800000000000000
+      internalID: 6584095855600314523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e90d895383a5580800000000000000
+      internalID: -8837689515912946044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774bda8206b1d77b0800000000000000
+      internalID: -5224989892866624393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e3beabbd28da6c0800000000000000
+      internalID: -4130501402983449031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Run Cycle HD_18
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c90afb99185fe50800000000000000
+      internalID: 6842517706204290134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

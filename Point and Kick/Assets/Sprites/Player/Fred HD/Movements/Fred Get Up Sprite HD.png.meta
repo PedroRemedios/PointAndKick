@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: c9f9eb8f9fa8a294892470054ac38e82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8128437658856203750
+    second: Fred Get Up Sprite HD_0
+  - first:
+      213: 7375091507428285325
+    second: Fred Get Up Sprite HD_1
+  - first:
+      213: 5928271228671514745
+    second: Fred Get Up Sprite HD_2
+  - first:
+      213: 2369227033111931877
+    second: Fred Get Up Sprite HD_3
+  - first:
+      213: -1308917464669512467
+    second: Fred Get Up Sprite HD_4
+  - first:
+      213: 690159971394778608
+    second: Fred Get Up Sprite HD_5
+  - first:
+      213: -1716455558182894965
+    second: Fred Get Up Sprite HD_6
+  - first:
+      213: -3263893491924184702
+    second: Fred Get Up Sprite HD_7
+  - first:
+      213: -3654573696902988596
+    second: Fred Get Up Sprite HD_8
+  - first:
+      213: -4344509333787423666
+    second: Fred Get Up Sprite HD_9
+  - first:
+      213: 4831958623119442953
+    second: Fred Get Up Sprite HD_10
+  - first:
+      213: 4530547723804754102
+    second: Fred Get Up Sprite HD_11
+  - first:
+      213: 2444242838517369940
+    second: Fred Get Up Sprite HD_12
+  - first:
+      213: -2057554962381853393
+    second: Fred Get Up Sprite HD_13
+  - first:
+      213: 5887478524930960528
+    second: Fred Get Up Sprite HD_14
+  - first:
+      213: -1492175327653114508
+    second: Fred Get Up Sprite HD_15
+  - first:
+      213: -2396773411634479826
+    second: Fred Get Up Sprite HD_16
+  - first:
+      213: -8838930427754691506
+    second: Fred Get Up Sprite HD_17
+  - first:
+      213: -5511284233465451169
+    second: Fred Get Up Sprite HD_18
+  - first:
+      213: 4674690648828781408
+    second: Fred Get Up Sprite HD_19
+  - first:
+      213: -8178723916309624032
+    second: Fred Get Up Sprite HD_20
+  - first:
+      213: 281730935409782623
+    second: Fred Get Up Sprite HD_21
+  - first:
+      213: 5116053191219000072
+    second: Fred Get Up Sprite HD_22
+  - first:
+      213: -4134542026773436176
+    second: Fred Get Up Sprite HD_23
+  - first:
+      213: -4794032333101609392
+    second: Fred Get Up Sprite HD_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ad7fcf30df13f80800000000000000
+      internalID: -8128437658856203750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b534ea6a6995660800000000000000
+      internalID: 7375091507428285325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978522de543754250800000000000000
+      internalID: 5928271228671514745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eba3e41f6f21e020800000000000000
+      internalID: 2369227033111931877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec9116308ac5dde0800000000000000
+      internalID: -1308917464669512467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5fd2d56d0f39900800000000000000
+      internalID: 690159971394778608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8283c593cced28e0800000000000000
+      internalID: -1716455558182894965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815625792254b2d0800000000000000
+      internalID: -3263893491924184702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_8
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc7c9ed598584dc0800000000000000
+      internalID: -3654573696902988596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_9
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c4b3477c335b3c0800000000000000
+      internalID: -4344509333787423666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9048b6454c09e0340800000000000000
+      internalID: 4831958623119442953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b04653a62dbfde30800000000000000
+      internalID: 4530547723804754102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_12
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cce9659e1bbe120800000000000000
+      internalID: 2444242838517369940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_13
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d2361c9a81273e0800000000000000
+      internalID: -2057554962381853393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c2045768684b150800000000000000
+      internalID: 5887478524930960528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d42a4027aba4be0800000000000000
+      internalID: -1492175327653114508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dfc60e743fcbed0800000000000000
+      internalID: -2396773411634479826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444a4b4b9fc55580800000000000000
+      internalID: -8838930427754691506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_18
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da410903cf383b0800000000000000
+      internalID: -5511284233465451169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_19
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a746a066dfd040800000000000000
+      internalID: 4674690648828781408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b8f5c4ee55f7e80800000000000000
+      internalID: -8178723916309624032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fa6570bc8e8e300800000000000000
+      internalID: 281730935409782623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803bc9a754fdff640800000000000000
+      internalID: 5116053191219000072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_23
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8ee31bee72f96c0800000000000000
+      internalID: -4134542026773436176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Get Up Sprite HD_24
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ecdbf2efc287db0800000000000000
+      internalID: -4794032333101609392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private EdgeCollider2D sceneBorderCollider;
     private CapsuleCollider2D playerCollider;
     private Rigidbody2D playerRigidBody;
     private GameObject groundGameObject;
@@ -12,8 +11,12 @@ public class PlayerController : MonoBehaviour
 
     // Scaling Variables
     [SerializeField] private float scalePerUnit = 0.05f;
-    private Vector2 scaleReference = new Vector2(1, 1);
-    private float colliderDistance;
+    private float scaleDirection = 1;
+    private float scaleBoundX = 0;
+    public float scaleInclineBound {
+        get { return scaleBoundX; }
+        set { scaleBoundX = value; }
+    }
 
     // Slope Variables
     private float slope = 0;
@@ -26,17 +29,18 @@ public class PlayerController : MonoBehaviour
     private float groundCheckError = 0.015f;
     private float gravity = -9.81f;
     private float jumpVelocity = 0;
+    private float gravityScale = 0;
 
     // Control Variables
     private bool isFacingRight = true;
-    private bool isJumping = false;
+
+    void Awake() {
+        playerCollider = GetComponent<CapsuleCollider2D>();
+        playerRigidBody = GetComponent<Rigidbody2D>();
+    }
 
     void Start()
     {
-        sceneBorderCollider = GameObject.FindWithTag("Scale Border").GetComponent<EdgeCollider2D>();
-        playerCollider = GetComponent<CapsuleCollider2D>();
-        playerRigidBody = GetComponent<Rigidbody2D>();
-
         groundGameObject = GameObject.FindWithTag("Ground");
         groundGameObject.SetActive(false);
     }
@@ -45,23 +49,35 @@ public class PlayerController : MonoBehaviour
     {
         ScalePlayer();
         MoveGroundCheck();
+        CalculateJumpVelocity();
     }
 
+    // TODO: Change -3 to a variable (Where the variable is the y level where the scaling is 1)
+    // TODO: Change default scale value from 1 to a variable as well (TS2 needs a bigger sprite)
     private void ScalePlayer() {
-        colliderDistance = playerCollider.Distance(sceneBorderCollider).distance;
-        transform.localScale = scaleReference * (1 + scalePerUnit * colliderDistance);
+        float scaleReferenceY = -3 + (transform.position.x - scaleBoundX) * slope;
+        float newScaleValue = 1 - (transform.position.y - scaleReferenceY) * scalePerUnit;
+
+        transform.localScale = new Vector2(scaleDirection * newScaleValue, newScaleValue);
     }
 
     private void MoveGroundCheck() {
         float groundY = playerRigidBody.position.y + (playerCollider.offset.y - playerCollider.size.y / 2) * transform.localScale.y; // - groundCheckError;
-        groundGameObject.transform.position = new Vector2(0, groundY);
+        groundGameObject.transform.position = new Vector2(playerRigidBody.position.x, groundY);
     }
 
+    private void CalculateJumpVelocity() {
+        if(PlayerManager.Instance.playerState == PlayerState.JUMPING) {
+            jumpVelocity += gravity * gravityScale * Time.deltaTime;
+        }
+    }
+
+
     public void Move(Vector2 moveDirection, float currentSpeed) {
+        Vector2 slopedMoveDirection = new Vector2(moveDirection.x, moveDirection.y + moveDirection.x * slope).normalized;
         Vector2 position = playerRigidBody.position;
-        position.x = position.x + currentSpeed * moveDirection.x * Time.fixedDeltaTime;
-        position.y = position.y + currentSpeed * moveDirection.y * Time.fixedDeltaTime
-                   + currentSpeed * moveDirection.x * Time.fixedDeltaTime * slope;
+        position.x = position.x + currentSpeed * slopedMoveDirection.x * Time.fixedDeltaTime;
+        position.y = position.y + currentSpeed * slopedMoveDirection.y * Time.fixedDeltaTime;
 
         playerRigidBody.MovePosition(position);
         UpdateEntityOrder();
@@ -73,28 +89,20 @@ public class PlayerController : MonoBehaviour
             characterTransform.Translate(0, -characterTransform.localPosition.y, 0);
         }
     }
+    
 
-    public bool BeginJump(float gravityScale, float jumpPower) {
-        if(isJumping) {
-            jumpVelocity += gravity * gravityScale * Time.deltaTime;
-        }
-
-        if(Input.GetKeyDown(KeyCode.Space) && !isJumping) {
-            jumpVelocity = jumpPower;
-            isJumping = true;
+    public void BeginJump(float characterWeight, float jumpPower) {
+        jumpVelocity = jumpPower;
+        gravityScale = characterWeight;
             
-            InitEntityOrdering();
-            groundGameObject.SetActive(true);
-            return true;
-        }
-
-        return false;
+        InitEntityOrdering();
+        groundGameObject.SetActive(true);
     }
 
     public bool StopJump() {
         if(jumpVelocity < 0) {
             jumpVelocity = 0;
-            isJumping = false;
+            PlayerManager.Instance.SetPlayerState(PlayerState.LANDING);
 
             EndEntityOrdering();
             return true;
@@ -106,8 +114,7 @@ public class PlayerController : MonoBehaviour
     public void CheckDirection(float horizontalInput) {
         if((horizontalInput < 0 && isFacingRight) || (horizontalInput > 0 && !isFacingRight)) {
             isFacingRight = !isFacingRight;
-            scaleReference.x *= -1;
-            transform.localScale = scaleReference;
+            scaleDirection *= -1;
         }
     }
 

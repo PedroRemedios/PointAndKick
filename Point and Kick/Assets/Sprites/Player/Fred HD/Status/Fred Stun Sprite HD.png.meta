@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 1ba216315be528a4187bde033e8fee6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5855250228807934986
+    second: Fred Stun Sprite HD_0
+  - first:
+      213: 9064760904249811345
+    second: Fred Stun Sprite HD_1
+  - first:
+      213: -5075427342079005982
+    second: Fred Stun Sprite HD_2
+  - first:
+      213: 5702624631308806279
+    second: Fred Stun Sprite HD_3
+  - first:
+      213: -5541866415136486008
+    second: Fred Stun Sprite HD_4
+  - first:
+      213: -1107390868183823468
+    second: Fred Stun Sprite HD_5
+  - first:
+      213: -1614801682443974849
+    second: Fred Stun Sprite HD_6
+  - first:
+      213: -1826500562839557717
+    second: Fred Stun Sprite HD_7
+  - first:
+      213: 5328702523334192231
+    second: Fred Stun Sprite HD_8
+  - first:
+      213: 2325195637716265953
+    second: Fred Stun Sprite HD_9
+  - first:
+      213: 2298112682814628817
+    second: Fred Stun Sprite HD_10
+  - first:
+      213: -2733365118024751566
+    second: Fred Stun Sprite HD_11
+  - first:
+      213: -7885330262076156461
+    second: Fred Stun Sprite HD_12
+  - first:
+      213: 7644053230770189846
+    second: Fred Stun Sprite HD_13
+  - first:
+      213: -5251295061062158010
+    second: Fred Stun Sprite HD_14
+  - first:
+      213: -5115948971891765780
+    second: Fred Stun Sprite HD_15
+  - first:
+      213: -2963209663380768150
+    second: Fred Stun Sprite HD_16
+  - first:
+      213: 5670759191109287262
+    second: Fred Stun Sprite HD_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbd0e870f8fdbea0800000000000000
+      internalID: -5855250228807934986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a8a7e3008ccd70800000000000000
+      internalID: 9064760904249811345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea631029b57099b0800000000000000
+      internalID: -5075427342079005982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788ed8c63eac32f40800000000000000
+      internalID: 5702624631308806279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d4f158bd55713b0800000000000000
+      internalID: -5541866415136486008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b44626fd1c1a0f0800000000000000
+      internalID: -1107390868183823468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f374937ec621799e0800000000000000
+      internalID: -1614801682443974849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a5e15a67f6a6e0800000000000000
+      internalID: -1826500562839557717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_8
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cef0956ba53f940800000000000000
+      internalID: 5328702523334192231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_9
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebad53fc11c44020800000000000000
+      internalID: 2325195637716265953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d36cf02f4984ef10800000000000000
+      internalID: 2298112682814628817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e0ba38e2211ad0800000000000000
+      internalID: -2733365118024751566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_12
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d51058a7eda19290800000000000000
+      internalID: -7885330262076156461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_13
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616fb38d9e1251a60800000000000000
+      internalID: 7644053230770189846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64970aae6f6af17b0800000000000000
+      internalID: -5251295061062158010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedcd59f38f7009b0800000000000000
+      internalID: -5115948971891765780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a3f2bc28090e6d0800000000000000
+      internalID: -2963209663380768150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Stun Sprite HD_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5db9d8707592be40800000000000000
+      internalID: 5670759191109287262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
