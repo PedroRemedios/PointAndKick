@@ -8,6 +8,7 @@ TagManager:
   - Character
   - NPC
   - CM Camera
+  - Character Weapon
   layers:
   - Default
   - TransparentFX

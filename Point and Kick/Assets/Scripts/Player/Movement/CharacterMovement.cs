@@ -74,7 +74,7 @@ public class CharacterMovement : MonoBehaviour
     void Jump(InputAction.CallbackContext callbackContext) {
         if(GameManager.Instance.gameState == GameState.PLAY) {
             PlayerState playerState = PlayerManager.Instance.playerState;
-            if(playerState != PlayerState.JUMPING && playerState != PlayerState.LANDING) {
+            if(playerState == PlayerState.IDLING || playerState == PlayerState.MOVING) {
                 animator.SetBool("Jump", true);
                 playerController.BeginJump(gravityScale, jumpPower);
                 PlayerManager.Instance.SetPlayerState(PlayerState.JUMPING);

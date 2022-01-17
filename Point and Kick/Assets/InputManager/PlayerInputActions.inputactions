@@ -14,6 +14,14 @@
                     "interactions": ""
                 },
                 {
+                    "name": "Run",
+                    "type": "Button",
+                    "id": "1c43c8f2-ab28-47e8-abb5-d05d15ba5246",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
                     "name": "Jump",
                     "type": "Button",
                     "id": "18e6ef0d-8aec-40ba-8430-09293a8e3190",
@@ -30,9 +38,17 @@
                     "interactions": ""
                 },
                 {
-                    "name": "Run",
+                    "name": "Heavy Attack",
                     "type": "Button",
-                    "id": "1c43c8f2-ab28-47e8-abb5-d05d15ba5246",
+                    "id": "333eca50-88c6-42d8-b8eb-4a916e0ca009",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Diabolo Attack",
+                    "type": "Button",
+                    "id": "1b0ad733-89fc-4915-8bd7-10e3ad5f600b",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
@@ -154,7 +170,7 @@
                     "id": "e916fe40-c343-4d7e-a139-b1fe2d9f51ec",
                     "path": "<Gamepad>/leftStick",
                     "interactions": "",
-                    "processors": "",
+                    "processors": "StickDeadzone(min=0.125)",
                     "groups": "Gamepad",
                     "action": "Move",
                     "isComposite": false,
@@ -228,12 +244,34 @@
                 },
                 {
                     "name": "",
-                    "id": "fc948810-7807-401d-a94b-64db85f26817",
-                    "path": "<Keyboard>/leftShift",
+                    "id": "11154a89-104f-47c0-9836-911babda2f2c",
+                    "path": "<Gamepad>/buttonNorth",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Keyboard - Arrow Keys Setup;Keyboard - WASD Setup",
-                    "action": "Run",
+                    "groups": "Gamepad",
+                    "action": "Heavy Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dc31959e-751c-47f2-956b-38d4ca986fac",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard - Arrow Keys Setup",
+                    "action": "Heavy Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a2efb943-63f1-49e5-a0a6-ac8909a40bd4",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard - WASD Setup",
+                    "action": "Heavy Attack",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -245,6 +283,17 @@
                     "processors": "",
                     "groups": "Gamepad",
                     "action": "Run",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c98bf092-d892-4edd-a8a2-0178fea9f844",
+                    "path": "<Gamepad>/rightShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Diabolo Attack",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

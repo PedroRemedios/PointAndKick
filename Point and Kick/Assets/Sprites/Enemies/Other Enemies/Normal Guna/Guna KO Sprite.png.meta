@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: f9f414fd29c0f094fbce1d487eb5304f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1657676952751701710
+    second: Guna KO Sprite_0
+  - first:
+      213: -2132422678906866210
+    second: Guna KO Sprite_1
+  - first:
+      213: -1803308332276091370
+    second: Guna KO Sprite_2
+  - first:
+      213: -9183482137446243844
+    second: Guna KO Sprite_3
+  - first:
+      213: 2950713655019756159
+    second: Guna KO Sprite_4
+  - first:
+      213: -8562855650128977009
+    second: Guna KO Sprite_5
+  - first:
+      213: 5729575641172910592
+    second: Guna KO Sprite_6
+  - first:
+      213: -894952221762696934
+    second: Guna KO Sprite_7
+  - first:
+      213: 1919306460294340517
+    second: Guna KO Sprite_8
+  - first:
+      213: 1143811879352210583
+    second: Guna KO Sprite_9
+  - first:
+      213: 8154735587033694419
+    second: Guna KO Sprite_10
+  - first:
+      213: 2171544935188788116
+    second: Guna KO Sprite_11
+  - first:
+      213: 7812410271841678937
+    second: Guna KO Sprite_12
+  - first:
+      213: 3233538235563530796
+    second: Guna KO Sprite_13
+  - first:
+      213: -5542005331700742564
+    second: Guna KO Sprite_14
+  - first:
+      213: -738304248120329847
+    second: Guna KO Sprite_15
+  - first:
+      213: -216379987631051995
+    second: Guna KO Sprite_16
+  - first:
+      213: -4510334148084242163
+    second: Guna KO Sprite_17
+  - first:
+      213: 8761998177248784106
+    second: Guna KO Sprite_18
+  - first:
+      213: -2569146119138130196
+    second: Guna KO Sprite_19
+  - first:
+      213: -1958687599255812878
+    second: Guna KO Sprite_20
+  - first:
+      213: 911523232801450340
+    second: Guna KO Sprite_21
+  - first:
+      213: -7869223722351829780
+    second: Guna KO Sprite_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna KO Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecefd11e760410710800000000000000
+      internalID: 1657676952751701710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 5056
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f4c02fdc1862e0800000000000000
+      internalID: -2132422678906866210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5056
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6167e2a40ac59f6e0800000000000000
+      internalID: -1803308332276091370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 5056
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf12f54f6a7bd8080800000000000000
+      internalID: -9183482137446243844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5056
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad8598f6a03f820800000000000000
+      internalID: 2950713655019756159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83ad177720aa2980800000000000000
+      internalID: -8562855650128977009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3792
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a7d560ba838f40800000000000000
+      internalID: 5729575641172910592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3792
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1943ea22bd7493f0800000000000000
+      internalID: -894952221762696934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3792
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afd4f48e0fb2aa10800000000000000
+      internalID: 1919306460294340517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3792
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79419a618d2afdf00800000000000000
+      internalID: 1143811879352210583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0416e8fc07b2170800000000000000
+      internalID: 8154735587033694419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2528
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493f9bbfc90e22e10800000000000000
+      internalID: 2171544935188788116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2528
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567cb410c14b6c60800000000000000
+      internalID: 7812410271841678937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2528
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a586aa4e5dfdc20800000000000000
+      internalID: 3233538235563530796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2528
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5608ac7387d613b0800000000000000
+      internalID: -5542005331700742564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98930a2b23401c5f0800000000000000
+      internalID: -738304248120329847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1264
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b6fb43c834ffcf0800000000000000
+      internalID: -216379987631051995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1264
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ef153df21861c0800000000000000
+      internalID: -4510334148084242163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1264
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeea88d4beed89970800000000000000
+      internalID: 8761998177248784106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1264
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c2b0773f885cd0800000000000000
+      internalID: -2569146119138130196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4056c810851d4e0800000000000000
+      internalID: -1958687599255812878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46965affc8166ac00800000000000000
+      internalID: 911523232801450340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna KO Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 900
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec542ba7b6eac290800000000000000
+      internalID: -7869223722351829780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
