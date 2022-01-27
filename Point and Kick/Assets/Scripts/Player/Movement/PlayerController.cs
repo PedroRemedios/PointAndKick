@@ -6,8 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     private CapsuleCollider2D playerCollider;
     private Rigidbody2D playerRigidBody;
-    private GameObject groundGameObject;
-    public GameObject[] npcList;
+    private GameObject[] npcList;
 
     // Scaling Variables
     [SerializeField] private float scalePerUnit = 0.05f;
@@ -26,7 +25,6 @@ public class PlayerController : MonoBehaviour
     }
     
     // Jump Variables
-    private float groundCheckError = 0.015f;
     private float gravity = -9.81f;
     private float jumpVelocity = 0;
     private float gravityScale = 0;
@@ -35,20 +33,15 @@ public class PlayerController : MonoBehaviour
     private bool isFacingRight = true;
 
     void Awake() {
+        npcList = new GameObject[0];
+
         playerCollider = GetComponent<CapsuleCollider2D>();
         playerRigidBody = GetComponent<Rigidbody2D>();
-    }
-
-    void Start()
-    {
-        groundGameObject = GameObject.FindWithTag("Ground");
-        groundGameObject.SetActive(false);
     }
 
     void Update()
     {
         ScalePlayer();
-        MoveGroundCheck();
         CalculateJumpVelocity();
     }
 
@@ -59,11 +52,6 @@ public class PlayerController : MonoBehaviour
         float newScaleValue = 1 - (transform.position.y - scaleReferenceY) * scalePerUnit;
 
         transform.localScale = new Vector2(scaleDirection * newScaleValue, newScaleValue);
-    }
-
-    private void MoveGroundCheck() {
-        float groundY = playerRigidBody.position.y + (playerCollider.offset.y - playerCollider.size.y / 2) * transform.localScale.y; // - groundCheckError;
-        groundGameObject.transform.position = new Vector2(playerRigidBody.position.x, groundY);
     }
 
     private void CalculateJumpVelocity() {
@@ -96,7 +84,6 @@ public class PlayerController : MonoBehaviour
         gravityScale = characterWeight;
             
         InitEntityOrdering();
-        groundGameObject.SetActive(true);
     }
 
     public bool StopJump() {

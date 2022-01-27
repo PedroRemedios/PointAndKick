@@ -23,7 +23,7 @@ public class MapChanger : MonoBehaviour
 
     void Start()
     {
-        cameraConfinerComponent = GameObject.FindWithTag("CM Camera").GetComponent<CinemachineConfiner>();
+        cameraConfinerComponent = GameObject.FindWithTag("CM Camera").gameObject.transform.Find("CM Normal Camera").GetComponent<CinemachineConfiner>();
         player = GameObject.FindWithTag("Player");
     }
 

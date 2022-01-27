@@ -114,7 +114,7 @@ GameObject:
   - component: {fileID: 5823607887135849011}
   - component: {fileID: 5555426456864216175}
   - component: {fileID: 1987977448255930520}
-  - component: {fileID: 3859821200362602507}
+  - component: {fileID: 2449902679723430576}
   - component: {fileID: 1788683654426696113}
   m_Layer: 12
   m_Name: Fred
@@ -224,7 +224,7 @@ MonoBehaviour:
   runSpeed: 9
   jumpPower: 10
   gravityScale: 3
---- !u!114 &3859821200362602507
+--- !u!114 &2449902679723430576
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -233,9 +233,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 8880599333115111386}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8fc4627605dc02478075f1a3aee7b2f, type: 3}
+  m_Script: {fileID: 11500000, guid: c8fea032b67fca34ab8028f1114bab1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  totalHealth: 500
 --- !u!61 &1788683654426696113
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -249,7 +250,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.1, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.05}

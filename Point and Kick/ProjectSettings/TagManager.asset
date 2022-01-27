@@ -4,11 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
   - Character
   - NPC
   - CM Camera
   - Character Weapon
+  - Character Attack
+  - HP
+  - HP2
   layers:
   - Default
   - TransparentFX
@@ -25,8 +27,8 @@ TagManager:
   - Character
   - Environment
   - Ground Check
-  - 
-  - 
+  - Enemy
+  - Enemy GFX
   - 
   - 
   - 

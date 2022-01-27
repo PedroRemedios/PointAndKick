@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour {
             Destroy(this.gameObject);
         } else {
             instance = this;
+            Application.targetFrameRate = 200;
         }
     }
 

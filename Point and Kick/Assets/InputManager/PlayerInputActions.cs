@@ -65,9 +65,39 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """"
+                },
+                {
+                    ""name"": ""Guard Dodge"",
+                    ""type"": ""Button"",
+                    ""id"": ""fea17d8a-ae43-4f53-9b7d-d2a7d79f0a2a"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
                 }
             ],
             ""bindings"": [
+                {
+                    ""name"": """",
+                    ""id"": ""e916fe40-c343-4d7e-a139-b1fe2d9f51ec"",
+                    ""path"": ""<Gamepad>/leftStick"",
+                    ""interactions"": """",
+                    ""processors"": ""StickDeadzone(min=0.125)"",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""005903cf-ffef-4431-b724-98477452d40a"",
+                    ""path"": ""<Gamepad>/dpad"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
                 {
                     ""name"": ""Keyboard - WASD"",
                     ""id"": ""1daee12d-d951-457c-af51-faee88fa776a"",
@@ -180,23 +210,12 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""e916fe40-c343-4d7e-a139-b1fe2d9f51ec"",
-                    ""path"": ""<Gamepad>/leftStick"",
-                    ""interactions"": """",
-                    ""processors"": ""StickDeadzone(min=0.125)"",
-                    ""groups"": ""Gamepad"",
-                    ""action"": ""Move"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
-                    ""id"": ""005903cf-ffef-4431-b724-98477452d40a"",
-                    ""path"": ""<Gamepad>/dpad"",
+                    ""id"": ""6e8deab2-3d66-49a3-9d37-f19319b3ddf5"",
+                    ""path"": ""<Gamepad>/buttonSouth"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Gamepad"",
-                    ""action"": ""Move"",
+                    ""action"": ""Jump"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
@@ -213,22 +232,11 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""6e8deab2-3d66-49a3-9d37-f19319b3ddf5"",
-                    ""path"": ""<Gamepad>/buttonSouth"",
+                    ""id"": ""94b1c578-f7e9-4223-b1ec-c1d5a88a5e86"",
+                    ""path"": ""<Gamepad>/buttonWest"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Gamepad"",
-                    ""action"": ""Jump"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
-                    ""id"": ""c22f26d5-7c2f-4c2f-a344-082a922678c2"",
-                    ""path"": ""<Keyboard>/z"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": ""Keyboard - Arrow Keys Setup"",
                     ""action"": ""Light Attack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -246,11 +254,11 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""94b1c578-f7e9-4223-b1ec-c1d5a88a5e86"",
-                    ""path"": ""<Gamepad>/buttonWest"",
+                    ""id"": ""c22f26d5-7c2f-4c2f-a344-082a922678c2"",
+                    ""path"": ""<Keyboard>/z"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": ""Gamepad"",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
                     ""action"": ""Light Attack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -268,22 +276,22 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""dc31959e-751c-47f2-956b-38d4ca986fac"",
-                    ""path"": ""<Keyboard>/x"",
+                    ""id"": ""a2efb943-63f1-49e5-a0a6-ac8909a40bd4"",
+                    ""path"": ""<Keyboard>/k"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""groups"": ""Keyboard - WASD Setup"",
                     ""action"": ""Heavy Attack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
                 {
                     ""name"": """",
-                    ""id"": ""a2efb943-63f1-49e5-a0a6-ac8909a40bd4"",
-                    ""path"": ""<Keyboard>/k"",
+                    ""id"": ""dc31959e-751c-47f2-956b-38d4ca986fac"",
+                    ""path"": ""<Keyboard>/x"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
                     ""action"": ""Heavy Attack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -301,12 +309,56 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 },
                 {
                     ""name"": """",
+                    ""id"": ""78d25150-bea5-40c5-aabc-8fa910ce9325"",
+                    ""path"": ""<Keyboard>/leftShift"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup;Keyboard - Arrow Keys Setup"",
+                    ""action"": ""Run"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
                     ""id"": ""c98bf092-d892-4edd-a8a2-0178fea9f844"",
                     ""path"": ""<Gamepad>/rightShoulder"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Gamepad"",
                     ""action"": ""Diabolo Attack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""74632845-436b-4e29-8964-cf8ad1349b4b"",
+                    ""path"": ""<Keyboard>/l"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""action"": ""Diabolo Attack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""ac5d8b48-6532-4ce2-99fd-6b57546fe28d"",
+                    ""path"": ""<Keyboard>/c"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""action"": ""Diabolo Attack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""ab779bf0-aea0-46e6-9cbd-3a5937c726e0"",
+                    ""path"": ""<Gamepad>/rightTrigger"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Guard Dodge"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -357,6 +409,7 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         m_Player_LightAttack = m_Player.FindAction("Light Attack", throwIfNotFound: true);
         m_Player_HeavyAttack = m_Player.FindAction("Heavy Attack", throwIfNotFound: true);
         m_Player_DiaboloAttack = m_Player.FindAction("Diabolo Attack", throwIfNotFound: true);
+        m_Player_GuardDodge = m_Player.FindAction("Guard Dodge", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -412,6 +465,7 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
     private readonly InputAction m_Player_LightAttack;
     private readonly InputAction m_Player_HeavyAttack;
     private readonly InputAction m_Player_DiaboloAttack;
+    private readonly InputAction m_Player_GuardDodge;
     public struct PlayerActions
     {
         private @PlayerInputActions m_Wrapper;
@@ -422,6 +476,7 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         public InputAction @LightAttack => m_Wrapper.m_Player_LightAttack;
         public InputAction @HeavyAttack => m_Wrapper.m_Player_HeavyAttack;
         public InputAction @DiaboloAttack => m_Wrapper.m_Player_DiaboloAttack;
+        public InputAction @GuardDodge => m_Wrapper.m_Player_GuardDodge;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -449,6 +504,9 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 @DiaboloAttack.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDiaboloAttack;
                 @DiaboloAttack.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDiaboloAttack;
                 @DiaboloAttack.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDiaboloAttack;
+                @GuardDodge.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnGuardDodge;
+                @GuardDodge.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnGuardDodge;
+                @GuardDodge.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnGuardDodge;
             }
             m_Wrapper.m_PlayerActionsCallbackInterface = instance;
             if (instance != null)
@@ -471,6 +529,9 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 @DiaboloAttack.started += instance.OnDiaboloAttack;
                 @DiaboloAttack.performed += instance.OnDiaboloAttack;
                 @DiaboloAttack.canceled += instance.OnDiaboloAttack;
+                @GuardDodge.started += instance.OnGuardDodge;
+                @GuardDodge.performed += instance.OnGuardDodge;
+                @GuardDodge.canceled += instance.OnGuardDodge;
             }
         }
     }
@@ -510,5 +571,6 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         void OnLightAttack(InputAction.CallbackContext context);
         void OnHeavyAttack(InputAction.CallbackContext context);
         void OnDiaboloAttack(InputAction.CallbackContext context);
+        void OnGuardDodge(InputAction.CallbackContext context);
     }
 }

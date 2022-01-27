@@ -2,13 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[ExecuteInEditMode]
 public class ParallaxBackground : MonoBehaviour
 {
     public ParallaxCamera parallaxCamera;
     List<ParallaxLayer> parallaxLayers = new List<ParallaxLayer>();
+    private float xDifference;
 
     void Start() {
+        xDifference = transform.position.x;
         if (parallaxCamera == null)
             parallaxCamera = Camera.main.GetComponent<ParallaxCamera>();
         if (parallaxCamera != null)
@@ -29,7 +30,7 @@ public class ParallaxBackground : MonoBehaviour
 
     void Move(float delta) {
         foreach (ParallaxLayer layer in parallaxLayers) {
-            layer.Move(delta);
+            layer.Move(delta, xDifference);
         }
     }
 }

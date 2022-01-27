@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum PlayerState { IDLING, MOVING, JUMPING, LANDING, ATTACKING }
+public enum PlayerState { IDLING, MOVING, JUMPING, LANDING, ATTACKING, DODGING, HIT, DOWN, DEAD }
 
 public class PlayerManager : MonoBehaviour
 {
