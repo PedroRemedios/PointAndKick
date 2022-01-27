@@ -34,7 +34,7 @@ public class StairsMovement : MonoBehaviour
             playerController.groundSlope = slope;
             float playerX = other.gameObject.transform.position.x;
 
-            if(gameState == GameState.PLAY) {
+            if(gameState == GameState.EXPLORATION) {
                 if(playerX < centerX) {
                     playerController.scaleInclineBound = minX;
                 }

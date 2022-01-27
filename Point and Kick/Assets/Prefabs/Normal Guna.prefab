@@ -219,7 +219,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b7119f5dac00b4aac5cfdc7109addc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetPosition: {fileID: 0}
   speed: 3
   nextWaypointDistance: 1
 --- !u!114 &7356704576244401252
@@ -256,9 +255,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 548962a2313f8fd4393ea08dc2e3995a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemyState: 0
   totalHealth: 100
   damageVulnerability: 1
-  speed: 3
+  speed: 4
 --- !u!50 &7356704576244401258
 Rigidbody2D:
   serializedVersion: 4

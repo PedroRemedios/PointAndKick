@@ -28,29 +28,19 @@ public class CharacterMovement : MonoBehaviour
     private float runInputTime = Mathf.NegativeInfinity; 
 
     void Awake() {
-        currentSpeed = walkSpeed;
-
-        animator = GetComponent<Animator>();
         groundCollider = GetComponent<BoxCollider2D>();
-        playerInputActions = new PlayerInputActions();
-        playerInputActions.Player.Enable();
-
-        playerInputActions.Player.Jump.performed += Jump;
-        playerInputActions.Player.GuardDodge.started += GuardAndDodge;
-
-        // Shift / LB Run
-        // playerInputActions.Player.Run.performed += RunStart;
-        // playerInputActions.Player.Run.canceled += RunStop;
-
-        // Double Tap Run
-        playerInputActions.Player.Move.performed += DoubleTapRunStart;
-        playerInputActions.Player.Move.canceled += DoubleTapRunStop;
-
+        animator = GetComponent<Animator>();
+        currentSpeed = walkSpeed;
+        
         PlayerManager.OnPlayerStateChange += MovementOnPlayerStateChange;
     }
 
     void Start() {
         playerController = GameObject.FindWithTag("Player").GetComponent<PlayerController>();
+
+        playerInputActions = InputManager.Instance.GetPlayerInputActions();
+        DefineExplorationMovementActions();
+        DefineCombatMovementActions();
     }
 
     void Update() {
@@ -63,11 +53,30 @@ public class CharacterMovement : MonoBehaviour
         playerController.Jump(transform);
     }
 
+    private void DefineExplorationMovementActions() {
+        playerInputActions.Exploration.Jump.performed += Jump;
+        playerInputActions.Exploration.Move.performed += DoubleTapRunStart;
+        playerInputActions.Exploration.Move.canceled += DoubleTapRunStop; 
+
+        // playerInputActions.Combat.Run.performed += RunStart;
+        // playerInputActions.Combat.Run.canceled += RunStop;
+    }
+
+    private void DefineCombatMovementActions() {
+        playerInputActions.Combat.Jump.performed += Jump;
+        playerInputActions.Combat.Move.performed += DoubleTapRunStart;
+        playerInputActions.Combat.Move.canceled += DoubleTapRunStop;
+        playerInputActions.Combat.GuardDodge.started += GuardAndDodge;
+
+        // playerInputActions.Combat.Run.performed += RunStart;
+        // playerInputActions.Combat.Run.canceled += RunStop;
+    }
+
     void Move() {
-        if(GameManager.Instance.gameState == GameState.PLAY) {
+        if(GameManager.Instance.gameState == GameState.EXPLORATION || GameManager.Instance.gameState == GameState.COMBAT) {
             PlayerState playerState = PlayerManager.Instance.playerState;
             if(playerState == PlayerState.IDLING || playerState == PlayerState.MOVING || playerState == PlayerState.JUMPING) {
-                moveDirection = playerInputActions.Player.Move.ReadValue<Vector2>();
+                moveDirection = playerInputActions.Exploration.enabled ? playerInputActions.Exploration.Move.ReadValue<Vector2>() : playerInputActions.Combat.Move.ReadValue<Vector2>();
                 playerController.CheckDirection(moveDirection.x);
 
                 float movementSpeed = moveDirection.magnitude;
@@ -118,7 +127,7 @@ public class CharacterMovement : MonoBehaviour
 	/// Executed when the Jump Input is pressed (Spacebar - Keyboard, Button South - Gamepad).
 	/// </summary>
     void Jump(InputAction.CallbackContext callbackContext) {
-        if(GameManager.Instance.gameState == GameState.PLAY) {
+        if(GameManager.Instance.gameState == GameState.EXPLORATION || GameManager.Instance.gameState == GameState.COMBAT) {
             PlayerState playerState = PlayerManager.Instance.playerState;
             if(playerState == PlayerState.IDLING || playerState == PlayerState.MOVING) {
                 animator.SetBool("Jump", true);
@@ -207,7 +216,7 @@ public class CharacterMovement : MonoBehaviour
     }
 
     void GuardAndDodge(InputAction.CallbackContext callbackContext) {
-        if(GameManager.Instance.gameState == GameState.PLAY) {
+        if(GameManager.Instance.gameState == GameState.COMBAT) {
             PlayerState playerState = PlayerManager.Instance.playerState;
             if(playerState == PlayerState.IDLING || playerState == PlayerState.MOVING) {
                 // If the Player is moving - GUARD

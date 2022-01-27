@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class PlayerCombat : MonoBehaviour
 {
-    private PlayerInputActions playerInputActions;
     private PlayerAttack playerAttack;
     private Animator characterAnimator;
     private Animator diaboloAnimator;
@@ -16,26 +15,27 @@ public class PlayerCombat : MonoBehaviour
     [SerializeField] private float totalHealth = 500;
     private float currentHealth;
     private Text textCoiso;
-    void Awake()
-    {
+    private void Awake() {
         characterAnimator = GetComponent<Animator>();
-        playerAttack = GameObject.FindWithTag("Character Attack").GetComponent<PlayerAttack>();
-
-        playerInputActions = new PlayerInputActions();
-        playerInputActions.Player.Enable();
-
-        playerInputActions.Player.LightAttack.performed += LightAttack;
-        playerInputActions.Player.HeavyAttack.performed += HeavyAttack;
-        playerInputActions.Player.DiaboloAttack.started += DiaboloAttackPressed;
-        playerInputActions.Player.DiaboloAttack.canceled += DiaboloAttackReleased;
+        currentHealth = totalHealth;
 
         PlayerManager.OnPlayerStateChange += CombatOnPlayerStateChange;
-        currentHealth = totalHealth;
     }
 
-    void Start() {
+    private void Start() {
         diaboloAnimator = transform.GetChild(0).gameObject.GetComponent<Animator>();
+        playerAttack = GameObject.FindWithTag("Character Attack").GetComponent<PlayerAttack>();
         textCoiso = GameObject.FindWithTag("HP2").GetComponent<Text>();
+
+        PlayerInputActions playerInputActions = InputManager.Instance.GetPlayerInputActions();
+        DefineCombatActions(playerInputActions);
+    }
+
+    private void DefineCombatActions(PlayerInputActions playerInputActions) {
+        playerInputActions.Combat.LightAttack.performed += LightAttack;
+        playerInputActions.Combat.HeavyAttack.performed += HeavyAttack;
+        playerInputActions.Combat.DiaboloAttack.started += DiaboloAttackPressed;
+        playerInputActions.Combat.DiaboloAttack.canceled += DiaboloAttackReleased;
     }
 
     void CombatOnPlayerStateChange(PlayerState state) {

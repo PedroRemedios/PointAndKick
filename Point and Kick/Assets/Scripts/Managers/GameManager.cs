@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum GameState { PLAY, PAUSE, TRANSITION_BEGIN, TRANSITION_END }
+public enum GameState { EXPLORATION, COMBAT, PAUSE, TRANSITION_BEGIN, TRANSITION_END }
 
 public class GameManager : MonoBehaviour {
     protected GameManager() {}
@@ -26,12 +26,12 @@ public class GameManager : MonoBehaviour {
     }
 
     void Start() {
-        SetGameState(GameState.PLAY);
+        SetGameState(GameState.EXPLORATION);
     }
 
     public void SetGameState(GameState state){
         this.gameState = state;
-        // OnStateChange(state);
+        OnGameStateChange(state);
     }
 
     public void OnDestroy(){

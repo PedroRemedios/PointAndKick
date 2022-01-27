@@ -35,7 +35,7 @@ public class MapChanger : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other) {
         if(other.gameObject.CompareTag("Player")) {
             GameState gameState = GameManager.Instance.gameState;
-            if(gameState == GameState.PLAY) {
+            if(gameState == GameState.EXPLORATION) {
                 GameManager.Instance.SetGameState(GameState.TRANSITION_BEGIN);
                 StartCoroutine(ChangeMap(other.transform.localScale.x));
             }
@@ -45,7 +45,7 @@ public class MapChanger : MonoBehaviour
     private void OnTriggerExit2D(Collider2D other) {
         GameState gameState = GameManager.Instance.gameState;
         if(gameState == GameState.TRANSITION_END) {
-            GameManager.Instance.SetGameState(GameState.PLAY);
+            GameManager.Instance.SetGameState(GameState.EXPLORATION);
         }
     }
     

@@ -15,7 +15,215 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
     ""name"": ""PlayerInputActions"",
     ""maps"": [
         {
-            ""name"": ""Player"",
+            ""name"": ""Exploration"",
+            ""id"": ""9f0b27cc-1ae9-4481-b566-ce5dfaf796fa"",
+            ""actions"": [
+                {
+                    ""name"": ""Move"",
+                    ""type"": ""Value"",
+                    ""id"": ""6d928a85-b8b7-4910-8335-d7770485ac13"",
+                    ""expectedControlType"": ""Vector2"",
+                    ""processors"": ""NormalizeVector2"",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""Run"",
+                    ""type"": ""Button"",
+                    ""id"": ""02d29b17-5913-4117-81fa-7298bfe2deaf"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""Jump"",
+                    ""type"": ""Button"",
+                    ""id"": ""27f7edfb-a7a2-4779-8263-4b489d67c950"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                }
+            ],
+            ""bindings"": [
+                {
+                    ""name"": """",
+                    ""id"": ""798cfdf2-f9f9-4ab3-921a-e00e86892198"",
+                    ""path"": ""<Gamepad>/leftShoulder"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Run"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""a7ae2a99-56a0-4d6b-9d6a-99b43de3f92f"",
+                    ""path"": ""<Keyboard>/leftShift"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup;Keyboard - Arrow Keys Setup"",
+                    ""action"": ""Run"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""1c0861ba-4306-4779-a008-ec1830e7c1ec"",
+                    ""path"": ""<Gamepad>/leftStick"",
+                    ""interactions"": """",
+                    ""processors"": ""StickDeadzone(min=0.125)"",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""e8cfbda3-5bda-4bcd-84a3-339bbcd0bd36"",
+                    ""path"": ""<Gamepad>/dpad"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": ""Keyboard - WASD"",
+                    ""id"": ""14a8c6c7-657a-4dc2-9177-2ed3a5eb940d"",
+                    ""path"": ""2DVector(mode=2)"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Move"",
+                    ""isComposite"": true,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": ""up"",
+                    ""id"": ""895f5623-20a8-43ad-86d3-66040df8f8c8"",
+                    ""path"": ""<Keyboard>/w"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""down"",
+                    ""id"": ""8e94f53b-5377-4577-a23f-8c3b176e0c5e"",
+                    ""path"": ""<Keyboard>/s"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""left"",
+                    ""id"": ""74764b83-5fc7-443c-8a4e-1a803cdd83e3"",
+                    ""path"": ""<Keyboard>/a"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""right"",
+                    ""id"": ""cef39df5-76f0-4262-9065-bf6b9a3bd24e"",
+                    ""path"": ""<Keyboard>/d"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""Keyboard - Arrow Keys"",
+                    ""id"": ""001f8bd6-2eec-4bb2-9132-c5bdcfa732b2"",
+                    ""path"": ""2DVector(mode=2)"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Move"",
+                    ""isComposite"": true,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": ""up"",
+                    ""id"": ""d73afedc-ba78-4d11-aa4f-e43815e863d7"",
+                    ""path"": ""<Keyboard>/upArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""down"",
+                    ""id"": ""7b7c1085-bb8b-4511-b7e0-ca17ceb1e9e6"",
+                    ""path"": ""<Keyboard>/downArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""left"",
+                    ""id"": ""56eb355a-6bc6-497f-9d6b-1661da7cbab4"",
+                    ""path"": ""<Keyboard>/leftArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""right"",
+                    ""id"": ""4708a732-8f68-4ea0-b573-6bc02e3c1eaf"",
+                    ""path"": ""<Keyboard>/rightArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""5effa0c3-3f93-495b-801d-154b0a9ba7e2"",
+                    ""path"": ""<Gamepad>/buttonSouth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Jump"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""ae6509d3-5901-46cb-9e87-c0942b557476"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
+                    ""action"": ""Jump"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                }
+            ]
+        },
+        {
+            ""name"": ""Combat"",
             ""id"": ""eab3093d-d3da-4ac3-b67b-32f494d12e58"",
             ""actions"": [
                 {
@@ -363,6 +571,12 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                     ""isPartOfComposite"": false
                 }
             ]
+        },
+        {
+            ""name"": ""UI"",
+            ""id"": ""ee2ccce4-f930-4980-99d3-ac55ca76d91a"",
+            ""actions"": [],
+            ""bindings"": []
         }
     ],
     ""controlSchemes"": [
@@ -401,15 +615,22 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         }
     ]
 }");
-        // Player
-        m_Player = asset.FindActionMap("Player", throwIfNotFound: true);
-        m_Player_Move = m_Player.FindAction("Move", throwIfNotFound: true);
-        m_Player_Run = m_Player.FindAction("Run", throwIfNotFound: true);
-        m_Player_Jump = m_Player.FindAction("Jump", throwIfNotFound: true);
-        m_Player_LightAttack = m_Player.FindAction("Light Attack", throwIfNotFound: true);
-        m_Player_HeavyAttack = m_Player.FindAction("Heavy Attack", throwIfNotFound: true);
-        m_Player_DiaboloAttack = m_Player.FindAction("Diabolo Attack", throwIfNotFound: true);
-        m_Player_GuardDodge = m_Player.FindAction("Guard Dodge", throwIfNotFound: true);
+        // Exploration
+        m_Exploration = asset.FindActionMap("Exploration", throwIfNotFound: true);
+        m_Exploration_Move = m_Exploration.FindAction("Move", throwIfNotFound: true);
+        m_Exploration_Run = m_Exploration.FindAction("Run", throwIfNotFound: true);
+        m_Exploration_Jump = m_Exploration.FindAction("Jump", throwIfNotFound: true);
+        // Combat
+        m_Combat = asset.FindActionMap("Combat", throwIfNotFound: true);
+        m_Combat_Move = m_Combat.FindAction("Move", throwIfNotFound: true);
+        m_Combat_Run = m_Combat.FindAction("Run", throwIfNotFound: true);
+        m_Combat_Jump = m_Combat.FindAction("Jump", throwIfNotFound: true);
+        m_Combat_LightAttack = m_Combat.FindAction("Light Attack", throwIfNotFound: true);
+        m_Combat_HeavyAttack = m_Combat.FindAction("Heavy Attack", throwIfNotFound: true);
+        m_Combat_DiaboloAttack = m_Combat.FindAction("Diabolo Attack", throwIfNotFound: true);
+        m_Combat_GuardDodge = m_Combat.FindAction("Guard Dodge", throwIfNotFound: true);
+        // UI
+        m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -456,59 +677,108 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         asset.Disable();
     }
 
-    // Player
-    private readonly InputActionMap m_Player;
-    private IPlayerActions m_PlayerActionsCallbackInterface;
-    private readonly InputAction m_Player_Move;
-    private readonly InputAction m_Player_Run;
-    private readonly InputAction m_Player_Jump;
-    private readonly InputAction m_Player_LightAttack;
-    private readonly InputAction m_Player_HeavyAttack;
-    private readonly InputAction m_Player_DiaboloAttack;
-    private readonly InputAction m_Player_GuardDodge;
-    public struct PlayerActions
+    // Exploration
+    private readonly InputActionMap m_Exploration;
+    private IExplorationActions m_ExplorationActionsCallbackInterface;
+    private readonly InputAction m_Exploration_Move;
+    private readonly InputAction m_Exploration_Run;
+    private readonly InputAction m_Exploration_Jump;
+    public struct ExplorationActions
     {
         private @PlayerInputActions m_Wrapper;
-        public PlayerActions(@PlayerInputActions wrapper) { m_Wrapper = wrapper; }
-        public InputAction @Move => m_Wrapper.m_Player_Move;
-        public InputAction @Run => m_Wrapper.m_Player_Run;
-        public InputAction @Jump => m_Wrapper.m_Player_Jump;
-        public InputAction @LightAttack => m_Wrapper.m_Player_LightAttack;
-        public InputAction @HeavyAttack => m_Wrapper.m_Player_HeavyAttack;
-        public InputAction @DiaboloAttack => m_Wrapper.m_Player_DiaboloAttack;
-        public InputAction @GuardDodge => m_Wrapper.m_Player_GuardDodge;
-        public InputActionMap Get() { return m_Wrapper.m_Player; }
+        public ExplorationActions(@PlayerInputActions wrapper) { m_Wrapper = wrapper; }
+        public InputAction @Move => m_Wrapper.m_Exploration_Move;
+        public InputAction @Run => m_Wrapper.m_Exploration_Run;
+        public InputAction @Jump => m_Wrapper.m_Exploration_Jump;
+        public InputActionMap Get() { return m_Wrapper.m_Exploration; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
         public bool enabled => Get().enabled;
-        public static implicit operator InputActionMap(PlayerActions set) { return set.Get(); }
-        public void SetCallbacks(IPlayerActions instance)
+        public static implicit operator InputActionMap(ExplorationActions set) { return set.Get(); }
+        public void SetCallbacks(IExplorationActions instance)
         {
-            if (m_Wrapper.m_PlayerActionsCallbackInterface != null)
+            if (m_Wrapper.m_ExplorationActionsCallbackInterface != null)
             {
-                @Move.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnMove;
-                @Move.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnMove;
-                @Move.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnMove;
-                @Run.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnRun;
-                @Run.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnRun;
-                @Run.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnRun;
-                @Jump.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnJump;
-                @Jump.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnJump;
-                @Jump.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnJump;
-                @LightAttack.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnLightAttack;
-                @LightAttack.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnLightAttack;
-                @LightAttack.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnLightAttack;
-                @HeavyAttack.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnHeavyAttack;
-                @HeavyAttack.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnHeavyAttack;
-                @HeavyAttack.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnHeavyAttack;
-                @DiaboloAttack.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDiaboloAttack;
-                @DiaboloAttack.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDiaboloAttack;
-                @DiaboloAttack.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDiaboloAttack;
-                @GuardDodge.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnGuardDodge;
-                @GuardDodge.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnGuardDodge;
-                @GuardDodge.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnGuardDodge;
+                @Move.started -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnMove;
+                @Move.performed -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnMove;
+                @Move.canceled -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnMove;
+                @Run.started -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnRun;
+                @Run.performed -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnRun;
+                @Run.canceled -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnRun;
+                @Jump.started -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnJump;
+                @Jump.performed -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnJump;
+                @Jump.canceled -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnJump;
             }
-            m_Wrapper.m_PlayerActionsCallbackInterface = instance;
+            m_Wrapper.m_ExplorationActionsCallbackInterface = instance;
+            if (instance != null)
+            {
+                @Move.started += instance.OnMove;
+                @Move.performed += instance.OnMove;
+                @Move.canceled += instance.OnMove;
+                @Run.started += instance.OnRun;
+                @Run.performed += instance.OnRun;
+                @Run.canceled += instance.OnRun;
+                @Jump.started += instance.OnJump;
+                @Jump.performed += instance.OnJump;
+                @Jump.canceled += instance.OnJump;
+            }
+        }
+    }
+    public ExplorationActions @Exploration => new ExplorationActions(this);
+
+    // Combat
+    private readonly InputActionMap m_Combat;
+    private ICombatActions m_CombatActionsCallbackInterface;
+    private readonly InputAction m_Combat_Move;
+    private readonly InputAction m_Combat_Run;
+    private readonly InputAction m_Combat_Jump;
+    private readonly InputAction m_Combat_LightAttack;
+    private readonly InputAction m_Combat_HeavyAttack;
+    private readonly InputAction m_Combat_DiaboloAttack;
+    private readonly InputAction m_Combat_GuardDodge;
+    public struct CombatActions
+    {
+        private @PlayerInputActions m_Wrapper;
+        public CombatActions(@PlayerInputActions wrapper) { m_Wrapper = wrapper; }
+        public InputAction @Move => m_Wrapper.m_Combat_Move;
+        public InputAction @Run => m_Wrapper.m_Combat_Run;
+        public InputAction @Jump => m_Wrapper.m_Combat_Jump;
+        public InputAction @LightAttack => m_Wrapper.m_Combat_LightAttack;
+        public InputAction @HeavyAttack => m_Wrapper.m_Combat_HeavyAttack;
+        public InputAction @DiaboloAttack => m_Wrapper.m_Combat_DiaboloAttack;
+        public InputAction @GuardDodge => m_Wrapper.m_Combat_GuardDodge;
+        public InputActionMap Get() { return m_Wrapper.m_Combat; }
+        public void Enable() { Get().Enable(); }
+        public void Disable() { Get().Disable(); }
+        public bool enabled => Get().enabled;
+        public static implicit operator InputActionMap(CombatActions set) { return set.Get(); }
+        public void SetCallbacks(ICombatActions instance)
+        {
+            if (m_Wrapper.m_CombatActionsCallbackInterface != null)
+            {
+                @Move.started -= m_Wrapper.m_CombatActionsCallbackInterface.OnMove;
+                @Move.performed -= m_Wrapper.m_CombatActionsCallbackInterface.OnMove;
+                @Move.canceled -= m_Wrapper.m_CombatActionsCallbackInterface.OnMove;
+                @Run.started -= m_Wrapper.m_CombatActionsCallbackInterface.OnRun;
+                @Run.performed -= m_Wrapper.m_CombatActionsCallbackInterface.OnRun;
+                @Run.canceled -= m_Wrapper.m_CombatActionsCallbackInterface.OnRun;
+                @Jump.started -= m_Wrapper.m_CombatActionsCallbackInterface.OnJump;
+                @Jump.performed -= m_Wrapper.m_CombatActionsCallbackInterface.OnJump;
+                @Jump.canceled -= m_Wrapper.m_CombatActionsCallbackInterface.OnJump;
+                @LightAttack.started -= m_Wrapper.m_CombatActionsCallbackInterface.OnLightAttack;
+                @LightAttack.performed -= m_Wrapper.m_CombatActionsCallbackInterface.OnLightAttack;
+                @LightAttack.canceled -= m_Wrapper.m_CombatActionsCallbackInterface.OnLightAttack;
+                @HeavyAttack.started -= m_Wrapper.m_CombatActionsCallbackInterface.OnHeavyAttack;
+                @HeavyAttack.performed -= m_Wrapper.m_CombatActionsCallbackInterface.OnHeavyAttack;
+                @HeavyAttack.canceled -= m_Wrapper.m_CombatActionsCallbackInterface.OnHeavyAttack;
+                @DiaboloAttack.started -= m_Wrapper.m_CombatActionsCallbackInterface.OnDiaboloAttack;
+                @DiaboloAttack.performed -= m_Wrapper.m_CombatActionsCallbackInterface.OnDiaboloAttack;
+                @DiaboloAttack.canceled -= m_Wrapper.m_CombatActionsCallbackInterface.OnDiaboloAttack;
+                @GuardDodge.started -= m_Wrapper.m_CombatActionsCallbackInterface.OnGuardDodge;
+                @GuardDodge.performed -= m_Wrapper.m_CombatActionsCallbackInterface.OnGuardDodge;
+                @GuardDodge.canceled -= m_Wrapper.m_CombatActionsCallbackInterface.OnGuardDodge;
+            }
+            m_Wrapper.m_CombatActionsCallbackInterface = instance;
             if (instance != null)
             {
                 @Move.started += instance.OnMove;
@@ -535,7 +805,32 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
             }
         }
     }
-    public PlayerActions @Player => new PlayerActions(this);
+    public CombatActions @Combat => new CombatActions(this);
+
+    // UI
+    private readonly InputActionMap m_UI;
+    private IUIActions m_UIActionsCallbackInterface;
+    public struct UIActions
+    {
+        private @PlayerInputActions m_Wrapper;
+        public UIActions(@PlayerInputActions wrapper) { m_Wrapper = wrapper; }
+        public InputActionMap Get() { return m_Wrapper.m_UI; }
+        public void Enable() { Get().Enable(); }
+        public void Disable() { Get().Disable(); }
+        public bool enabled => Get().enabled;
+        public static implicit operator InputActionMap(UIActions set) { return set.Get(); }
+        public void SetCallbacks(IUIActions instance)
+        {
+            if (m_Wrapper.m_UIActionsCallbackInterface != null)
+            {
+            }
+            m_Wrapper.m_UIActionsCallbackInterface = instance;
+            if (instance != null)
+            {
+            }
+        }
+    }
+    public UIActions @UI => new UIActions(this);
     private int m_KeyboardArrowKeysSetupSchemeIndex = -1;
     public InputControlScheme KeyboardArrowKeysSetupScheme
     {
@@ -563,7 +858,13 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
             return asset.controlSchemes[m_KeyboardWASDSetupSchemeIndex];
         }
     }
-    public interface IPlayerActions
+    public interface IExplorationActions
+    {
+        void OnMove(InputAction.CallbackContext context);
+        void OnRun(InputAction.CallbackContext context);
+        void OnJump(InputAction.CallbackContext context);
+    }
+    public interface ICombatActions
     {
         void OnMove(InputAction.CallbackContext context);
         void OnRun(InputAction.CallbackContext context);
@@ -572,5 +873,8 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         void OnHeavyAttack(InputAction.CallbackContext context);
         void OnDiaboloAttack(InputAction.CallbackContext context);
         void OnGuardDodge(InputAction.CallbackContext context);
+    }
+    public interface IUIActions
+    {
     }
 }

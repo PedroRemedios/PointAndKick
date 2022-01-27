@@ -22,7 +22,7 @@ public class SpawnManager : MonoBehaviour
     private Animator cinemachineAnimator;
     private BoxCollider2D combatTrigger;
     private EdgeCollider2D combatBorder;
-    private bool inCombat = false;
+    private bool inCombat;
 
     public InputAction testExit;
 
@@ -44,6 +44,7 @@ public class SpawnManager : MonoBehaviour
     void Start() {
         cinemachineConfiner = GameObject.FindWithTag("CM Camera").transform.Find("CM Combat Camera").GetComponent<CinemachineConfiner>();
         cinemachineAnimator = GameObject.FindWithTag("CM Camera").GetComponent<Animator>();
+        inCombat = GameManager.Instance.gameState == GameState.COMBAT;
 
         if (combatRounds.Count == 0) {
             spawnMethod = SpawnMethod.INFINITE;
@@ -83,6 +84,9 @@ public class SpawnManager : MonoBehaviour
     }
 
     private void EnterCombat() {
+        GameManager.Instance.SetGameState(GameState.COMBAT);
+        inCombat = true;
+
         // Change the Combat Camera confiner to the attached area
         PolygonCollider2D newCameraConfinerObject = transform.Find("Camera Confiner").GetComponent<PolygonCollider2D>();
         cinemachineConfiner.m_BoundingShape2D = newCameraConfinerObject;
@@ -91,18 +95,17 @@ public class SpawnManager : MonoBehaviour
         cinemachineAnimator.Play("Combat Camera");
         combatBorder.enabled = true;
         combatTrigger.enabled = false;
-
-        inCombat = true;
     }
 
     private void ExitCombat() {
         if (inCombat) {
+            GameManager.Instance.SetGameState(GameState.EXPLORATION);
+            inCombat = false;
+
             // Change to the Normal Camera and disable the area border
             cinemachineAnimator.Play("Normal Camera");
             combatBorder.enabled = false;
             combatTrigger.enabled = true;
-            
-            inCombat = false;
         }
     }
 
