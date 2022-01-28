@@ -18,7 +18,8 @@ public class FredDiaboloHeavyEnd : StateMachineBehaviour
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
-        PlayerManager.Instance.SetPlayerState(PlayerState.IDLING);
+        if(!animator.GetBool("tookDamage"))
+            PlayerManager.Instance.SetPlayerState(PlayerState.IDLING);
         
         animator.SetBool("Light Attack", false);
         animator.SetBool("Heavy Attack", false);

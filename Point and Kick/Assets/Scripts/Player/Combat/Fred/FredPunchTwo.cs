@@ -38,7 +38,8 @@ public class FredPunchTwo : StateMachineBehaviour
             animator.Play("Fred Uppercut");
         }
         else {
-            PlayerManager.Instance.SetPlayerState(PlayerState.IDLING);
+            if(!animator.GetBool("tookDamage"))
+                PlayerManager.Instance.SetPlayerState(PlayerState.IDLING);
             
             animator.SetBool("Light Attack", false);
             animator.SetBool("Heavy Attack", false);

@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class PlayerCombat : MonoBehaviour
 {
+    [SerializeField] private PlayerState playerState1;
     private PlayerAttack playerAttack;
     private Animator characterAnimator;
     private Animator diaboloAnimator;
@@ -39,6 +40,7 @@ public class PlayerCombat : MonoBehaviour
     }
 
     void CombatOnPlayerStateChange(PlayerState state) {
+        playerState1 = state;
         if(state != PlayerState.ATTACKING) {
             attackInProgress = false;
         }
@@ -51,6 +53,8 @@ public class PlayerCombat : MonoBehaviour
         PlayerState playerState = PlayerManager.Instance.playerState;
         if(playerState != PlayerState.DOWN && playerState != PlayerState.DEAD) {
             currentHealth -= damageTaken;
+            characterAnimator.SetBool("tookDamage", true);
+            diaboloAnimator.SetBool("tookDamage", true);
 
             if(currentHealth <= 0) {
                 currentHealth = 0;
@@ -157,5 +161,6 @@ public class PlayerCombat : MonoBehaviour
 
     public void BackToNormal() {
         PlayerManager.Instance.SetPlayerState(PlayerState.IDLING);
+        characterAnimator.SetBool("tookDamage", false);
     }
 }

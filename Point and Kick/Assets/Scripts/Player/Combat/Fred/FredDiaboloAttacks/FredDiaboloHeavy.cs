@@ -30,10 +30,16 @@ public class FredDiaboloHeavy : StateMachineBehaviour
     //}
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
-    //override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    
-    //}
+    override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
+        if(animator.GetBool("tookDamage")) {
+            animator.SetBool("Light Attack", false);
+            animator.SetBool("Heavy Attack", false);
+            animator.SetBool("Diabolo Light Attack", false);
+            animator.SetBool("Diabolo Heavy Attack", false);
+            animator.SetInteger("Combo", 0);
+        }
+        
+    }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()
     //override public void OnStateMove(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
