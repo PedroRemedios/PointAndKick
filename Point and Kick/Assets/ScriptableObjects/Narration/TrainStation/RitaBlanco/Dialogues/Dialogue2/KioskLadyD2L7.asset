@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538794310c74eab4dabd0f97e906e187, type: 3}
+  m_Name: KioskLadyD2L7
+  m_EditorClassIdentifier: 
+  dialogueSpeaker: {fileID: 11400000, guid: 996727b2ae0b79f48ac3171165a05660, type: 2}
+  dialogueLine: Crap! Do you know who took it?
+  nextLine: {fileID: 11400000, guid: 7c98acb47b1aaaa42865f065ebde6f78, type: 2}

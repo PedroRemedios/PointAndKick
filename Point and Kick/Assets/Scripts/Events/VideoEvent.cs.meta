@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97dbc66fe46b4795b18b81caa15abdb8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoClip: {instanceID: 0}
+  - videoChannel: {fileID: 11400000, guid: 6b5205b40c008b74a8bd8db87c8e90a8, type: 2}
+  - eventStartTrigger: {instanceID: 0}
+  - eventEndTrigger: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

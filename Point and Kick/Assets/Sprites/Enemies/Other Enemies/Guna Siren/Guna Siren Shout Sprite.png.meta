@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: ff915b0df47f4554390204ad45a32604
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -301928899992002465
+    second: Guna Siren Shout Sprite_0
+  - first:
+      213: 3059245611765350201
+    second: Guna Siren Shout Sprite_1
+  - first:
+      213: 4369209202688564171
+    second: Guna Siren Shout Sprite_2
+  - first:
+      213: -4985005065090874262
+    second: Guna Siren Shout Sprite_3
+  - first:
+      213: 8748974293022039490
+    second: Guna Siren Shout Sprite_4
+  - first:
+      213: 5249303059496682898
+    second: Guna Siren Shout Sprite_5
+  - first:
+      213: -5486440581632345734
+    second: Guna Siren Shout Sprite_6
+  - first:
+      213: 8880486025192811541
+    second: Guna Siren Shout Sprite_7
+  - first:
+      213: -2347177340840416540
+    second: Guna Siren Shout Sprite_8
+  - first:
+      213: 4741612088570277591
+    second: Guna Siren Shout Sprite_9
+  - first:
+      213: 2889851037240225432
+    second: Guna Siren Shout Sprite_10
+  - first:
+      213: 5011319480383017233
+    second: Guna Siren Shout Sprite_11
+  - first:
+      213: 6058014820732280756
+    second: Guna Siren Shout Sprite_12
+  - first:
+      213: 8117282782058710751
+    second: Guna Siren Shout Sprite_13
+  - first:
+      213: 5844178851537062500
+    second: Guna Siren Shout Sprite_14
+  - first:
+      213: -6094227121810852391
+    second: Guna Siren Shout Sprite_15
+  - first:
+      213: -4063599778861053497
+    second: Guna Siren Shout Sprite_16
+  - first:
+      213: 924807471855922464
+    second: Guna Siren Shout Sprite_17
+  - first:
+      213: 949824162689971822
+    second: Guna Siren Shout Sprite_18
+  - first:
+      213: -3310803565092195169
+    second: Guna Siren Shout Sprite_19
+  - first:
+      213: 2143208593885040067
+    second: Guna Siren Shout Sprite_20
+  - first:
+      213: 2935617980528442676
+    second: Guna Siren Shout Sprite_21
+  - first:
+      213: 4123234423958877722
+    second: Guna Siren Shout Sprite_22
+  - first:
+      213: -2707013652922462004
+    second: Guna Siren Shout Sprite_23
+  - first:
+      213: -2393468413582935843
+    second: Guna Siren Shout Sprite_24
+  - first:
+      213: -4664737338021167559
+    second: Guna Siren Shout Sprite_25
+  - first:
+      213: 802382611687070614
+    second: Guna Siren Shout Sprite_26
+  - first:
+      213: 1726668187541455768
+    second: Guna Siren Shout Sprite_27
+  - first:
+      213: -6215614959049610108
+    second: Guna Siren Shout Sprite_28
+  - first:
+      213: 3153265894570178180
+    second: Guna Siren Shout Sprite_29
+  - first:
+      213: -3442107858313284355
+    second: Guna Siren Shout Sprite_30
+  - first:
+      213: -1936048719941623453
+    second: Guna Siren Shout Sprite_31
+  - first:
+      213: 8643482272817394137
+    second: Guna Siren Shout Sprite_32
+  - first:
+      213: -7375243776633665692
+    second: Guna Siren Shout Sprite_33
+  - first:
+      213: 8801034414710350661
+    second: Guna Siren Shout Sprite_34
+  - first:
+      213: -1917016898893143832
+    second: Guna Siren Shout Sprite_35
+  - first:
+      213: 6457774624533262728
+    second: Guna Siren Shout Sprite_36
+  - first:
+      213: -4445471472355699692
+    second: Guna Siren Shout Sprite_37
+  - first:
+      213: -3707565902316006802
+    second: Guna Siren Shout Sprite_38
+  - first:
+      213: 2855217875029351988
+    second: Guna Siren Shout Sprite_39
+  - first:
+      213: 7431305813092976797
+    second: Guna Siren Shout Sprite_40
+  - first:
+      213: -375575520001711712
+    second: Guna Siren Shout Sprite_41
+  - first:
+      213: 2203194221167280596
+    second: Guna Siren Shout Sprite_42
+  - first:
+      213: 3227899845616997245
+    second: Guna Siren Shout Sprite_43
+  - first:
+      213: 1177958064887221533
+    second: Guna Siren Shout Sprite_44
+  - first:
+      213: 3731352017441526485
+    second: Guna Siren Shout Sprite_45
+  - first:
+      213: -824669134793337740
+    second: Guna Siren Shout Sprite_46
+  - first:
+      213: -5538209255519469775
+    second: Guna Siren Shout Sprite_47
+  - first:
+      213: -6096023722276877683
+    second: Guna Siren Shout Sprite_48
+  - first:
+      213: -2305347905622301300
+    second: Guna Siren Shout Sprite_49
+  - first:
+      213: 8244290234242872738
+    second: Guna Siren Shout Sprite_50
+  - first:
+      213: 8294484574233174412
+    second: Guna Siren Shout Sprite_51
+  - first:
+      213: -9213873472292675062
+    second: Guna Siren Shout Sprite_52
+  - first:
+      213: 1867870846772421425
+    second: Guna Siren Shout Sprite_53
+  - first:
+      213: 5535582309226553936
+    second: Guna Siren Shout Sprite_54
+  - first:
+      213: 5210045839845609748
+    second: Guna Siren Shout Sprite_55
+  - first:
+      213: -1880675943328579016
+    second: Guna Siren Shout Sprite_56
+  - first:
+      213: -7394215370050949180
+    second: Guna Siren Shout Sprite_57
+  - first:
+      213: 1655216024098662662
+    second: Guna Siren Shout Sprite_58
+  - first:
+      213: -4651600814359995203
+    second: Guna Siren Shout Sprite_59
+  - first:
+      213: -1607528538434242629
+    second: Guna Siren Shout Sprite_60
+  - first:
+      213: 3808745181263092337
+    second: Guna Siren Shout Sprite_61
+  - first:
+      213: -5432806231117975741
+    second: Guna Siren Shout Sprite_62
+  - first:
+      213: -385709276992928402
+    second: Guna Siren Shout Sprite_63
+  - first:
+      213: 4212318121238904750
+    second: Guna Siren Shout Sprite_64
+  - first:
+      213: -4399398161250599486
+    second: Guna Siren Shout Sprite_65
+  - first:
+      213: -1215561466141222512
+    second: Guna Siren Shout Sprite_66
+  - first:
+      213: 6362776683655328367
+    second: Guna Siren Shout Sprite_67
+  - first:
+      213: -9195089136978745129
+    second: Guna Siren Shout Sprite_68
+  - first:
+      213: 8671645703129669607
+    second: Guna Siren Shout Sprite_69
+  - first:
+      213: 8111658904526468607
+    second: Guna Siren Shout Sprite_70
+  - first:
+      213: 2038495659555134469
+    second: Guna Siren Shout Sprite_71
+  - first:
+      213: 3103785304074801333
+    second: Guna Siren Shout Sprite_72
+  - first:
+      213: -5439666276817303891
+    second: Guna Siren Shout Sprite_73
+  - first:
+      213: -1814354713579367082
+    second: Guna Siren Shout Sprite_74
+  - first:
+      213: -5872195491512955901
+    second: Guna Siren Shout Sprite_75
+  - first:
+      213: -983296820159342782
+    second: Guna Siren Shout Sprite_76
+  - first:
+      213: -7924392910280857107
+    second: Guna Siren Shout Sprite_77
+  - first:
+      213: -4500695495224407549
+    second: Guna Siren Shout Sprite_78
+  - first:
+      213: 3456852297296181661
+    second: Guna Siren Shout Sprite_79
+  - first:
+      213: 8102524952021823425
+    second: Guna Siren Shout Sprite_80
+  - first:
+      213: -1530252677883844699
+    second: Guna Siren Shout Sprite_81
+  - first:
+      213: -9048966335248338786
+    second: Guna Siren Shout Sprite_82
+  - first:
+      213: -2490660332530603931
+    second: Guna Siren Shout Sprite_83
+  - first:
+      213: -6523809151695011620
+    second: Guna Siren Shout Sprite_84
+  - first:
+      213: -7408124878138365249
+    second: Guna Siren Shout Sprite_85
+  - first:
+      213: -8459594523911803140
+    second: Guna Siren Shout Sprite_86
+  - first:
+      213: 4006337247836852960
+    second: Guna Siren Shout Sprite_87
+  - first:
+      213: -8416434668189419571
+    second: Guna Siren Shout Sprite_88
+  - first:
+      213: -1873058360518421715
+    second: Guna Siren Shout Sprite_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506d80e3455fcbf0800000000000000
+      internalID: -301928899992002465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f32f1ecaf947a20800000000000000
+      internalID: 3059245611765350201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb9e9bee9c82ac30800000000000000
+      internalID: 4369209202688564171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a644cb31e44b1dab0800000000000000
+      internalID: -4985005065090874262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd5a94f3c99a6970800000000000000
+      internalID: 8748974293022039490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295cba3125549d840800000000000000
+      internalID: 5249303059496682898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7934820c5f3cd3b0800000000000000
+      internalID: -5486440581632345734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c20743df2dd3b70800000000000000
+      internalID: 8880486025192811541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6c56f4a62d6fd0800000000000000
+      internalID: -2347177340840416540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deede982179dc140800000000000000
+      internalID: 4741612088570277591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e6f701530da1820800000000000000
+      internalID: 2889851037240225432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111993c2488cb8540800000000000000
+      internalID: 5011319480383017233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf9cc9f164621450800000000000000
+      internalID: 6058014820732280756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6010edea166a070800000000000000
+      internalID: 8117282782058710751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a87b1a3b1ba1150800000000000000
+      internalID: 5844178851537062500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5b9e7a8b4fc6ba0800000000000000
+      internalID: -6094227121810852391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c981afe7813b97c0800000000000000
+      internalID: -4063599778861053497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d699dee7395dc00800000000000000
+      internalID: 924807471855922464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f7382b047e2d00800000000000000
+      internalID: 949824162689971822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94359de2b9ad02d0800000000000000
+      internalID: -3310803565092195169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd05166cd43ebd10800000000000000
+      internalID: 2143208593885040067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db5adeff86db820800000000000000
+      internalID: 2935617980528442676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a163bbddcdba83930800000000000000
+      internalID: 4123234423958877722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc09c6fcc61ce6ad0800000000000000
+      internalID: -2707013652922462004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd87543b821b8ced0800000000000000
+      internalID: -2393468413582935843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e3fbc1b16834fb0800000000000000
+      internalID: -4664737338021167559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bde8febb2a22b00800000000000000
+      internalID: 802382611687070614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893406b719b56f710800000000000000
+      internalID: 1726668187541455768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6e316023bdb9a0800000000000000
+      internalID: -6215614959049610108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b538df96a2cb20800000000000000
+      internalID: 3153265894570178180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4f7a2d32d2b30d0800000000000000
+      internalID: -3442107858313284355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361a70462f5c125e0800000000000000
+      internalID: -1936048719941623453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1baadf451d3f770800000000000000
+      internalID: 8643482272817394137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46707d16cded5a990800000000000000
+      internalID: -7375243776633665692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5436cc89b2e832a70800000000000000
+      internalID: 8801034414710350661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0ad0989436565e0800000000000000
+      internalID: -1917016898893143832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88136d66ecf9e9950800000000000000
+      internalID: 6457774624533262728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4141b1fbf338e42c0800000000000000
+      internalID: -4445471472355699692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e629a1394741c8cc0800000000000000
+      internalID: -3707565902316006802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e587d9785cf9720800000000000000
+      internalID: 2855217875029351988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98c3b6a34d412760800000000000000
+      internalID: 7431305813092976797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a127ffed00b9caf0800000000000000
+      internalID: -375575520001711712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d18edb9871539e10800000000000000
+      internalID: 2203194221167280596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d731a84becdcbcc20800000000000000
+      internalID: 3227899845616997245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dc8e17e92f85010800000000000000
+      internalID: 1177958064887221533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d21a8be3ec68c330800000000000000
+      internalID: 3731352017441526485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4741a6b8acf2e84f0800000000000000
+      internalID: -824669134793337740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f3bf856045423b0800000000000000
+      internalID: -5538209255519469775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a055309b2966ba0800000000000000
+      internalID: -6096023722276877683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8521b94b42c100e0800000000000000
+      internalID: -2305347905622301300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b445b94a996270800000000000000
+      internalID: 8244290234242872738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81202236cdeb1370800000000000000
+      internalID: 8294484574233174412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02a996e4eeb12080800000000000000
+      internalID: -9213873472292675062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133ad2483a20ce910800000000000000
+      internalID: 1867870846772421425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a26e08c652dc40800000000000000
+      internalID: 5535582309226553936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411df7b561dcd4840800000000000000
+      internalID: 5210045839845609748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832074c913f76e5e0800000000000000
+      internalID: -1880675943328579016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf21631c48726990800000000000000
+      internalID: -7394215370050949180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6096fe6443288f610800000000000000
+      internalID: 1655216024098662662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc972f54b1327fb0800000000000000
+      internalID: -4651600814359995203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7f254bf49e0b9e0800000000000000
+      internalID: -1607528538434242629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ada2110916bd430800000000000000
+      internalID: 3808745181263092337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f2fac548bca94b0800000000000000
+      internalID: -5432806231117975741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e658346c47fa5aaf0800000000000000
+      internalID: -385709276992928402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb2617309257a30800000000000000
+      internalID: 4212318121238904750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb62d6ea232f2c0800000000000000
+      internalID: -4399398161250599486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099dfff6945712fe0800000000000000
+      internalID: -1215561466141222512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62f96eaeaf1d4850800000000000000
+      internalID: 6362776683655328367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d82458c52b746080800000000000000
+      internalID: -9195089136978745129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef161992dfd75870800000000000000
+      internalID: 8671645703129669607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff53f67dbc6629070800000000000000
+      internalID: 8111658904526468607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c95ff70013a4c10800000000000000
+      internalID: 2038495659555134469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d47c1a4cd21b20800000000000000
+      internalID: 3103785304074801333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da602a1875c6284b0800000000000000
+      internalID: -5439666276817303891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655db88300e12d6e0800000000000000
+      internalID: -1814354713579367082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c48bc0055c18ea0800000000000000
+      internalID: -5872195491512955901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24791a570c0aa52f0800000000000000
+      internalID: -983296820159342782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e51222a6e60290800000000000000
+      internalID: -7924392910280857107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac2f4fa415a81c0800000000000000
+      internalID: -4500695495224407549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f45569d439ff20800000000000000
+      internalID: 3456852297296181661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfeffcc383f17070800000000000000
+      internalID: 8102524952021823425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a42e0c4373cae0800000000000000
+      internalID: -1530252677883844699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90fd03cf0d9b6280800000000000000
+      internalID: -9048966335248338786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5686b57af956f6dd0800000000000000
+      internalID: -2490660332530603931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0c6c22426c675a0800000000000000
+      internalID: -6523809151695011620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba24da5cad013990800000000000000
+      internalID: -7408124878138365249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea562f99b799a80800000000000000
+      internalID: -8459594523911803140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e25bbb108e599730800000000000000
+      internalID: 4006337247836852960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7794fe241d23b80800000000000000
+      internalID: -8416434668189419571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Shout Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2359b1585f8106e0800000000000000
+      internalID: -1873058360518421715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

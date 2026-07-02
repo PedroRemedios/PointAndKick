@@ -16,6 +16,7 @@ public class MapChanger : MonoBehaviour
     [SerializeField] private float transitionTime = 1f;
 
     private CinemachineConfiner cameraConfinerComponent;
+    private CinemachineConfiner cameraNPCConfinerComponent;
     private GameObject player;
     private float minX;
     private float maxX;
@@ -24,6 +25,7 @@ public class MapChanger : MonoBehaviour
     void Start()
     {
         cameraConfinerComponent = GameObject.FindWithTag("CM Camera").gameObject.transform.Find("CM Normal Camera").GetComponent<CinemachineConfiner>();
+        cameraNPCConfinerComponent = GameObject.FindWithTag("CM Camera").gameObject.transform.Find("CM NPC Camera").GetComponent<CinemachineConfiner>();
         player = GameObject.FindWithTag("Player");
     }
 
@@ -68,6 +70,7 @@ public class MapChanger : MonoBehaviour
         player.transform.position = destinationTransition.transform.position;
         PolygonCollider2D newCameraConfinerObject = destinationMap.transform.Find("Camera Confiner").GetComponent<PolygonCollider2D>();
         cameraConfinerComponent.m_BoundingShape2D = newCameraConfinerObject;
+        cameraNPCConfinerComponent.m_BoundingShape2D = newCameraConfinerObject;
 
         // Little hack to make sure the game state change to transition end is not called before the one from transition end to play.
         yield return new WaitForSeconds(transitionTime / 10);

@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 7bc09b5fe095a2a4fb8e9ecdabc2355f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5017825139233465369
+    second: Guna Tank Idle Sprite_0
+  - first:
+      213: 2397115828132639186
+    second: Guna Tank Idle Sprite_1
+  - first:
+      213: -7252740234522777728
+    second: Guna Tank Idle Sprite_2
+  - first:
+      213: 5640013809456232663
+    second: Guna Tank Idle Sprite_3
+  - first:
+      213: -3477129421192187033
+    second: Guna Tank Idle Sprite_4
+  - first:
+      213: -4057750974832365736
+    second: Guna Tank Idle Sprite_5
+  - first:
+      213: 1864082908545234041
+    second: Guna Tank Idle Sprite_6
+  - first:
+      213: -1391627678217962305
+    second: Guna Tank Idle Sprite_7
+  - first:
+      213: 7564239708903928787
+    second: Guna Tank Idle Sprite_8
+  - first:
+      213: -2032813446532069350
+    second: Guna Tank Idle Sprite_9
+  - first:
+      213: 5233077684742776418
+    second: Guna Tank Idle Sprite_10
+  - first:
+      213: -1890566791753862560
+    second: Guna Tank Idle Sprite_11
+  - first:
+      213: -1141230187737087615
+    second: Guna Tank Idle Sprite_12
+  - first:
+      213: 5341985812921804539
+    second: Guna Tank Idle Sprite_13
+  - first:
+      213: 2863359552659797902
+    second: Guna Tank Idle Sprite_14
+  - first:
+      213: 3673580423871496680
+    second: Guna Tank Idle Sprite_15
+  - first:
+      213: 5290313682315383950
+    second: Guna Tank Idle Sprite_16
+  - first:
+      213: 780847839628824086
+    second: Guna Tank Idle Sprite_17
+  - first:
+      213: -2474992672802960292
+    second: Guna Tank Idle Sprite_18
+  - first:
+      213: 869938593271432161
+    second: Guna Tank Idle Sprite_19
+  - first:
+      213: 2075275620951339493
+    second: Guna Tank Idle Sprite_20
+  - first:
+      213: 3387404130740355530
+    second: Guna Tank Idle Sprite_21
+  - first:
+      213: 6839235064370067085
+    second: Guna Tank Idle Sprite_22
+  - first:
+      213: -9120777914696601573
+    second: Guna Tank Idle Sprite_23
+  - first:
+      213: 2983886975019469869
+    second: Guna Tank Idle Sprite_24
+  - first:
+      213: 3242470125538634667
+    second: Guna Tank Idle Sprite_25
+  - first:
+      213: 9041231727936703486
+    second: Guna Tank Idle Sprite_26
+  - first:
+      213: 7182939447709632772
+    second: Guna Tank Idle Sprite_27
+  - first:
+      213: -8113021867061604972
+    second: Guna Tank Idle Sprite_28
+  - first:
+      213: 5259893453638198194
+    second: Guna Tank Idle Sprite_29
+  - first:
+      213: -520853492772468684
+    second: Guna Tank Idle Sprite_30
+  - first:
+      213: 1358036044134128639
+    second: Guna Tank Idle Sprite_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebd6f61f9a1d5ab0800000000000000
+      internalID: -5017825139233465369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ff4d2524444120800000000000000
+      internalID: 2397115828132639186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0872611fe27195b90800000000000000
+      internalID: -7252740234522777728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8bfe87daa554e40800000000000000
+      internalID: 5640013809456232663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b7cbc631cebfc0800000000000000
+      internalID: -3477129421192187033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2f1ebcf8ffa7c0800000000000000
+      internalID: -4057750974832365736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97437bb678d8ed910800000000000000
+      internalID: 1864082908545234041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc7734fff1fface0800000000000000
+      internalID: -1391627678217962305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d37f1d20f399f860800000000000000
+      internalID: 7564239708903928787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1881d0d0fef9c3e0800000000000000
+      internalID: -2032813446532069350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266ed11ad60af9840800000000000000
+      internalID: 5233077684742776418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0627c51058b53c5e0800000000000000
+      internalID: -1890566791753862560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1818af4d0398920f0800000000000000
+      internalID: -1141230187737087615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf661663bcb822a40800000000000000
+      internalID: 5341985812921804539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e873288a752bcb720800000000000000
+      internalID: 2863359552659797902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e180ba9eed2bf230800000000000000
+      internalID: 3673580423871496680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841cc8c348fa6940800000000000000
+      internalID: 5290313682315383950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e05b819f026da00800000000000000
+      internalID: 780847839628824086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c82e3f64f07add0800000000000000
+      internalID: -2474992672802960292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c85c9a84a21c00800000000000000
+      internalID: 869938593271432161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e135d59e2cdccc10800000000000000
+      internalID: 2075275620951339493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac148731c1a720f20800000000000000
+      internalID: 3387404130740355530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867c232e08d9ee50800000000000000
+      internalID: 6839235064370067085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f74f7fcc7c6180800000000000000
+      internalID: -9120777914696601573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c43fbf465e86920800000000000000
+      internalID: 2983886975019469869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babeb8b56619ffc20800000000000000
+      internalID: 3242470125538634667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb88a3aa58e87d70800000000000000
+      internalID: 9041231727936703486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4098fdfee5deea360800000000000000
+      internalID: 7182939447709632772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d01d6b891c86f80800000000000000
+      internalID: -8113021867061604972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3e18c5a35eef840800000000000000
+      internalID: 5259893453638198194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4388647028e85c8f0800000000000000
+      internalID: -520853492772468684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Idle Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb9ac24696b8d210800000000000000
+      internalID: 1358036044134128639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

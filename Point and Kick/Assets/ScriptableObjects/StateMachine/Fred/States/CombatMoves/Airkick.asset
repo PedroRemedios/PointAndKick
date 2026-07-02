@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35432205b9a6a374bbbfe6b7cac92179, type: 3}
+  m_Name: Airkick
+  m_EditorClassIdentifier: 
+  _actions:
+  - {fileID: 11400000, guid: 3b05c6900a879174bbe51e7ad7bc4cec, type: 2}
+  - {fileID: 11400000, guid: 77237ab1ddb397547b0a19dda6408593, type: 2}
+  - {fileID: 11400000, guid: b3986de5b4edca642941d6ad346f489a, type: 2}
+  - {fileID: 11400000, guid: 679a348173e5ebd49a5524b94df581a2, type: 2}
+  - {fileID: 11400000, guid: ea3d9c55e207af64fa262f3bc6a6d5eb, type: 2}
+  - {fileID: 11400000, guid: a4e5381a821ddb549a6147be6087d4ab, type: 2}
+  - {fileID: 11400000, guid: d893142cf5d632f42a334af4e5b9a0ab, type: 2}
+  - {fileID: 11400000, guid: 35d2676013dda6b45957583e4c83ca17, type: 2}
+  - {fileID: 11400000, guid: f1644ebf35da15c4fadfc6e83f10c0a9, type: 2}

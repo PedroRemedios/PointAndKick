@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f848e16b93043d1ad315d94e342f148, type: 3}
+  m_Name: SpawnSiren
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 7356704576244401254, guid: 7b7561db3af49f14eba016ce8e3bbee2, type: 3}

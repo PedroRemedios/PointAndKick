@@ -1,0 +1,1824 @@
+fileFormatVersion: 2
+guid: 0ea4663e7895acc479419502da1aa08d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2876970535308543257
+    second: Businessman Cycle_0
+  - first:
+      213: -1870268567873319226
+    second: Businessman Cycle_1
+  - first:
+      213: 381590334101951892
+    second: Businessman Cycle_2
+  - first:
+      213: -6752576490060336274
+    second: Businessman Cycle_3
+  - first:
+      213: -4534599501069255907
+    second: Businessman Cycle_4
+  - first:
+      213: -5954881686396043838
+    second: Businessman Cycle_5
+  - first:
+      213: -946901762221619455
+    second: Businessman Cycle_6
+  - first:
+      213: -1740300769210766184
+    second: Businessman Cycle_7
+  - first:
+      213: 8789349789256218119
+    second: Businessman Cycle_8
+  - first:
+      213: 735368533281853952
+    second: Businessman Cycle_9
+  - first:
+      213: 3258178119206193397
+    second: Businessman Cycle_10
+  - first:
+      213: 1448218963520303567
+    second: Businessman Cycle_11
+  - first:
+      213: -6376321469157262927
+    second: Businessman Cycle_12
+  - first:
+      213: -2674049264839430512
+    second: Businessman Cycle_13
+  - first:
+      213: -1436270085994069744
+    second: Businessman Cycle_14
+  - first:
+      213: 751607754881534957
+    second: Businessman Cycle_15
+  - first:
+      213: 1464211982161398997
+    second: Businessman Cycle_16
+  - first:
+      213: -1983139117773203456
+    second: Businessman Cycle_17
+  - first:
+      213: -134476934041072831
+    second: Businessman Cycle_18
+  - first:
+      213: -5015825194851242602
+    second: Businessman Cycle_19
+  - first:
+      213: -8119787619920141710
+    second: Businessman Cycle_20
+  - first:
+      213: 8773638997416846451
+    second: Businessman Cycle_21
+  - first:
+      213: -5156959333142998632
+    second: Businessman Cycle_22
+  - first:
+      213: 1410863358634415188
+    second: Businessman Cycle_23
+  - first:
+      213: -6298563898082104135
+    second: Businessman Cycle_24
+  - first:
+      213: 3769990255243615353
+    second: Businessman Cycle_25
+  - first:
+      213: 6051698113466560752
+    second: Businessman Cycle_26
+  - first:
+      213: -7047754757387269891
+    second: Businessman Cycle_27
+  - first:
+      213: 6478420768869519852
+    second: Businessman Cycle_28
+  - first:
+      213: 2762992316037808445
+    second: Businessman Cycle_29
+  - first:
+      213: 5413307941198486355
+    second: Businessman Cycle_30
+  - first:
+      213: -2431015217284936946
+    second: Businessman Cycle_31
+  - first:
+      213: 6180466118071023383
+    second: Businessman Cycle_32
+  - first:
+      213: -5769412165768161004
+    second: Businessman Cycle_33
+  - first:
+      213: 6610131382754756460
+    second: Businessman Cycle_34
+  - first:
+      213: -3658379187443437982
+    second: Businessman Cycle_35
+  - first:
+      213: 735932814243857935
+    second: Businessman Cycle_36
+  - first:
+      213: -4714393706119758342
+    second: Businessman Cycle_37
+  - first:
+      213: 2865442629105680620
+    second: Businessman Cycle_38
+  - first:
+      213: -7902364486964171053
+    second: Businessman Cycle_39
+  - first:
+      213: -8068810815814449924
+    second: Businessman Cycle_40
+  - first:
+      213: 5541393733329919824
+    second: Businessman Cycle_41
+  - first:
+      213: -7279193255842041666
+    second: Businessman Cycle_42
+  - first:
+      213: 6338152917038144509
+    second: Businessman Cycle_43
+  - first:
+      213: -2048393790037837809
+    second: Businessman Cycle_44
+  - first:
+      213: 8365822295990507162
+    second: Businessman Cycle_45
+  - first:
+      213: 5443146937405281341
+    second: Businessman Cycle_46
+  - first:
+      213: 6027294916361197083
+    second: Businessman Cycle_47
+  - first:
+      213: -7465661415694091393
+    second: Businessman Cycle_48
+  - first:
+      213: 5806134510600631942
+    second: Businessman Cycle_49
+  - first:
+      213: -6543502531800326555
+    second: Businessman Cycle_50
+  - first:
+      213: 8948500903412109125
+    second: Businessman Cycle_51
+  - first:
+      213: -2210711447630339840
+    second: Businessman Cycle_52
+  - first:
+      213: -672394133719957283
+    second: Businessman Cycle_53
+  - first:
+      213: 2203334097529703613
+    second: Businessman Cycle_54
+  - first:
+      213: 8945948015638273904
+    second: Businessman Cycle_55
+  - first:
+      213: -140475157660104029
+    second: Businessman Cycle_56
+  - first:
+      213: 5005208717370167504
+    second: Businessman Cycle_57
+  - first:
+      213: 4019679991731863631
+    second: Businessman Cycle_58
+  - first:
+      213: -7264353430888041453
+    second: Businessman Cycle_59
+  - first:
+      213: 3174142615927950478
+    second: Businessman Cycle_60
+  - first:
+      213: 7204026445533024270
+    second: Businessman Cycle_61
+  - first:
+      213: -2921706580322280382
+    second: Businessman Cycle_62
+  - first:
+      213: -4578941752671911098
+    second: Businessman Cycle_63
+  - first:
+      213: -531124560096118700
+    second: Businessman Cycle_64
+  - first:
+      213: -5010667481005696180
+    second: Businessman Cycle_65
+  - first:
+      213: 3807355153896384344
+    second: Businessman Cycle_66
+  - first:
+      213: 1317413172782274174
+    second: Businessman Cycle_67
+  - first:
+      213: 3687455452008917231
+    second: Businessman Cycle_68
+  - first:
+      213: 3620627064110406749
+    second: Businessman Cycle_69
+  - first:
+      213: 2189383318655434411
+    second: Businessman Cycle_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Businessman Cycle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea3bad7a82f218d0800000000000000
+      internalID: -2876970535308543257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce055985a87b06e0800000000000000
+      internalID: -1870268567873319226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959ed9136eab4500800000000000000
+      internalID: 381590334101951892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63bc4f75770a42a0800000000000000
+      internalID: -6752576490060336274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b7a1477cdd111c0800000000000000
+      internalID: -4534599501069255907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_5
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd72e218a20c5da0800000000000000
+      internalID: -5954881686396043838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_6
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c6993dddebd2f0800000000000000
+      internalID: -946901762221619455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_7
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6ad0cba539d7e0800000000000000
+      internalID: -1740300769210766184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_8
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706754bb01b0af970800000000000000
+      internalID: 8789349789256218119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002d34de8cd843a00800000000000000
+      internalID: 735368533281853952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f84c32acbf573d20800000000000000
+      internalID: 3258178119206193397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_11
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1bc9d697b191410800000000000000
+      internalID: 1448218963520303567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_12
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b93f213861c287a0800000000000000
+      internalID: -6376321469157262927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_13
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ee9518c5ed3ead0800000000000000
+      internalID: -2674049264839430512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_14
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011cdca67f7511ce0800000000000000
+      internalID: -1436270085994069744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_15
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb8428554f3e6a00800000000000000
+      internalID: 751607754881534957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_16
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcc9904a0de15410800000000000000
+      internalID: 1464211982161398997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_17
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00852f0ca797a74e0800000000000000
+      internalID: -1983139117773203456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b8ff3e0fd322ef0800000000000000
+      internalID: -134476934041072831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69def6d6f85346ab0800000000000000
+      internalID: -5015825194851242602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_20
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272ab0f1e28b05f80800000000000000
+      internalID: -8119787619920141710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374ab84fe2a32c970800000000000000
+      internalID: 8773638997416846451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_22
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89150ea2fccce68b0800000000000000
+      internalID: -5156959333142998632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_23
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454d406efb4649310800000000000000
+      internalID: 1410863358634415188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_24
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc67b381810798a0800000000000000
+      internalID: -6298563898082104135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_25
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cda72b922b15430800000000000000
+      internalID: 3769990255243615353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_26
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07315fe53fbf350800000000000000
+      internalID: 6051698113466560752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8ccd58368513e90800000000000000
+      internalID: -7047754757387269891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce11bf97d59f7e950800000000000000
+      internalID: 6478420768869519852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_29
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31419a5fde185620800000000000000
+      internalID: 2762992316037808445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_30
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bdfee34eeef1b40800000000000000
+      internalID: 5413307941198486355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b892a3a8c434ed0800000000000000
+      internalID: -2431015217284936946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_32
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717f5f9503d65c550800000000000000
+      internalID: 6180466118071023383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_33
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195290f33eeeefa0800000000000000
+      internalID: -5769412165768161004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_34
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6742cb7877ebbb50800000000000000
+      internalID: 6610131382754756460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_35
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e60ce0383da3dc0800000000000000
+      internalID: -3658379187443437982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f060f83defe863a00800000000000000
+      internalID: 735932814243857935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf467f6eb139eb0800000000000000
+      internalID: -4714393706119758342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_38
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce00b10b3e814c720800000000000000
+      internalID: 2865442629105680620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_39
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea6dc1e59255290800000000000000
+      internalID: -7902364486964171053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_40
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4cc8b3053d50090800000000000000
+      internalID: -8068810815814449924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_41
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f94bbad3cf6ec40800000000000000
+      internalID: 5541393733329919824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_42
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0bd16fc4c1bfa90800000000000000
+      internalID: -7279193255842041666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_43
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb1a204f74a5f750800000000000000
+      internalID: 6338152917038144509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_44
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08bda863b4a293e0800000000000000
+      internalID: -2048393790037837809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a969e8edd0f591470800000000000000
+      internalID: 8365822295990507162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341c40fc41f98b40800000000000000
+      internalID: 5443146937405281341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_47
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b161a3edac045a350800000000000000
+      internalID: 6027294916361197083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_48
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb6384f74a46890800000000000000
+      internalID: -7465661415694091393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_49
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686bc7e3398839050800000000000000
+      internalID: 5806134510600631942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_50
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e1c25cd1fc035a0800000000000000
+      internalID: -6543502531800326555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_51
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f042419267f2c70800000000000000
+      internalID: 8948500903412109125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_52
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001aa17b6a9f151e0800000000000000
+      internalID: -2210711447630339840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_53
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0c09e091d2ba6f0800000000000000
+      internalID: -672394133719957283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc83cc10b0d39e10800000000000000
+      internalID: 2203334097529703613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fda339254662c70800000000000000
+      internalID: 8945948015638273904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_56
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa07ef969eec0ef0800000000000000
+      internalID: -140475157660104029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_57
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d099894fc2167540800000000000000
+      internalID: 5005208717370167504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_58
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f404ce1c7a5c8c730800000000000000
+      internalID: 4019679991731863631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_59
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143705fa05df2b90800000000000000
+      internalID: -7264353430888041453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_60
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c80d054e1dc0c20800000000000000
+      internalID: 3174142615927950478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_61
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00148632e7d9f360800000000000000
+      internalID: 7204026445533024270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_62
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c18f558530477d0800000000000000
+      internalID: -2921706580322280382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64349c87cb45470c0800000000000000
+      internalID: -4578941752671911098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_64
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583cffc60111a8f0800000000000000
+      internalID: -531124560096118700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_65
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bdd034978867ab0800000000000000
+      internalID: -5010667481005696180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_66
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8572fb9175176d430800000000000000
+      internalID: 3807355153896384344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_67
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769b1afc44684210800000000000000
+      internalID: 1317413172782274174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_68
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a11652397c2330800000000000000
+      internalID: 3687455452008917231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_69
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c5774c12d0f3230800000000000000
+      internalID: 3620627064110406749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman Cycle_70
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.46, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae7f994780426e10800000000000000
+      internalID: 2189383318655434411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

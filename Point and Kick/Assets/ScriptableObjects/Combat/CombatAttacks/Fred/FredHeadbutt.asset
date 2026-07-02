@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60007bc3c7ba44b39492f8d14b1f961e, type: 3}
+  m_Name: FredHeadbutt
+  m_EditorClassIdentifier: 
+  attackType: 1
+  attackDamage: 30
+  positionOffset: 0.95
+  attackPositionOffset: {x: 0.95, y: 1.69}
+  colliderArea: 1.25
+  attackColliderArea: {x: 1.25, y: 1.75}
+  knockbackForce: {x: 3, y: 5}
+  horizontalForce: 3
+  verticalForce: 5
+  hitParticle: {fileID: 7607391522783256953, guid: 7e625fd0d4cff034e9b70db867f69991, type: 3}
+  hitParticleOffset: {x: 1.52, y: 1.69}

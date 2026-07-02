@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: 6acdccc000bb3594384c7bb84d909b30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8628993816790198429
+    second: Guna Tank Belly Thrust Sprite_0
+  - first:
+      213: -7544573637935086845
+    second: Guna Tank Belly Thrust Sprite_1
+  - first:
+      213: 4492417632312336773
+    second: Guna Tank Belly Thrust Sprite_2
+  - first:
+      213: 1580746872034989482
+    second: Guna Tank Belly Thrust Sprite_3
+  - first:
+      213: 2721903650943508158
+    second: Guna Tank Belly Thrust Sprite_4
+  - first:
+      213: 6927177172192299791
+    second: Guna Tank Belly Thrust Sprite_5
+  - first:
+      213: 4342652453869971476
+    second: Guna Tank Belly Thrust Sprite_6
+  - first:
+      213: 6017595862234526706
+    second: Guna Tank Belly Thrust Sprite_7
+  - first:
+      213: 8226197205517230126
+    second: Guna Tank Belly Thrust Sprite_8
+  - first:
+      213: 7446191697768661641
+    second: Guna Tank Belly Thrust Sprite_9
+  - first:
+      213: -8100965659229537650
+    second: Guna Tank Belly Thrust Sprite_10
+  - first:
+      213: 6677669930274820284
+    second: Guna Tank Belly Thrust Sprite_11
+  - first:
+      213: -3440624964104165869
+    second: Guna Tank Belly Thrust Sprite_12
+  - first:
+      213: 4670441692189441637
+    second: Guna Tank Belly Thrust Sprite_13
+  - first:
+      213: -3676611915164756494
+    second: Guna Tank Belly Thrust Sprite_14
+  - first:
+      213: -1004466177259632979
+    second: Guna Tank Belly Thrust Sprite_15
+  - first:
+      213: 8868032642161304119
+    second: Guna Tank Belly Thrust Sprite_16
+  - first:
+      213: 4674494676438356091
+    second: Guna Tank Belly Thrust Sprite_17
+  - first:
+      213: -8432175176457281204
+    second: Guna Tank Belly Thrust Sprite_18
+  - first:
+      213: -1457632759935574952
+    second: Guna Tank Belly Thrust Sprite_19
+  - first:
+      213: -2686152842136063127
+    second: Guna Tank Belly Thrust Sprite_20
+  - first:
+      213: -4171196531446064034
+    second: Guna Tank Belly Thrust Sprite_21
+  - first:
+      213: 3680113071426389203
+    second: Guna Tank Belly Thrust Sprite_22
+  - first:
+      213: -2866165984001299995
+    second: Guna Tank Belly Thrust Sprite_23
+  - first:
+      213: 7553206688802500892
+    second: Guna Tank Belly Thrust Sprite_24
+  - first:
+      213: -189160337892180018
+    second: Guna Tank Belly Thrust Sprite_25
+  - first:
+      213: 3382793392990826693
+    second: Guna Tank Belly Thrust Sprite_26
+  - first:
+      213: 7753666842281686071
+    second: Guna Tank Belly Thrust Sprite_27
+  - first:
+      213: 9043653260610108447
+    second: Guna Tank Belly Thrust Sprite_28
+  - first:
+      213: 2709620270507768357
+    second: Guna Tank Belly Thrust Sprite_29
+  - first:
+      213: -1489023171856158342
+    second: Guna Tank Belly Thrust Sprite_30
+  - first:
+      213: 6845538263833824887
+    second: Guna Tank Belly Thrust Sprite_31
+  - first:
+      213: -8850855483022391259
+    second: Guna Tank Belly Thrust Sprite_32
+  - first:
+      213: -6386633639478973701
+    second: Guna Tank Belly Thrust Sprite_33
+  - first:
+      213: -23572890139391645
+    second: Guna Tank Belly Thrust Sprite_34
+  - first:
+      213: 261980664379018876
+    second: Guna Tank Belly Thrust Sprite_35
+  - first:
+      213: 7686870544390654362
+    second: Guna Tank Belly Thrust Sprite_36
+  - first:
+      213: -5704192083566780329
+    second: Guna Tank Belly Thrust Sprite_37
+  - first:
+      213: 369224125901199979
+    second: Guna Tank Belly Thrust Sprite_38
+  - first:
+      213: 5777861448761893136
+    second: Guna Tank Belly Thrust Sprite_39
+  - first:
+      213: -4140864966916752720
+    second: Guna Tank Belly Thrust Sprite_40
+  - first:
+      213: 2317419199116281887
+    second: Guna Tank Belly Thrust Sprite_41
+  - first:
+      213: -2804526462252341391
+    second: Guna Tank Belly Thrust Sprite_42
+  - first:
+      213: -6243227079007251279
+    second: Guna Tank Belly Thrust Sprite_43
+  - first:
+      213: -8339773504725333843
+    second: Guna Tank Belly Thrust Sprite_44
+  - first:
+      213: -3590732799241392443
+    second: Guna Tank Belly Thrust Sprite_45
+  - first:
+      213: 2578457185727887092
+    second: Guna Tank Belly Thrust Sprite_46
+  - first:
+      213: 49496058477189842
+    second: Guna Tank Belly Thrust Sprite_47
+  - first:
+      213: 6254242609822567402
+    second: Guna Tank Belly Thrust Sprite_48
+  - first:
+      213: -7391507074315939042
+    second: Guna Tank Belly Thrust Sprite_49
+  - first:
+      213: 6101984645371913982
+    second: Guna Tank Belly Thrust Sprite_50
+  - first:
+      213: -3390767660247928789
+    second: Guna Tank Belly Thrust Sprite_51
+  - first:
+      213: -3281856980774084112
+    second: Guna Tank Belly Thrust Sprite_52
+  - first:
+      213: -7309718691024501660
+    second: Guna Tank Belly Thrust Sprite_53
+  - first:
+      213: -1567925019842915438
+    second: Guna Tank Belly Thrust Sprite_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9862d2782850c770800000000000000
+      internalID: 8628993816790198429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3034a19cf3a4c4790800000000000000
+      internalID: -7544573637935086845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ada4e806485e30800000000000000
+      internalID: 4492417632312336773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5947ba7e0ffe510800000000000000
+      internalID: 1580746872034989482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe935303f426c520800000000000000
+      internalID: 2721903650943508158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b87b4bfe6422060800000000000000
+      internalID: 6927177172192299791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e5eff563344c30800000000000000
+      internalID: 4342652453869971476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3795add8bc28350800000000000000
+      internalID: 6017595862234526706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e206a2f26c2592270800000000000000
+      internalID: 8226197205517230126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c6f2c5ef265760800000000000000
+      internalID: 7446191697768661641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a3cf757a6939f80800000000000000
+      internalID: -8100965659229537650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb09659fb69dbac50800000000000000
+      internalID: 6677669930274820284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316ea3903d17040d0800000000000000
+      internalID: -3440624964104165869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e302759fdb0d040800000000000000
+      internalID: 4670441692189441637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5d2a351fc0afcc0800000000000000
+      internalID: -3676611915164756494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da68b8b655b6f02f0800000000000000
+      internalID: -1004466177259632979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732e79404b4911b70800000000000000
+      internalID: 8868032642161304119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70109544242fd040800000000000000
+      internalID: 4674494676438356091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41a5634a55eafa80800000000000000
+      internalID: -8432175176457281204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c511b4ab275cbe0800000000000000
+      internalID: -1457632759935574952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f210d83ed8bad0800000000000000
+      internalID: -2686152842136063127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cd0d6cadeec16c0800000000000000
+      internalID: -4171196531446064034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d444a32753621330800000000000000
+      internalID: 3680113071426389203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96b4029355938d0800000000000000
+      internalID: -2866165984001299995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c117d21077162d860800000000000000
+      internalID: 7553206688802500892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff756cca7ff5df0800000000000000
+      internalID: -189160337892180018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0b1c90ba812fe20800000000000000
+      internalID: 3382793392990826693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734bce099ee8a9b60800000000000000
+      internalID: 7753666842281686071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cf776a9b2818d70800000000000000
+      internalID: 9043653260610108447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a30d3a7418a9520800000000000000
+      internalID: 2709620270507768357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71303b705de55be0800000000000000
+      internalID: -1489023171856158342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ec82028cc300f50800000000000000
+      internalID: 6845538263833824887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528c12005d17b2580800000000000000
+      internalID: -8850855483022391259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaab40fa8e1e57a0800000000000000
+      internalID: -6386633639478973701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36989e0d4904caff0800000000000000
+      internalID: -23572890139391645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0556b60eb2a300800000000000000
+      internalID: 261980664379018876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9981d888004daa60800000000000000
+      internalID: 7686870544390654362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7502868a583a6d0b0800000000000000
+      internalID: -5704192083566780329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a58d2e26fbf1500800000000000000
+      internalID: 369224125901199979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01160ee00661f2050800000000000000
+      internalID: 5777861448761893136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba31187041b886c0800000000000000
+      internalID: -4140864966916752720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f180ffebb70292020800000000000000
+      internalID: 2317419199116281887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1772446aa025419d0800000000000000
+      internalID: -2804526462252341391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b45ca7bc0a9b59a0800000000000000
+      internalID: -6243227079007251279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8c1a7fe2c234c80800000000000000
+      internalID: -8339773504725333843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6fd92b872b2ec0800000000000000
+      internalID: -3590732799241392443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f63ddf262588c320800000000000000
+      internalID: 2578457185727887092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da90572768dfa000800000000000000
+      internalID: 49496058477189842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb069964888bc650800000000000000
+      internalID: 6254242609822567402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e139c905a771c6990800000000000000
+      internalID: -7391507074315939042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e74c84ba9ea450800000000000000
+      internalID: 6101984645371913982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b203a0f27c291f0d0800000000000000
+      internalID: -3390767660247928789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f12359c6708472d0800000000000000
+      internalID: -3281856980774084112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464837d3499ae8a90800000000000000
+      internalID: -7309718691024501660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Belly Thrust Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d0dd608c9d3ae0800000000000000
+      internalID: -1567925019842915438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

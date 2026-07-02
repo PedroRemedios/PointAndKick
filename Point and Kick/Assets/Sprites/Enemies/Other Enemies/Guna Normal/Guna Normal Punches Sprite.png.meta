@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 0530fc95495a19e4e9821f92d7d78ade
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8993505386377119132
+    second: Guna Normal Punches Sprite_0
+  - first:
+      213: -615025079526592970
+    second: Guna Normal Punches Sprite_1
+  - first:
+      213: -4006917516984427546
+    second: Guna Normal Punches Sprite_2
+  - first:
+      213: -5012028007448646174
+    second: Guna Normal Punches Sprite_3
+  - first:
+      213: 6306232822651199060
+    second: Guna Normal Punches Sprite_4
+  - first:
+      213: -6920178325154887264
+    second: Guna Normal Punches Sprite_5
+  - first:
+      213: -2498591803577316306
+    second: Guna Normal Punches Sprite_6
+  - first:
+      213: -6128127041022985529
+    second: Guna Normal Punches Sprite_7
+  - first:
+      213: -2750175663431358953
+    second: Guna Normal Punches Sprite_8
+  - first:
+      213: 3104885820433897589
+    second: Guna Normal Punches Sprite_9
+  - first:
+      213: 6148709005490571655
+    second: Guna Normal Punches Sprite_10
+  - first:
+      213: 4591336068719030631
+    second: Guna Normal Punches Sprite_11
+  - first:
+      213: 8278545833156189166
+    second: Guna Normal Punches Sprite_12
+  - first:
+      213: -599953228490656538
+    second: Guna Normal Punches Sprite_13
+  - first:
+      213: -3574335221543505000
+    second: Guna Normal Punches Sprite_14
+  - first:
+      213: 4571850753785358157
+    second: Guna Normal Punches Sprite_15
+  - first:
+      213: -3039578155114062726
+    second: Guna Normal Punches Sprite_16
+  - first:
+      213: -3140184239846253108
+    second: Guna Normal Punches Sprite_17
+  - first:
+      213: 4640887903530429834
+    second: Guna Normal Punches Sprite_18
+  - first:
+      213: 5708369910588193544
+    second: Guna Normal Punches Sprite_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46afd6f2086a03380800000000000000
+      internalID: -8993505386377119132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3792
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6cded2fdf677f0800000000000000
+      internalID: -615025079526592970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3792
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb5ad37fb19468c0800000000000000
+      internalID: -4006917516984427546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3792
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ede6b30513b17ab0800000000000000
+      internalID: -5012028007448646174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3792
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e9801275d348750800000000000000
+      internalID: 6306232822651199060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a909ca5a7696ff90800000000000000
+      internalID: -6920178325154887264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2528
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c42152ef7335dd0800000000000000
+      internalID: -2498591803577316306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2528
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cafb55ace484faa0800000000000000
+      internalID: -6128127041022985529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2528
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716ef3f1ec965d9d0800000000000000
+      internalID: -2750175663431358953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2528
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5781c1b0435c61b20800000000000000
+      internalID: 3104885820433897589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789c283634a945550800000000000000
+      internalID: 6148709005490571655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1264
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761bf6c14d3b7bf30800000000000000
+      internalID: 4591336068719030631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1264
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb901ad29d43e270800000000000000
+      internalID: 8278545833156189166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1264
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e437f5a7b98ca7f0800000000000000
+      internalID: -599953228490656538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1264
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937bbbbd09656ec0800000000000000
+      internalID: -3574335221543505000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d476a71b90a727f30800000000000000
+      internalID: 4571850753785358157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c9365b5cf31d5d0800000000000000
+      internalID: -3039578155114062726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd1fae3213db64d0800000000000000
+      internalID: -3140184239846253108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da654b5feb76040800000000000000
+      internalID: 4640887903530429834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Normal Punches Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b332f7034383f40800000000000000
+      internalID: 5708369910588193544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

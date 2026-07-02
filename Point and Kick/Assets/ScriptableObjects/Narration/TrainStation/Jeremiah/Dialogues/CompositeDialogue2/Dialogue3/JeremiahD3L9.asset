@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538794310c74eab4dabd0f97e906e187, type: 3}
+  m_Name: JeremiahD3L9
+  m_EditorClassIdentifier: 
+  dialogueSpeaker: {fileID: 11400000, guid: f9eb154036e3cef44807d12a086dff96, type: 2}
+  dialogueLine: "Yeah, that\u2019s the one! I knew I wasn\u2019t crazy. Perdida here
+    wouldn\u2019t stop sniffing!"
+  nextLine: {fileID: 11400000, guid: 121bc04d56874ad44a81c8884907178f, type: 2}

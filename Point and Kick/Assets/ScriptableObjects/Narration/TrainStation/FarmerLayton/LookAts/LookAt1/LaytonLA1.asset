@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa3f8704965dfc1418fc789a493551b0, type: 3}
+  m_Name: LaytonLA1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: 8ac131ff95a56d74d9307532b1511fc2, type: 2}
+  firstLine: {fileID: 11400000, guid: 7b61f5adb855f5e48bbabaf4b1adb8d9, type: 2}
+  interactionEnabler: {fileID: 0}
+  interactionDisabler: {fileID: 0}
+  progressionTriggers:
+  - {fileID: 11400000, guid: 696d92e6d5e053c4bbd78ce45bdbd6e4, type: 2}
+  eventTrigger: {fileID: 0}
+  interactionTriggers:
+  - nextLookAt: {fileID: 11400000, guid: d112ed08e67775c41add51fb6cda95af, type: 2}
+    triggerInteraction: {fileID: 11400000, guid: f4f7571203690fa47981be654cea4734, type: 2}
