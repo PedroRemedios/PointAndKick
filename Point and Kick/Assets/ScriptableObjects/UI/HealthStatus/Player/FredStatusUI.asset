@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc266f8b538943a2987cfb93af1cc9ad, type: 3}
+  m_Name: FredStatusUI
+  m_EditorClassIdentifier: 
+  playerPortrait: {fileID: 21300000, guid: 550cd166a3fa33848b9aeb8f2e23d24e, type: 3}
+  hpSprite: {fileID: 21300000, guid: b2a227c606f25b644828d80e479017ab, type: 3}
+  hpBackgroundSprite: {fileID: 21300000, guid: c425c3615b2b3c94ab046421fef5ee80, type: 3}
+  hpCoreSprite: {fileID: 21300000, guid: 5522154010fbbdd49a5224fa9a47076e, type: 3}
+  shieldSprite: {fileID: 21300000, guid: 982b3cca5b504e04abfd499d6f40e51b, type: 3}
+  isPlayer: 1
+  maxFillAmount: 1
+  minFillAmount: 0.08

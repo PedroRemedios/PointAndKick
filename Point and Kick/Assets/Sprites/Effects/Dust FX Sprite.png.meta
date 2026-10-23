@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 3cb8e3bb032dbe74eac2265ef6291a89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 564440954327695948
+    second: Dust FX Sprite_0
+  - first:
+      213: 2757621903519807294
+    second: Dust FX Sprite_1
+  - first:
+      213: 2485722727204354342
+    second: Dust FX Sprite_2
+  - first:
+      213: -9039977946270570077
+    second: Dust FX Sprite_3
+  - first:
+      213: 1846907922040118601
+    second: Dust FX Sprite_4
+  - first:
+      213: 4844004279451465918
+    second: Dust FX Sprite_5
+  - first:
+      213: 2056454965327678985
+    second: Dust FX Sprite_6
+  - first:
+      213: 813814880451537739
+    second: Dust FX Sprite_7
+  - first:
+      213: -6918728559540200814
+    second: Dust FX Sprite_8
+  - first:
+      213: -725762074638670366
+    second: Dust FX Sprite_9
+  - first:
+      213: 8105493638795481787
+    second: Dust FX Sprite_10
+  - first:
+      213: -3789467460443955507
+    second: Dust FX Sprite_11
+  - first:
+      213: 6808398602713474637
+    second: Dust FX Sprite_12
+  - first:
+      213: 4719811274995178778
+    second: Dust FX Sprite_13
+  - first:
+      213: 43069398392125942
+    second: Dust FX Sprite_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dust FX Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c428263be0c45d700800000000000000
+      internalID: 564440954327695948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e377220c28a054620800000000000000
+      internalID: 2757621903519807294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629712586af0f7220800000000000000
+      internalID: 2485722727204354342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96d2724fb8b8280800000000000000
+      internalID: -9039977946270570077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5e0248f881a910800000000000000
+      internalID: 1846907922040118601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb83d2f3a3c593340800000000000000
+      internalID: 4844004279451465918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec1f835eef98c10800000000000000
+      internalID: 2056454965327678985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bad3e62504b4b00800000000000000
+      internalID: 813814880451537739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a9147380dbbff90800000000000000
+      internalID: -6918728559540200814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e526b50d339de5f0800000000000000
+      internalID: -725762074638670366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2d79d058f7c7070800000000000000
+      internalID: 8105493638795481787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce16541c6b196bc0800000000000000
+      internalID: -3789467460443955507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46a00ce47a4c7e50800000000000000
+      internalID: 6808398602713474637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d98f41953208140800000000000000
+      internalID: 4719811274995178778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust FX Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f93adfb363099000800000000000000
+      internalID: 43069398392125942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0078720ca0571344784a3ec59aea3353, type: 3}
+  m_Name: BusinessmanD3
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: e4013690b152130408159d7c62dd386d, type: 2}
+  firstLine: {fileID: 0}
+  interactionEnabler: {fileID: 11400000, guid: 60c88b044ddbdbd4ab8c439b8c572f6e, type: 2}
+  interactionDisabler: {fileID: 11400000, guid: 51c06f674ad49824c9887ff13bb50078, type: 2}
+  eventTrigger: {fileID: 11400000, guid: 73c566326dce1a74887cae2369f62610, type: 2}

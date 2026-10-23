@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538794310c74eab4dabd0f97e906e187, type: 3}
+  m_Name: JeremiahD1L4
+  m_EditorClassIdentifier: 
+  dialogueSpeaker: {fileID: 11400000, guid: f9eb154036e3cef44807d12a086dff96, type: 2}
+  dialogueLine: Oh, thanks. You should tell that to my ex-wife.
+  nextLine: {fileID: 11400000, guid: 543cb06cad853e142a201ffd14713824, type: 2}

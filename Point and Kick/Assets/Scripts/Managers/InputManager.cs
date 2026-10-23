@@ -31,13 +31,17 @@ public class InputManager : MonoBehaviour
     private void DisableCurrentInputMap() {
         if (playerInputActions.Exploration.enabled) playerInputActions.Exploration.Disable();
         else if (playerInputActions.Combat.enabled) playerInputActions.Combat.Disable();
+        else if (playerInputActions.Interaction.enabled) playerInputActions.Interaction.Disable();
         else if (playerInputActions.UI.enabled) playerInputActions.UI.Disable();
+        else if (playerInputActions.QTE.enabled) playerInputActions.QTE.Disable();
     }
 
     private void EnableNewInputMap(GameState gameState) {
         if (gameState == GameState.EXPLORATION) playerInputActions.Exploration.Enable();
         else if (gameState == GameState.COMBAT) playerInputActions.Combat.Enable();
+        else if (gameState == GameState.INTERACTION) playerInputActions.Interaction.Enable();
         else if (gameState == GameState.PAUSE) playerInputActions.UI.Enable();
+        else if (gameState == GameState.QTE) playerInputActions.QTE.Enable();
     }
 
     public PlayerInputActions GetPlayerInputActions() {

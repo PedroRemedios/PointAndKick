@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 799694656f1f7b849b465d9c3c1717d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - interactionManagerData: {instanceID: 0}
+  - interactionChannel: {fileID: 11400000, guid: c4f17f203554d4b4499329067d054928, type: 2}
+  - progressionChannel: {fileID: 11400000, guid: 60d147fcf18b5ff40943198d3cb72125, type: 2}
+  - interactionPopup: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

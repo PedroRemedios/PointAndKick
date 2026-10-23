@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: c426ce0f77321e3428da79c74b714220
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3140384744245408259
+    second: Guna Jeff Idle Sprite_0
+  - first:
+      213: 3968632016129016087
+    second: Guna Jeff Idle Sprite_1
+  - first:
+      213: 4413834721516340492
+    second: Guna Jeff Idle Sprite_2
+  - first:
+      213: 5440748297966856768
+    second: Guna Jeff Idle Sprite_3
+  - first:
+      213: -6995441476124403945
+    second: Guna Jeff Idle Sprite_4
+  - first:
+      213: -5181594286150793367
+    second: Guna Jeff Idle Sprite_5
+  - first:
+      213: -350041004746085874
+    second: Guna Jeff Idle Sprite_6
+  - first:
+      213: 5198173835688221969
+    second: Guna Jeff Idle Sprite_7
+  - first:
+      213: -2992975778784595650
+    second: Guna Jeff Idle Sprite_8
+  - first:
+      213: 2187407630578838674
+    second: Guna Jeff Idle Sprite_9
+  - first:
+      213: -9182334454391776584
+    second: Guna Jeff Idle Sprite_10
+  - first:
+      213: 2321796181711843081
+    second: Guna Jeff Idle Sprite_11
+  - first:
+      213: 2103041113760541047
+    second: Guna Jeff Idle Sprite_12
+  - first:
+      213: -945625348609265313
+    second: Guna Jeff Idle Sprite_13
+  - first:
+      213: -6635039381203471408
+    second: Guna Jeff Idle Sprite_14
+  - first:
+      213: 7004287276288443984
+    second: Guna Jeff Idle Sprite_15
+  - first:
+      213: 6661445295158225943
+    second: Guna Jeff Idle Sprite_16
+  - first:
+      213: 4525368393853199968
+    second: Guna Jeff Idle Sprite_17
+  - first:
+      213: 8190784686000329920
+    second: Guna Jeff Idle Sprite_18
+  - first:
+      213: 859580812068559914
+    second: Guna Jeff Idle Sprite_19
+  - first:
+      213: -7391319844683189847
+    second: Guna Jeff Idle Sprite_20
+  - first:
+      213: -9038172615363164688
+    second: Guna Jeff Idle Sprite_21
+  - first:
+      213: 195262526293714704
+    second: Guna Jeff Idle Sprite_22
+  - first:
+      213: 2733174079290729359
+    second: Guna Jeff Idle Sprite_23
+  - first:
+      213: 938393937125791141
+    second: Guna Jeff Idle Sprite_24
+  - first:
+      213: 5584483691146591857
+    second: Guna Jeff Idle Sprite_25
+  - first:
+      213: -1417106391819880984
+    second: Guna Jeff Idle Sprite_26
+  - first:
+      213: -2427924996221736834
+    second: Guna Jeff Idle Sprite_27
+  - first:
+      213: -146649656459051267
+    second: Guna Jeff Idle Sprite_28
+  - first:
+      213: -2727354540305330434
+    second: Guna Jeff Idle Sprite_29
+  - first:
+      213: -9176735406374311110
+    second: Guna Jeff Idle Sprite_30
+  - first:
+      213: -5937329338285980626
+    second: Guna Jeff Idle Sprite_31
+  - first:
+      213: 2181979791600825583
+    second: Guna Jeff Idle Sprite_32
+  - first:
+      213: 6787577238768684778
+    second: Guna Jeff Idle Sprite_33
+  - first:
+      213: -8931881888537238040
+    second: Guna Jeff Idle Sprite_34
+  - first:
+      213: -4046936626756311602
+    second: Guna Jeff Idle Sprite_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd423da6bc1b64d0800000000000000
+      internalID: -3140384744245408259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711cc9dbac9631730800000000000000
+      internalID: 3968632016129016087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0544413b47114d30800000000000000
+      internalID: 4413834721516340492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a20ac20cb618b40800000000000000
+      internalID: 5440748297966856768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71712987a033bee90800000000000000
+      internalID: -6995441476124403945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c9c333774718b0800000000000000
+      internalID: -5181594286150793367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ae94f8f87642bf0800000000000000
+      internalID: -350041004746085874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d1decff8f932840800000000000000
+      internalID: 5198173835688221969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31323cf260d676d0800000000000000
+      internalID: -2992975778784595650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c61af86ab3b5e10800000000000000
+      internalID: 2187407630578838674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad52db67bc19080800000000000000
+      internalID: -9182334454391776584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90feacb635da83020800000000000000
+      internalID: 2321796181711843081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7792db520c08f2d10800000000000000
+      internalID: 2103041113760541047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513a8d61c670e2f0800000000000000
+      internalID: -945625348609265313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b3a436da9be3a0800000000000000
+      internalID: -6635039381203471408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05606ffda2a343160800000000000000
+      internalID: 7004287276288443984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6a9cb335327c50800000000000000
+      internalID: 6661445295158225943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0666669e3965dce30800000000000000
+      internalID: 4525368393853199968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c452c876438ba170800000000000000
+      internalID: 8190784686000329920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c961fb138ddeb00800000000000000
+      internalID: 859580812068559914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1fc5c13c1cc6990800000000000000
+      internalID: -7391319844683189847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f58d9284e5f19280800000000000000
+      internalID: -9038172615363164688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017aeadab36b5b200800000000000000
+      internalID: 195262526293714704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83ed69185f2ee520800000000000000
+      internalID: 2733174079290729359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a553c16058d50d00800000000000000
+      internalID: 938393937125791141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e31c84452108d40800000000000000
+      internalID: 5584483691146591857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5f3aaae3d655ce0800000000000000
+      internalID: -1417106391819880984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7869e264174e4ed0800000000000000
+      internalID: -2427924996221736834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe33581aeef6fdf0800000000000000
+      internalID: -146649656459051267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe4d88ee7d762ad0800000000000000
+      internalID: -2727354540305330434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b2f41b4cfa5a080800000000000000
+      internalID: -9176735406374311110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2485f49c6e5a9da0800000000000000
+      internalID: -5937329338285980626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4b2715f03f74e10800000000000000
+      internalID: 2181979791600825583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee855a5981523e50800000000000000
+      internalID: 6787577238768684778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e52ef9deb49b0480800000000000000
+      internalID: -8931881888537238040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Idle Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec52cad549466d7c0800000000000000
+      internalID: -4046936626756311602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

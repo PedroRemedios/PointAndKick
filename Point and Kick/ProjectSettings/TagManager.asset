@@ -9,8 +9,8 @@ TagManager:
   - CM Camera
   - Character Weapon
   - Character Attack
-  - HP
-  - HP2
+  - Enemy GFX
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -26,11 +26,11 @@ TagManager:
   - Player
   - Character
   - Environment
-  - Ground Check
+  - Attack
   - Enemy
   - Enemy GFX
-  - 
-  - 
+  - NPC
+  - NoWalkZone
   - 
   - 
   - 
@@ -59,4 +59,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 1867707007
+    locked: 0
+  - name: UI
+    uniqueID: 3922753723
     locked: 0

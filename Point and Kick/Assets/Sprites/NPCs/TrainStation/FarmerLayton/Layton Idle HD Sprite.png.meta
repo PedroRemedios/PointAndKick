@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: b9683eb4f598e9e4d97ccc890b7020be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5207228797332043074
+    second: Layton Idle HD Sprite_0
+  - first:
+      213: -4655229475325881750
+    second: Layton Idle HD Sprite_1
+  - first:
+      213: 2094027905269281841
+    second: Layton Idle HD Sprite_2
+  - first:
+      213: -5745159723307741541
+    second: Layton Idle HD Sprite_3
+  - first:
+      213: -3375442502586842880
+    second: Layton Idle HD Sprite_4
+  - first:
+      213: 4020571767372912716
+    second: Layton Idle HD Sprite_5
+  - first:
+      213: 1978961865203484917
+    second: Layton Idle HD Sprite_6
+  - first:
+      213: 8205822546013396530
+    second: Layton Idle HD Sprite_7
+  - first:
+      213: -6298103352182571910
+    second: Layton Idle HD Sprite_8
+  - first:
+      213: 4160463427101565447
+    second: Layton Idle HD Sprite_9
+  - first:
+      213: 8773568201015395811
+    second: Layton Idle HD Sprite_10
+  - first:
+      213: 3508127197748072430
+    second: Layton Idle HD Sprite_11
+  - first:
+      213: 8102190684165597960
+    second: Layton Idle HD Sprite_12
+  - first:
+      213: -8490608274666384183
+    second: Layton Idle HD Sprite_13
+  - first:
+      213: 4365713932912809533
+    second: Layton Idle HD Sprite_14
+  - first:
+      213: -5779558725567012778
+    second: Layton Idle HD Sprite_15
+  - first:
+      213: -7873460606507123204
+    second: Layton Idle HD Sprite_16
+  - first:
+      213: 8241669266548406809
+    second: Layton Idle HD Sprite_17
+  - first:
+      213: 3522238817711956764
+    second: Layton Idle HD Sprite_18
+  - first:
+      213: -6755481897839889347
+    second: Layton Idle HD Sprite_19
+  - first:
+      213: -2107470299215566113
+    second: Layton Idle HD Sprite_20
+  - first:
+      213: 8794112878371029123
+    second: Layton Idle HD Sprite_21
+  - first:
+      213: -6705552700759123061
+    second: Layton Idle HD Sprite_22
+  - first:
+      213: -570933116290523316
+    second: Layton Idle HD Sprite_23
+  - first:
+      213: 2523122522692755773
+    second: Layton Idle HD Sprite_24
+  - first:
+      213: -472602517637274144
+    second: Layton Idle HD Sprite_25
+  - first:
+      213: 3669028385955564836
+    second: Layton Idle HD Sprite_26
+  - first:
+      213: -6765709551259903551
+    second: Layton Idle HD Sprite_27
+  - first:
+      213: 7176620782500318723
+    second: Layton Idle HD Sprite_28
+  - first:
+      213: 7998220929041115660
+    second: Layton Idle HD Sprite_29
+  - first:
+      213: -8819229267135791891
+    second: Layton Idle HD Sprite_30
+  - first:
+      213: -1220118873216724738
+    second: Layton Idle HD Sprite_31
+  - first:
+      213: 2871704033594344285
+    second: Layton Idle HD Sprite_32
+  - first:
+      213: -8251509669139551377
+    second: Layton Idle HD Sprite_33
+  - first:
+      213: -6183305600771133513
+    second: Layton Idle HD Sprite_34
+  - first:
+      213: 3366735604819208190
+    second: Layton Idle HD Sprite_35
+  - first:
+      213: -178363088366869820
+    second: Layton Idle HD Sprite_36
+  - first:
+      213: 85800297946912045
+    second: Layton Idle HD Sprite_37
+  - first:
+      213: 333730989433889990
+    second: Layton Idle HD Sprite_38
+  - first:
+      213: -6589759822361384066
+    second: Layton Idle HD Sprite_39
+  - first:
+      213: 5354751659396210615
+    second: Layton Idle HD Sprite_40
+  - first:
+      213: -6670860254938544447
+    second: Layton Idle HD Sprite_41
+  - first:
+      213: 6290095429058011463
+    second: Layton Idle HD Sprite_42
+  - first:
+      213: -6246561281721791770
+    second: Layton Idle HD Sprite_43
+  - first:
+      213: -6582029393089319403
+    second: Layton Idle HD Sprite_44
+  - first:
+      213: 1593744362200257998
+    second: Layton Idle HD Sprite_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac6d67ff43cb7b0800000000000000
+      internalID: -5207228797332043074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d547e47d456fb0800000000000000
+      internalID: -4655229475325881750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b453094b7f0d10800000000000000
+      internalID: 2094027905269281841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e4c5abba71540b0800000000000000
+      internalID: -5745159723307741541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0014e818de40821d0800000000000000
+      internalID: -3375442502586842880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c481a3478b0fbc730800000000000000
+      internalID: 4020571767372912716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88f77d45fa67b10800000000000000
+      internalID: 1978961865203484917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e15091120f0e170800000000000000
+      internalID: 8205822546013396530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf576be54a898a0800000000000000
+      internalID: -6298103352182571910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a461a17fecb930800000000000000
+      internalID: 4160463427101565447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e58f226bc9f1c970800000000000000
+      internalID: 8773568201015395811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef09a8791f5fa030800000000000000
+      internalID: 3508127197748072430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b6b200083c07070800000000000000
+      internalID: 8102190684165597960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4948562cc4b2a80800000000000000
+      internalID: -8490608274666384183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36dd3201b1269c30800000000000000
+      internalID: 4365713932912809533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650a114e5f1eacfa0800000000000000
+      internalID: -5779558725567012778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd7c143b49dbb290800000000000000
+      internalID: -7873460606507123204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a3fdc188a406270800000000000000
+      internalID: 8241669266548406809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1320d70b8181e030800000000000000
+      internalID: 3522238817711956764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34fba88105bf32a0800000000000000
+      internalID: -6755481897839889347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae190cde2c0c2e0800000000000000
+      internalID: -2107470299215566113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3804ef5d117fa0a70800000000000000
+      internalID: 8794112878371029123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b5790a85711f2a0800000000000000
+      internalID: -6705552700759123061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1ffc0b53a318f0800000000000000
+      internalID: -570933116290523316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31a3e9f09ee30320800000000000000
+      internalID: 2523122522692755773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e56640a38af079f0800000000000000
+      internalID: -472602517637274144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dc4bfa0e10be230800000000000000
+      internalID: 3669028385955564836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c99fa7620f5b12a0800000000000000
+      internalID: -6765709551259903551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0e9c049a789360800000000000000
+      internalID: 7176620782500318723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a279efe836ffe60800000000000000
+      internalID: 7998220929041115660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec74a335bdcb9580800000000000000
+      internalID: -8819229267135791891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0da2a6954411fe0800000000000000
+      internalID: -1220118873216724738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5382768a975ad720800000000000000
+      internalID: 2871704033594344285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6c3e9cafbc7d80800000000000000
+      internalID: -8251509669139551377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf6a50115c703aa0800000000000000
+      internalID: -6183305600771133513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a8e1e13c09be20800000000000000
+      internalID: 3366735604819208190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2e9d457b3568df0800000000000000
+      internalID: -178363088366869820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d259fb89ae2d03100800000000000000
+      internalID: 85800297946912045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c42fb31196a1a400800000000000000
+      internalID: 333730989433889990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b22090b587c84a0800000000000000
+      internalID: -6589759822361384066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf9eb67346ef4a40800000000000000
+      internalID: 5354751659396210615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6cd1e11f75c63a0800000000000000
+      internalID: -6670860254938544447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741af446778ea4750800000000000000
+      internalID: 6290095429058011463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea83472c91cf49a0800000000000000
+      internalID: -6246561281721791770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e2bbbd32fe7a4a0800000000000000
+      internalID: -6582029393089319403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layton Idle HD Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.58, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec55abbad0e1e1610800000000000000
+      internalID: 1593744362200257998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

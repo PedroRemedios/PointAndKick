@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: f71a4b53b5569854db1bfdf129737f8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6184407799832941996
+    second: Guna Jeff Down Sprite_0
+  - first:
+      213: 6672610674445579386
+    second: Guna Jeff Down Sprite_1
+  - first:
+      213: 3669565174048575767
+    second: Guna Jeff Down Sprite_2
+  - first:
+      213: 122204318426477172
+    second: Guna Jeff Down Sprite_3
+  - first:
+      213: -4455671445828203015
+    second: Guna Jeff Down Sprite_4
+  - first:
+      213: 4038497551914555637
+    second: Guna Jeff Down Sprite_5
+  - first:
+      213: 1224890030921446309
+    second: Guna Jeff Down Sprite_6
+  - first:
+      213: 1911309638751635774
+    second: Guna Jeff Down Sprite_7
+  - first:
+      213: -2669208677796083026
+    second: Guna Jeff Down Sprite_8
+  - first:
+      213: -8863538458641852033
+    second: Guna Jeff Down Sprite_9
+  - first:
+      213: 4537372080663883457
+    second: Guna Jeff Down Sprite_10
+  - first:
+      213: -7084391555990526039
+    second: Guna Jeff Down Sprite_11
+  - first:
+      213: -8292578022388798520
+    second: Guna Jeff Down Sprite_12
+  - first:
+      213: 2173563171178393243
+    second: Guna Jeff Down Sprite_13
+  - first:
+      213: 8243743187822727921
+    second: Guna Jeff Down Sprite_14
+  - first:
+      213: 6625348333746919564
+    second: Guna Jeff Down Sprite_15
+  - first:
+      213: -5022859475690693560
+    second: Guna Jeff Down Sprite_16
+  - first:
+      213: 7838487609070509533
+    second: Guna Jeff Down Sprite_17
+  - first:
+      213: -5989000437765665372
+    second: Guna Jeff Down Sprite_18
+  - first:
+      213: 4213606282210485977
+    second: Guna Jeff Down Sprite_19
+  - first:
+      213: 106870981622327951
+    second: Guna Jeff Down Sprite_20
+  - first:
+      213: -8843001478353837857
+    second: Guna Jeff Down Sprite_21
+  - first:
+      213: -7594411945635015633
+    second: Guna Jeff Down Sprite_22
+  - first:
+      213: 5423321477124276928
+    second: Guna Jeff Down Sprite_23
+  - first:
+      213: -3790729954440190648
+    second: Guna Jeff Down Sprite_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.55, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca59237a02e63d550800000000000000
+      internalID: 6184407799832941996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74fece2e00e99c50800000000000000
+      internalID: 6672610674445579386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7115f47651aece230800000000000000
+      internalID: 3669565174048575767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47234dd1e2822b100800000000000000
+      internalID: 122204318426477172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd0f8b5d664a22c0800000000000000
+      internalID: -4455671445828203015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8d6286020ab0830800000000000000
+      internalID: 4038497551914555637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a37dfd4efeaff010800000000000000
+      internalID: 1224890030921446309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3942996df5568a10800000000000000
+      internalID: 1911309638751635774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa039089d015fad0800000000000000
+      internalID: -2669208677796083026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7993af9bb26ef480800000000000000
+      internalID: -8863538458641852033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceeeb90edbf7fe30800000000000000
+      internalID: 4537372080663883457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7686f1a6f2fad90800000000000000
+      internalID: -7084391555990526039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbed4f7938daec80800000000000000
+      internalID: -8292578022388798520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ea5fa203c0a2e10800000000000000
+      internalID: 2173563171178393243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f258b980c8a76270800000000000000
+      internalID: 8243743187822727921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Down Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88163af437f1fb50800000000000000
+      internalID: 6625348333746919564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

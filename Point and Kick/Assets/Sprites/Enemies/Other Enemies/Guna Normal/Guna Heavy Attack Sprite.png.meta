@@ -1,0 +1,2160 @@
+fileFormatVersion: 2
+guid: 9d0981ab94b597b45be96626cc7bae83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5577412565440259627
+    second: Guna Heavy Attack Sprite_0
+  - first:
+      213: -1154065459357075670
+    second: Guna Heavy Attack Sprite_1
+  - first:
+      213: -7321803116692154345
+    second: Guna Heavy Attack Sprite_2
+  - first:
+      213: -8741636276061146551
+    second: Guna Heavy Attack Sprite_3
+  - first:
+      213: 8176802809987556404
+    second: Guna Heavy Attack Sprite_4
+  - first:
+      213: -1581409706256246950
+    second: Guna Heavy Attack Sprite_5
+  - first:
+      213: 7236825404075546573
+    second: Guna Heavy Attack Sprite_6
+  - first:
+      213: -1009596074929196989
+    second: Guna Heavy Attack Sprite_7
+  - first:
+      213: 6496365085831879559
+    second: Guna Heavy Attack Sprite_8
+  - first:
+      213: -5469651039547528368
+    second: Guna Heavy Attack Sprite_9
+  - first:
+      213: -1636647521041195336
+    second: Guna Heavy Attack Sprite_10
+  - first:
+      213: 1568388098114818647
+    second: Guna Heavy Attack Sprite_11
+  - first:
+      213: -4589119967925903090
+    second: Guna Heavy Attack Sprite_12
+  - first:
+      213: 996748812926581935
+    second: Guna Heavy Attack Sprite_13
+  - first:
+      213: -5027067251534260527
+    second: Guna Heavy Attack Sprite_14
+  - first:
+      213: 981373397638895212
+    second: Guna Heavy Attack Sprite_15
+  - first:
+      213: 4094913819777528049
+    second: Guna Heavy Attack Sprite_16
+  - first:
+      213: -1564503187131819887
+    second: Guna Heavy Attack Sprite_17
+  - first:
+      213: -1198367937860754531
+    second: Guna Heavy Attack Sprite_18
+  - first:
+      213: -2124967634809375615
+    second: Guna Heavy Attack Sprite_19
+  - first:
+      213: 6088869307206445671
+    second: Guna Heavy Attack Sprite_20
+  - first:
+      213: -2479421699514865816
+    second: Guna Heavy Attack Sprite_21
+  - first:
+      213: -2818566610504290944
+    second: Guna Heavy Attack Sprite_22
+  - first:
+      213: 8208062930211691663
+    second: Guna Heavy Attack Sprite_23
+  - first:
+      213: -1492568674144337928
+    second: Guna Heavy Attack Sprite_24
+  - first:
+      213: 4681259016393602916
+    second: Guna Heavy Attack Sprite_25
+  - first:
+      213: -206464952046564738
+    second: Guna Heavy Attack Sprite_26
+  - first:
+      213: -8185821245674892543
+    second: Guna Heavy Attack Sprite_27
+  - first:
+      213: -6556794931328972022
+    second: Guna Heavy Attack Sprite_28
+  - first:
+      213: -9192261617820793603
+    second: Guna Heavy Attack Sprite_29
+  - first:
+      213: -4798500650409824306
+    second: Guna Heavy Attack Sprite_30
+  - first:
+      213: 5733098237253059395
+    second: Guna Heavy Attack Sprite_31
+  - first:
+      213: 7125475777036314069
+    second: Guna Heavy Attack Sprite_32
+  - first:
+      213: -5602695926882429904
+    second: Guna Heavy Attack Sprite_33
+  - first:
+      213: -3900834709385306715
+    second: Guna Heavy Attack Sprite_34
+  - first:
+      213: 2715059695474280453
+    second: Guna Heavy Attack Sprite_35
+  - first:
+      213: 5566318575539156064
+    second: Guna Heavy Attack Sprite_36
+  - first:
+      213: -2523107118912304497
+    second: Guna Heavy Attack Sprite_37
+  - first:
+      213: -1357424528039212929
+    second: Guna Heavy Attack Sprite_38
+  - first:
+      213: -936474551830402706
+    second: Guna Heavy Attack Sprite_39
+  - first:
+      213: 8249642847014795091
+    second: Guna Heavy Attack Sprite_40
+  - first:
+      213: -5986560227394634710
+    second: Guna Heavy Attack Sprite_41
+  - first:
+      213: 1885587660194808764
+    second: Guna Heavy Attack Sprite_42
+  - first:
+      213: 1670411271067207350
+    second: Guna Heavy Attack Sprite_43
+  - first:
+      213: -3391963946375288748
+    second: Guna Heavy Attack Sprite_44
+  - first:
+      213: 1280369341799073170
+    second: Guna Heavy Attack Sprite_45
+  - first:
+      213: 2215774358342784566
+    second: Guna Heavy Attack Sprite_46
+  - first:
+      213: 4152636727648422177
+    second: Guna Heavy Attack Sprite_47
+  - first:
+      213: 6778764926857001912
+    second: Guna Heavy Attack Sprite_48
+  - first:
+      213: -7429543694634306722
+    second: Guna Heavy Attack Sprite_49
+  - first:
+      213: -6747666581126115475
+    second: Guna Heavy Attack Sprite_50
+  - first:
+      213: 7019739331805965124
+    second: Guna Heavy Attack Sprite_51
+  - first:
+      213: -622493189965493858
+    second: Guna Heavy Attack Sprite_52
+  - first:
+      213: -2385041811683207269
+    second: Guna Heavy Attack Sprite_53
+  - first:
+      213: 257301672256030037
+    second: Guna Heavy Attack Sprite_54
+  - first:
+      213: 6705030487523539296
+    second: Guna Heavy Attack Sprite_55
+  - first:
+      213: 1670865982620332119
+    second: Guna Heavy Attack Sprite_56
+  - first:
+      213: -1884945130838796569
+    second: Guna Heavy Attack Sprite_57
+  - first:
+      213: 625430247301541656
+    second: Guna Heavy Attack Sprite_58
+  - first:
+      213: 7400913301136655006
+    second: Guna Heavy Attack Sprite_59
+  - first:
+      213: 801706600527352785
+    second: Guna Heavy Attack Sprite_60
+  - first:
+      213: 7603036946346172565
+    second: Guna Heavy Attack Sprite_61
+  - first:
+      213: 2387382703947403151
+    second: Guna Heavy Attack Sprite_62
+  - first:
+      213: 5084451234390559744
+    second: Guna Heavy Attack Sprite_63
+  - first:
+      213: -753742844984516245
+    second: Guna Heavy Attack Sprite_64
+  - first:
+      213: -8166016967543205574
+    second: Guna Heavy Attack Sprite_65
+  - first:
+      213: 6723902483137047604
+    second: Guna Heavy Attack Sprite_66
+  - first:
+      213: -496129613864552248
+    second: Guna Heavy Attack Sprite_67
+  - first:
+      213: 1196130330681368369
+    second: Guna Heavy Attack Sprite_68
+  - first:
+      213: 9011520857087653693
+    second: Guna Heavy Attack Sprite_69
+  - first:
+      213: -3782695207170039601
+    second: Guna Heavy Attack Sprite_70
+  - first:
+      213: 8322566463946928505
+    second: Guna Heavy Attack Sprite_71
+  - first:
+      213: 5562236950155521750
+    second: Guna Heavy Attack Sprite_72
+  - first:
+      213: -1639190582374721940
+    second: Guna Heavy Attack Sprite_73
+  - first:
+      213: 7308963957563400503
+    second: Guna Heavy Attack Sprite_74
+  - first:
+      213: -450330698573221929
+    second: Guna Heavy Attack Sprite_75
+  - first:
+      213: 2876182594165455468
+    second: Guna Heavy Attack Sprite_76
+  - first:
+      213: 5085192547216035856
+    second: Guna Heavy Attack Sprite_77
+  - first:
+      213: -6632760678564162966
+    second: Guna Heavy Attack Sprite_78
+  - first:
+      213: -1991621494518246224
+    second: Guna Heavy Attack Sprite_79
+  - first:
+      213: -9048052710622432192
+    second: Guna Heavy Attack Sprite_80
+  - first:
+      213: 8377115930347552622
+    second: Guna Heavy Attack Sprite_81
+  - first:
+      213: 8374598161027306698
+    second: Guna Heavy Attack Sprite_82
+  - first:
+      213: -5614563971849767626
+    second: Guna Heavy Attack Sprite_83
+  - first:
+      213: -2289976894706858650
+    second: Guna Heavy Attack Sprite_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 10112
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9122772dc0992b0800000000000000
+      internalID: -5577412565440259627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 10112
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a273977449febffe0800000000000000
+      internalID: -1154065459357075670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 10112
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185732abdab36a90800000000000000
+      internalID: -7321803116692154345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 7868
+        y: 10112
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942f4b14f187fa680800000000000000
+      internalID: -8741636276061146551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 10112
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43469b745d6d97170800000000000000
+      internalID: 8176802809987556404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 10112
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57dd363044bd0ae0800000000000000
+      internalID: -1581409706256246950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc71277dc5e5e6460800000000000000
+      internalID: 7236825404075546573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340773b08b13df1f0800000000000000
+      internalID: -1009596074929196989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b524850a9b72a50800000000000000
+      internalID: 6496365085831879559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b6c66eb55e714b0800000000000000
+      internalID: -5469651039547528368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bed0dd30c57949e0800000000000000
+      internalID: -1636647521041195336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75295126aa804c510800000000000000
+      internalID: 1568388098114818647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ef1014bb2050c0800000000000000
+      internalID: -4589119967925903090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 7868
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facf7cca3c925dd00800000000000000
+      internalID: 996748812926581935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d61d4228f44c3ab0800000000000000
+      internalID: -5027067251534260527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 8848
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d846d7e98e9d00800000000000000
+      internalID: 981373397638895212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f07dad5c6e04d830800000000000000
+      internalID: 4094913819777528049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1989a01f3a4c94ae0800000000000000
+      internalID: -1564503187131819887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93a791b5ba8e5fe0800000000000000
+      internalID: -1198367937860754531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1843cf7d1399282e0800000000000000
+      internalID: -2124967634809375615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aa1dbef52008450800000000000000
+      internalID: 6088869307206445671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8676500d913579dd0800000000000000
+      internalID: -2479421699514865816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d6d15e99072e8d0800000000000000
+      internalID: -2818566610504290944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 7868
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd1513fb5e8e170800000000000000
+      internalID: 8208062930211691663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff30c6e2b4594be0800000000000000
+      internalID: -1492568674144337928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 7584
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4673cb5e54c27f040800000000000000
+      internalID: 4681259016393602916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a42b2583d722df0800000000000000
+      internalID: -206464952046564738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d3b882fe166e80800000000000000
+      internalID: -8185821245674892543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b0e05dfb59105a0800000000000000
+      internalID: -6556794931328972022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df48553e2c68e6080800000000000000
+      internalID: -9192261617820793603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf67ddf41d486db0800000000000000
+      internalID: -4798500650409824306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34303e5b87e009f40800000000000000
+      internalID: 5733098237253059395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d566e18776c2e260800000000000000
+      internalID: 7125475777036314069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 7868
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03415a52db93f32b0800000000000000
+      internalID: -5602695926882429904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad1393df737dd9c0800000000000000
+      internalID: -3900834709385306715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 6320
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50889b47864dda520800000000000000
+      internalID: 2715059695474280453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0647ba9b0498f3d40800000000000000
+      internalID: 5566318575539156064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a09fe717f1cfcd0800000000000000
+      internalID: -2523107118912304497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7802dc6595792de0800000000000000
+      internalID: -1357424528039212929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69a4f45b59f003f0800000000000000
+      internalID: -936474551830402706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357b82cf57e9c7270800000000000000
+      internalID: 8249642847014795091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c39abf0377beca0800000000000000
+      internalID: -5986560227394634710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb385c69cf3fa2a10800000000000000
+      internalID: 1885587660194808764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 7868
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b605c8633e7e2710800000000000000
+      internalID: 1670411271067207350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4586e5d13c25de0d0800000000000000
+      internalID: -3391963946375288748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 5056
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2950c37f129c4c110800000000000000
+      internalID: 1280369341799073170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636d07b0a0300ce10800000000000000
+      internalID: 2215774358342784566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12989b82a1121a930800000000000000
+      internalID: 4152636727648422177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb303919c2031e50800000000000000
+      internalID: 6778764926857001912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5334168f55f4e890800000000000000
+      internalID: -7429543694634306722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0431cef87b52a0800000000000000
+      internalID: -6747666581126115475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be128eabf1b6160800000000000000
+      internalID: 7019739331805965124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99c109edb57c57f0800000000000000
+      internalID: -622493189965493858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 7868
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971b28db11a6eed0800000000000000
+      internalID: -2385041811683207269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5554fe6f18e129300800000000000000
+      internalID: 257301672256030037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069310124bd0d0d50800000000000000
+      internalID: 6705030487523539296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7507e5132cb103710800000000000000
+      internalID: 1670865982620332119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6504fe36457d5e0800000000000000
+      internalID: -1884945130838796569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f613a0f79fda800800000000000000
+      internalID: 625430247301541656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c6b78f6355b660800000000000000
+      internalID: 7400913301136655006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3d482d7eb302b00800000000000000
+      internalID: 801706600527352785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906221f1d9638960800000000000000
+      internalID: 7603036946346172565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f42bb9befa12120800000000000000
+      internalID: 2387382703947403151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 7868
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c45a785799f8640800000000000000
+      internalID: 5084451234390559744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61a4b040ea2a85f0800000000000000
+      internalID: -753742844984516245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3156cb55da7cae80800000000000000
+      internalID: -8166016967543205574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c20c30fa9105d50800000000000000
+      internalID: 6723902483137047604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83d0baeb46d19f0800000000000000
+      internalID: -496129613864552248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f5559c232899010800000000000000
+      internalID: 1196130330681368369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37bbb4797a5f0d70800000000000000
+      internalID: 9011520857087653693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0ae0b20ca218bc0800000000000000
+      internalID: -3782695207170039601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971b227aa12bf7370800000000000000
+      internalID: 8322566463946928505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de62924909013d40800000000000000
+      internalID: 5562236950155521750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 7868
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c669362a9dc6049e0800000000000000
+      internalID: -1639190582374721940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73123beaef7ae6560800000000000000
+      internalID: 7308963957563400503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfe6189d9a10c9f0800000000000000
+      internalID: -450330698573221929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ab46aa4d04ae720800000000000000
+      internalID: 2876182594165455468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010964fddab329640800000000000000
+      internalID: 5085192547216035856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6211020e43b3f3a0800000000000000
+      internalID: -6632760678564162966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b415348dc65c54e0800000000000000
+      internalID: -1991621494518246224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f6529ffbde6280800000000000000
+      internalID: -9048052710622432192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb1a60e8e714470800000000000000
+      internalID: 8377115930347552622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41cac28ac883470800000000000000
+      internalID: 8374598161027306698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 7868
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635303990df0512b0800000000000000
+      internalID: -5614563971849767626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Heavy Attack Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654527a52e5830e0800000000000000
+      internalID: -2289976894706858650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

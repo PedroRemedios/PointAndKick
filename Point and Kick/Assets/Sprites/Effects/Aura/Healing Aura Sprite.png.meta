@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: b9c203e15de8cd746b34bb5b450ec376
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -66707392740871632
+    second: Healing Aura Sprite_0
+  - first:
+      213: 4100295282310048151
+    second: Healing Aura Sprite_1
+  - first:
+      213: -1957200118733288404
+    second: Healing Aura Sprite_2
+  - first:
+      213: 2309681346416254862
+    second: Healing Aura Sprite_3
+  - first:
+      213: -3103053022826349540
+    second: Healing Aura Sprite_4
+  - first:
+      213: 4291283024972140539
+    second: Healing Aura Sprite_5
+  - first:
+      213: 7595426474594024691
+    second: Healing Aura Sprite_6
+  - first:
+      213: 4392259103182357600
+    second: Healing Aura Sprite_7
+  - first:
+      213: -402110500072358491
+    second: Healing Aura Sprite_8
+  - first:
+      213: -2339426323155524082
+    second: Healing Aura Sprite_9
+  - first:
+      213: 6588516466818339442
+    second: Healing Aura Sprite_10
+  - first:
+      213: 1165440170078705751
+    second: Healing Aura Sprite_11
+  - first:
+      213: 2609939652094481594
+    second: Healing Aura Sprite_12
+  - first:
+      213: 1920950159842598719
+    second: Healing Aura Sprite_13
+  - first:
+      213: 6137689466842645015
+    second: Healing Aura Sprite_14
+  - first:
+      213: -5594554568754796361
+    second: Healing Aura Sprite_15
+  - first:
+      213: 7688594565174420818
+    second: Healing Aura Sprite_16
+  - first:
+      213: 5222765463635887871
+    second: Healing Aura Sprite_17
+  - first:
+      213: 2238626664481799722
+    second: Healing Aura Sprite_18
+  - first:
+      213: 8134180475421506713
+    second: Healing Aura Sprite_19
+  - first:
+      213: 6212936887786076364
+    second: Healing Aura Sprite_20
+  - first:
+      213: 2577586531215226068
+    second: Healing Aura Sprite_21
+  - first:
+      213: 5453410244704559764
+    second: Healing Aura Sprite_22
+  - first:
+      213: 6894147400096339987
+    second: Healing Aura Sprite_23
+  - first:
+      213: 1544434882444800726
+    second: Healing Aura Sprite_24
+  - first:
+      213: -3135241937233456358
+    second: Healing Aura Sprite_25
+  - first:
+      213: 9052741159535111952
+    second: Healing Aura Sprite_26
+  - first:
+      213: 4122650252866547088
+    second: Healing Aura Sprite_27
+  - first:
+      213: 6377780384830866532
+    second: Healing Aura Sprite_28
+  - first:
+      213: -6464372148857029989
+    second: Healing Aura Sprite_29
+  - first:
+      213: 2951430893580761353
+    second: Healing Aura Sprite_30
+  - first:
+      213: -6983703837094504448
+    second: Healing Aura Sprite_31
+  - first:
+      213: -4870648067608624427
+    second: Healing Aura Sprite_32
+  - first:
+      213: -8087142465213802004
+    second: Healing Aura Sprite_33
+  - first:
+      213: 3745165703309170230
+    second: Healing Aura Sprite_34
+  - first:
+      213: -6792155921960384822
+    second: Healing Aura Sprite_35
+  - first:
+      213: 3553369643200556308
+    second: Healing Aura Sprite_36
+  - first:
+      213: -8138296526279027822
+    second: Healing Aura Sprite_37
+  - first:
+      213: 7025076959781670478
+    second: Healing Aura Sprite_38
+  - first:
+      213: -3866166394823080160
+    second: Healing Aura Sprite_39
+  - first:
+      213: -2300491495039161073
+    second: Healing Aura Sprite_40
+  - first:
+      213: -7081169179498260905
+    second: Healing Aura Sprite_41
+  - first:
+      213: 2858901327249258096
+    second: Healing Aura Sprite_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Healing Aura Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9744
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032b9cfcaf1031ff0800000000000000
+      internalID: -66707392740871632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 9744
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799ec40c5dc27e830800000000000000
+      internalID: 4100295282310048151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 9744
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ccc889cd0a6d4e0800000000000000
+      internalID: -1957200118733288404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 9744
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f9c7582f2ad0020800000000000000
+      internalID: 2309681346416254862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 9744
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cbb3767bdbfe4d0800000000000000
+      internalID: -3103053022826349540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 9744
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffc02ecc23bd8b30800000000000000
+      internalID: 4291283024972140539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 9744
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc36c7e220686960800000000000000
+      internalID: 7595426474594024691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8120
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06409a6126074fc30800000000000000
+      internalID: 4392259103182357600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 8120
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7bb271aa6b6af0800000000000000
+      internalID: -402110500072358491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 8120
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ed166720b88fd0800000000000000
+      internalID: -2339426323155524082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 8120
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272d481b1dc1f6b50800000000000000
+      internalID: 6588516466818339442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 8120
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7581380f8a97c2010800000000000000
+      internalID: 1165440170078705751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 8120
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab45c48194e583420800000000000000
+      internalID: 2609939652094481594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 8120
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd5a42ef598aa10800000000000000
+      internalID: 1920950159842598719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6496
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71200dc1d047d2550800000000000000
+      internalID: 6137689466842645015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 6496
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8e4dcc2462c52b0800000000000000
+      internalID: -5594554568754796361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 6496
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2556837650063ba60800000000000000
+      internalID: 7688594565174420818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 6496
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6023d848dfa7840800000000000000
+      internalID: 5222765463635887871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 6496
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb7213713311f10800000000000000
+      internalID: 2238626664481799722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 6496
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cba60bb0a62e070800000000000000
+      internalID: 8134180475421506713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 6496
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f8609e29c83650800000000000000
+      internalID: 6212936887786076364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4872
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d43ae22b4d65c320800000000000000
+      internalID: 2577586531215226068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4872
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492671269b76eab40800000000000000
+      internalID: 5453410244704559764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 4872
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318dceb988eecaf50800000000000000
+      internalID: 6894147400096339987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 4872
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d238d2c75fee6510800000000000000
+      internalID: 1544434882444800726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 4872
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13da4eb1126d74d0800000000000000
+      internalID: -3135241937233456358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 4872
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe5a10f1cc1ad70800000000000000
+      internalID: 9052741159535111952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3248
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de84fef88963930800000000000000
+      internalID: 4122650252866547088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3248
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4644c45187d628850800000000000000
+      internalID: 6377780384830866532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 3248
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab273c7cfe946a0800000000000000
+      internalID: -6464372148857029989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 3248
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909bef6a2c695f820800000000000000
+      internalID: 2951430893580761353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 3248
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00813758c56e41f90800000000000000
+      internalID: -6983703837094504448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 3248
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2ce38636bf76cb0800000000000000
+      internalID: -4870648067608624427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 3248
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce954f086c2b4cf80800000000000000
+      internalID: -8087142465213802004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63618ba4d5089f330800000000000000
+      internalID: 3745165703309170230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1624
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac64c74ec2a6db1a0800000000000000
+      internalID: -6792155921960384822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1624
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d20aa2dda105130800000000000000
+      internalID: 3553369643200556308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1624
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d75a8d66fe0f80800000000000000
+      internalID: -8138296526279027822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1624
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e419346461e7160800000000000000
+      internalID: 7025076959781670478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 1624
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278402d52e985ac0800000000000000
+      internalID: -3866166394823080160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 1624
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d226d7c230310e0800000000000000
+      internalID: -2300491495039161073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756df8d1622aabd90800000000000000
+      internalID: -7081169179498260905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healing Aura Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 1624
+        height: 1624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b59a2c9bdca720800000000000000
+      internalID: 2858901327249258096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

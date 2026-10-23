@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb762a2294d4ea98a366f4867b8b8db, type: 3}
+  m_Name: MS01T2
+  m_EditorClassIdentifier: 
+  questChannel: {fileID: 11400000, guid: 207a8a62006fc3748aa16ee0a4d5f80d, type: 2}
+  actor: {fileID: 11400000, guid: 7796fa93668b57e4aa403798380674b3, type: 2}
+  incompleteInteraction: {fileID: 11400000, guid: c631e9e2fb7b46049bdd8ab65ff52c31, type: 2}
+  completeInteraction: {fileID: 11400000, guid: de412a6e6dc6831408b17404c1809c65, type: 2}
+  taskType: 1
+  item: 17
+  itemProgress: 1
+  state: 1
+  progress: 0

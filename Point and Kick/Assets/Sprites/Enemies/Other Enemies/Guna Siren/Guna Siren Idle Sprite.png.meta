@@ -1,0 +1,2352 @@
+fileFormatVersion: 2
+guid: 8949d19decf9bc74a802a34ccdfaf846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -205540181346718572
+    second: Guna Siren Idle Sprite_0
+  - first:
+      213: -8830088559187005854
+    second: Guna Siren Idle Sprite_1
+  - first:
+      213: -8314594812620794541
+    second: Guna Siren Idle Sprite_2
+  - first:
+      213: 6751483185298735851
+    second: Guna Siren Idle Sprite_3
+  - first:
+      213: 3538712246794521726
+    second: Guna Siren Idle Sprite_4
+  - first:
+      213: 4076912962665175370
+    second: Guna Siren Idle Sprite_5
+  - first:
+      213: 2886122084629338263
+    second: Guna Siren Idle Sprite_6
+  - first:
+      213: 3316824149017817585
+    second: Guna Siren Idle Sprite_7
+  - first:
+      213: 3607674855635076469
+    second: Guna Siren Idle Sprite_8
+  - first:
+      213: -1474739475464121420
+    second: Guna Siren Idle Sprite_9
+  - first:
+      213: -3977451171644332529
+    second: Guna Siren Idle Sprite_10
+  - first:
+      213: 5659472213040884811
+    second: Guna Siren Idle Sprite_11
+  - first:
+      213: -683877230896124714
+    second: Guna Siren Idle Sprite_12
+  - first:
+      213: -7840559789868745107
+    second: Guna Siren Idle Sprite_13
+  - first:
+      213: 6851540270368003861
+    second: Guna Siren Idle Sprite_14
+  - first:
+      213: 6533694801841115614
+    second: Guna Siren Idle Sprite_15
+  - first:
+      213: -2629970292617854718
+    second: Guna Siren Idle Sprite_16
+  - first:
+      213: 3954248666930148547
+    second: Guna Siren Idle Sprite_17
+  - first:
+      213: -3471937565987890931
+    second: Guna Siren Idle Sprite_18
+  - first:
+      213: -1377177191816317949
+    second: Guna Siren Idle Sprite_19
+  - first:
+      213: 3464491945617325649
+    second: Guna Siren Idle Sprite_20
+  - first:
+      213: 3030108545695113952
+    second: Guna Siren Idle Sprite_21
+  - first:
+      213: -6356527574436954186
+    second: Guna Siren Idle Sprite_22
+  - first:
+      213: -9046735676242285213
+    second: Guna Siren Idle Sprite_23
+  - first:
+      213: 2938356006728211972
+    second: Guna Siren Idle Sprite_24
+  - first:
+      213: -8883306862366271281
+    second: Guna Siren Idle Sprite_25
+  - first:
+      213: -2989709722501047069
+    second: Guna Siren Idle Sprite_26
+  - first:
+      213: -746931254564309265
+    second: Guna Siren Idle Sprite_27
+  - first:
+      213: 2488335876878840075
+    second: Guna Siren Idle Sprite_28
+  - first:
+      213: 1456015114859618016
+    second: Guna Siren Idle Sprite_29
+  - first:
+      213: -1921234438507440667
+    second: Guna Siren Idle Sprite_30
+  - first:
+      213: -8292909229216525832
+    second: Guna Siren Idle Sprite_31
+  - first:
+      213: 7919292057399162403
+    second: Guna Siren Idle Sprite_32
+  - first:
+      213: 2124120460540596427
+    second: Guna Siren Idle Sprite_33
+  - first:
+      213: 2825773012658234722
+    second: Guna Siren Idle Sprite_34
+  - first:
+      213: 1330039139872455066
+    second: Guna Siren Idle Sprite_35
+  - first:
+      213: 1285403380958880284
+    second: Guna Siren Idle Sprite_36
+  - first:
+      213: 8312734543318376754
+    second: Guna Siren Idle Sprite_37
+  - first:
+      213: 1654299910826076902
+    second: Guna Siren Idle Sprite_38
+  - first:
+      213: 9144187825348802054
+    second: Guna Siren Idle Sprite_39
+  - first:
+      213: -4143207945498317495
+    second: Guna Siren Idle Sprite_40
+  - first:
+      213: -7183122353686736990
+    second: Guna Siren Idle Sprite_41
+  - first:
+      213: 241342111281909755
+    second: Guna Siren Idle Sprite_42
+  - first:
+      213: -8409971104802897752
+    second: Guna Siren Idle Sprite_43
+  - first:
+      213: 1885894914424563395
+    second: Guna Siren Idle Sprite_44
+  - first:
+      213: -7159555242288466006
+    second: Guna Siren Idle Sprite_45
+  - first:
+      213: 6853559295022024911
+    second: Guna Siren Idle Sprite_46
+  - first:
+      213: 525069107672819318
+    second: Guna Siren Idle Sprite_47
+  - first:
+      213: -2255601245828333876
+    second: Guna Siren Idle Sprite_48
+  - first:
+      213: 7528169233576277695
+    second: Guna Siren Idle Sprite_49
+  - first:
+      213: -8998636390531720422
+    second: Guna Siren Idle Sprite_50
+  - first:
+      213: -6430016105131226162
+    second: Guna Siren Idle Sprite_51
+  - first:
+      213: -1049355435087147072
+    second: Guna Siren Idle Sprite_52
+  - first:
+      213: 4674856494811996740
+    second: Guna Siren Idle Sprite_53
+  - first:
+      213: -8894007565163527248
+    second: Guna Siren Idle Sprite_54
+  - first:
+      213: -6447307009995190638
+    second: Guna Siren Idle Sprite_55
+  - first:
+      213: -7102450149088723038
+    second: Guna Siren Idle Sprite_56
+  - first:
+      213: -8774389635864152885
+    second: Guna Siren Idle Sprite_57
+  - first:
+      213: 1337910510378138280
+    second: Guna Siren Idle Sprite_58
+  - first:
+      213: -5060703459352551353
+    second: Guna Siren Idle Sprite_59
+  - first:
+      213: 6088144161103343338
+    second: Guna Siren Idle Sprite_60
+  - first:
+      213: 3188362994861172680
+    second: Guna Siren Idle Sprite_61
+  - first:
+      213: -1500285106396542749
+    second: Guna Siren Idle Sprite_62
+  - first:
+      213: 6712706345477126195
+    second: Guna Siren Idle Sprite_63
+  - first:
+      213: 6378250131195157329
+    second: Guna Siren Idle Sprite_64
+  - first:
+      213: -7879718838460844661
+    second: Guna Siren Idle Sprite_65
+  - first:
+      213: -233154035575793323
+    second: Guna Siren Idle Sprite_66
+  - first:
+      213: 215769622880429052
+    second: Guna Siren Idle Sprite_67
+  - first:
+      213: 8964353084054087234
+    second: Guna Siren Idle Sprite_68
+  - first:
+      213: 163668001168904506
+    second: Guna Siren Idle Sprite_69
+  - first:
+      213: 625568185379165862
+    second: Guna Siren Idle Sprite_70
+  - first:
+      213: 3429508123030158856
+    second: Guna Siren Idle Sprite_71
+  - first:
+      213: 405450546499511951
+    second: Guna Siren Idle Sprite_72
+  - first:
+      213: 6550694091072558566
+    second: Guna Siren Idle Sprite_73
+  - first:
+      213: -3157121654225492832
+    second: Guna Siren Idle Sprite_74
+  - first:
+      213: -7121845774701480659
+    second: Guna Siren Idle Sprite_75
+  - first:
+      213: 7668189863308990003
+    second: Guna Siren Idle Sprite_76
+  - first:
+      213: 9098727717650504818
+    second: Guna Siren Idle Sprite_77
+  - first:
+      213: -7785960126263894406
+    second: Guna Siren Idle Sprite_78
+  - first:
+      213: 9021060397363639529
+    second: Guna Siren Idle Sprite_79
+  - first:
+      213: -8572615415586177718
+    second: Guna Siren Idle Sprite_80
+  - first:
+      213: -7460166797703526769
+    second: Guna Siren Idle Sprite_81
+  - first:
+      213: 2362064834420767790
+    second: Guna Siren Idle Sprite_82
+  - first:
+      213: -2311217971924193816
+    second: Guna Siren Idle Sprite_83
+  - first:
+      213: -2261305684853990849
+    second: Guna Siren Idle Sprite_84
+  - first:
+      213: -4393117476972769430
+    second: Guna Siren Idle Sprite_85
+  - first:
+      213: 8365264742605452157
+    second: Guna Siren Idle Sprite_86
+  - first:
+      213: -5713783100804334411
+    second: Guna Siren Idle Sprite_87
+  - first:
+      213: 2140495829395651366
+    second: Guna Siren Idle Sprite_88
+  - first:
+      213: -6424510981123827589
+    second: Guna Siren Idle Sprite_89
+  - first:
+      213: 4533985379210202442
+    second: Guna Siren Idle Sprite_90
+  - first:
+      213: 1560870904116696966
+    second: Guna Siren Idle Sprite_91
+  - first:
+      213: 5019458438318520818
+    second: Guna Siren Idle Sprite_92
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c62c74b46c52df0800000000000000
+      internalID: -205540181346718572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eea6e3d39357580800000000000000
+      internalID: -8830088559187005854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3559e6e0210ac9c80800000000000000
+      internalID: -8314594812620794541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be201c6af2612bd50800000000000000
+      internalID: 6751483185298735851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c03802a080c1130800000000000000
+      internalID: 3538712246794521726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d7d73dba149830800000000000000
+      internalID: 4076912962665175370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798ddb0aeb09d0820800000000000000
+      internalID: 2886122084629338263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f4a08df9b70e20800000000000000
+      internalID: 3316824149017817585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575cc3bba29011230800000000000000
+      internalID: 3607674855635076469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 11376
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b317b4b24ca88be0800000000000000
+      internalID: -1474739475464121420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06adaa9b314dc8c0800000000000000
+      internalID: -3977451171644332529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cee7a1efb7a8e40800000000000000
+      internalID: 5659472213040884811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc657628416286f0800000000000000
+      internalID: -683877230896124714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e79a4896cb03390800000000000000
+      internalID: -7840559789868745107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517919b239f851f50800000000000000
+      internalID: 6851540270368003861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed15e862ec85caa50800000000000000
+      internalID: 6533694801841115614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ceaaf3f7708bd0800000000000000
+      internalID: -2629970292617854718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4fee9463050e630800000000000000
+      internalID: 3954248666930148547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0915f8cd2331dfc0800000000000000
+      internalID: -3471937565987890931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 10112
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304b40104a843ece0800000000000000
+      internalID: -1377177191816317949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ef8b1a119541030800000000000000
+      internalID: 3464491945617325649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e268090bab1d0a20800000000000000
+      internalID: 3030108545695113952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb5b079d319c7a0800000000000000
+      internalID: -6356527574436954186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36da9b885d9837280800000000000000
+      internalID: -9046735676242285213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e9ba4583327c820800000000000000
+      internalID: 2938356006728211972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc85ed5797728b480800000000000000
+      internalID: -8883306862366271281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec1bc8f8da6286d0800000000000000
+      internalID: -2989709722501047069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6be0c3bfd52a5f0800000000000000
+      internalID: -746931254564309265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b013937db48588220800000000000000
+      internalID: 2488335876878840075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 8848
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee9ecc580ec43410800000000000000
+      internalID: 1456015114859618016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5548215776655e0800000000000000
+      internalID: -1921234438507440667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19df56efaa9ec80800000000000000
+      internalID: -8292909229216525832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32679d10b2af6ed60800000000000000
+      internalID: 7919292057399162403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc059a60e446a7d10800000000000000
+      internalID: 2124120460540596427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265216b5599273720800000000000000
+      internalID: 2825773012658234722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b6750d8f357210800000000000000
+      internalID: 1330039139872455066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e32b809ba6d110800000000000000
+      internalID: 1285403380958880284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316c9e3604cc5370800000000000000
+      internalID: 8312734543318376754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaafb8010145f610800000000000000
+      internalID: 1654299910826076902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 7584
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606fd51116ea6ee70800000000000000
+      internalID: 9144187825348802054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d2ff1435e5086c0800000000000000
+      internalID: -4143207945498317495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af8552f64c605c90800000000000000
+      internalID: -7183122353686736990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff0d4c1f5b695300800000000000000
+      internalID: 241342111281909755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08cee86d7c94b80800000000000000
+      internalID: -8409971104802897752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6edf9ce6b0c2a10800000000000000
+      internalID: 1885894914424563395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa73c99a07624ac90800000000000000
+      internalID: -7159555242288466006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc84ddafddbbc1f50800000000000000
+      internalID: 6853559295022024911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676ae5d429b694700800000000000000
+      internalID: 525069107672819318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce397b1e9e72b0e0800000000000000
+      internalID: -2255601245828333876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 6320
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6b650380e697860800000000000000
+      internalID: 7528169233576277695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b147f21eb6e1380800000000000000
+      internalID: -8998636390531720422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbcc998b6ef3c6a0800000000000000
+      internalID: -6430016105131226162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf4180aac0ff61f0800000000000000
+      internalID: -1049355435087147072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442623da63d60e040800000000000000
+      internalID: 4674856494811996740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b38ac0fd33229480800000000000000
+      internalID: -8894007565163527248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec9570f609686a0800000000000000
+      internalID: -6447307009995190638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af75a448370f6d90800000000000000
+      internalID: -7102450149088723038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b2796d1b1b3680800000000000000
+      internalID: -8774389635864152885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab9584586319210800000000000000
+      internalID: 1337910510378138280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 5056
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74063b73405c4c9b0800000000000000
+      internalID: -5060703459352551353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeeeefabde6d7450800000000000000
+      internalID: 6088144161103343338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c763bb40475f3c20800000000000000
+      internalID: 3188362994861172680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8cc6305aaed2be0800000000000000
+      internalID: -1500285106396542749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338bca31bd2582d50800000000000000
+      internalID: 6712706345477126195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd97e63b8148850800000000000000
+      internalID: 6378250131195157329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b857697077d95a290800000000000000
+      internalID: -7879718838460844661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595e83d3aba3ccf0800000000000000
+      internalID: -233154035575793323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ab1d24519ef200800000000000000
+      internalID: 215769622880429052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246a83082a7c76c70800000000000000
+      internalID: 8964353084054087234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 3792
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3155ce0e27754200800000000000000
+      internalID: 163668001168904506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a69f4043f67ea800800000000000000
+      internalID: 625568185379165862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e7783b77f089f20800000000000000
+      internalID: 3429508123030158856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f866716bf1370a500800000000000000
+      internalID: 405450546499511951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e551aa919db8ea50800000000000000
+      internalID: 6550694091072558566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a422372596af24d0800000000000000
+      internalID: -3157121654225492832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d253dc5400f1a2d90800000000000000
+      internalID: -7121845774701480659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33698c88d02ea6a60800000000000000
+      internalID: 7668189863308990003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c1f8ee6ac254e70800000000000000
+      internalID: 9098727717650504818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5fa65486b2f390800000000000000
+      internalID: -7785960126263894406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 2528
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e43432c2ae313d70800000000000000
+      internalID: 9021060397363639529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4db2fdf2b3f70980800000000000000
+      internalID: -8572615415586177718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86c7b9b2d9287890800000000000000
+      internalID: -7460166797703526769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c7710c37db7c020800000000000000
+      internalID: 2362064834420767790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eda5f8ff77ecefd0800000000000000
+      internalID: -2311217971924193816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad4b5e57a3e90e0800000000000000
+      internalID: -2261305684853990849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f4a703ee28803c0800000000000000
+      internalID: -4393117476972769430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f81b56f3671470800000000000000
+      internalID: 8365264742605452157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc7de0fa8094b0b0800000000000000
+      internalID: -5713783100804334411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3552bd9194bd10800000000000000
+      internalID: 2140495829395651366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 1264
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78948a1d4d87d6a0800000000000000
+      internalID: -6424510981123827589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d83a82ea3fbee30800000000000000
+      internalID: 4533985379210202442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6875e1441d359a510800000000000000
+      internalID: 1560870904116696966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Siren Idle Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 896
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.56, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ffccfad2b8a540800000000000000
+      internalID: 5019458438318520818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538794310c74eab4dabd0f97e906e187, type: 3}
+  m_Name: LaytonD1L6
+  m_EditorClassIdentifier: 
+  dialogueSpeaker: {fileID: 11400000, guid: 996727b2ae0b79f48ac3171165a05660, type: 2}
+  dialogueLine: "It\u2019s not \u201Cwhat\u201D, it\u2019s a\u2026 (deep breath)\u2026
+    it\u2019s a clock that you wear on your wrist."
+  nextLine: {fileID: 11400000, guid: 0bb93345cd676334d8a26f901ecd50c5, type: 2}

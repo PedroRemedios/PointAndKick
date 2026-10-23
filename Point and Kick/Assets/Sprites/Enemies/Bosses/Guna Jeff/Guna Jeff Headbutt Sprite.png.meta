@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: d66f372e0fe3da841b6d0fab4690bf28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5677330342325217744
+    second: Guna Jeff Headbutt Sprite_0
+  - first:
+      213: -1960825105367721189
+    second: Guna Jeff Headbutt Sprite_1
+  - first:
+      213: 1743676171698471677
+    second: Guna Jeff Headbutt Sprite_2
+  - first:
+      213: 4035499887638516083
+    second: Guna Jeff Headbutt Sprite_3
+  - first:
+      213: 2555442797375932453
+    second: Guna Jeff Headbutt Sprite_4
+  - first:
+      213: 4982948430873398165
+    second: Guna Jeff Headbutt Sprite_5
+  - first:
+      213: 3766052956417418206
+    second: Guna Jeff Headbutt Sprite_6
+  - first:
+      213: 4143619954561375286
+    second: Guna Jeff Headbutt Sprite_7
+  - first:
+      213: 1970477678091903922
+    second: Guna Jeff Headbutt Sprite_8
+  - first:
+      213: -2951959933371520882
+    second: Guna Jeff Headbutt Sprite_9
+  - first:
+      213: 8620289352830638725
+    second: Guna Jeff Headbutt Sprite_10
+  - first:
+      213: 4882320737096373890
+    second: Guna Jeff Headbutt Sprite_11
+  - first:
+      213: -2108176482776443270
+    second: Guna Jeff Headbutt Sprite_12
+  - first:
+      213: -3273155507651554018
+    second: Guna Jeff Headbutt Sprite_13
+  - first:
+      213: -2553378376351440941
+    second: Guna Jeff Headbutt Sprite_14
+  - first:
+      213: 5117837689130533635
+    second: Guna Jeff Headbutt Sprite_15
+  - first:
+      213: 3618007534681697879
+    second: Guna Jeff Headbutt Sprite_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d967d6dddde9ce40800000000000000
+      internalID: 5677330342325217744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b93ef94ffb9c4e0800000000000000
+      internalID: -1960825105367721189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df286616d38c23810800000000000000
+      internalID: 1743676171698471677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37192dd44c9f00830800000000000000
+      internalID: 4035499887638516083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5284c655fa1c67320800000000000000
+      internalID: 2555442797375932453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8c44723df62540800000000000000
+      internalID: 4982948430873398165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3e190e535b34430800000000000000
+      internalID: 3766052956417418206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cd9d31568118930800000000000000
+      internalID: 4143619954561375286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b32188120b885b10800000000000000
+      internalID: 1970477678091903922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88643ca4188807d0800000000000000
+      internalID: -2951959933371520882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a5d808e7b61a770800000000000000
+      internalID: 8620289352830638725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286172eb7dc71c340800000000000000
+      internalID: 4882320737096373890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76174498a04eb2e0800000000000000
+      internalID: -2108176482776443270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d0df586a6392d0800000000000000
+      internalID: -3273155507651554018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df986425e3909cd0800000000000000
+      internalID: -2553378376351440941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3034bb64346360740800000000000000
+      internalID: 5117837689130533635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Headbutt Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.63, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ea36b0faeb53230800000000000000
+      internalID: 3618007534681697879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

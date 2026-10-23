@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: fc759eee174afbb4980e9ec70ffbf680
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6836698931229163048
+    second: Guna Tank Walk Sprite_0
+  - first:
+      213: 8652249272039311482
+    second: Guna Tank Walk Sprite_1
+  - first:
+      213: -5114453446262177576
+    second: Guna Tank Walk Sprite_2
+  - first:
+      213: -6209098197873822229
+    second: Guna Tank Walk Sprite_3
+  - first:
+      213: -7073381474374356797
+    second: Guna Tank Walk Sprite_4
+  - first:
+      213: -2185950128375276831
+    second: Guna Tank Walk Sprite_5
+  - first:
+      213: 850086068346998944
+    second: Guna Tank Walk Sprite_6
+  - first:
+      213: 2925467245944301288
+    second: Guna Tank Walk Sprite_7
+  - first:
+      213: 3078944037515557619
+    second: Guna Tank Walk Sprite_8
+  - first:
+      213: 642711934991750705
+    second: Guna Tank Walk Sprite_9
+  - first:
+      213: 1701491740994770946
+    second: Guna Tank Walk Sprite_10
+  - first:
+      213: 4522889914348269428
+    second: Guna Tank Walk Sprite_11
+  - first:
+      213: 781540060299752787
+    second: Guna Tank Walk Sprite_12
+  - first:
+      213: 1688013207037402078
+    second: Guna Tank Walk Sprite_13
+  - first:
+      213: 5977044463571281528
+    second: Guna Tank Walk Sprite_14
+  - first:
+      213: 1811638845023501297
+    second: Guna Tank Walk Sprite_15
+  - first:
+      213: 7250501709722530221
+    second: Guna Tank Walk Sprite_16
+  - first:
+      213: 5043858898415485930
+    second: Guna Tank Walk Sprite_17
+  - first:
+      213: -2290921716927589043
+    second: Guna Tank Walk Sprite_18
+  - first:
+      213: 689532437197847135
+    second: Guna Tank Walk Sprite_19
+  - first:
+      213: -3779478070208162753
+    second: Guna Tank Walk Sprite_20
+  - first:
+      213: -5093062021573742907
+    second: Guna Tank Walk Sprite_21
+  - first:
+      213: -5967395064398665775
+    second: Guna Tank Walk Sprite_22
+  - first:
+      213: 5313573852348020776
+    second: Guna Tank Walk Sprite_23
+  - first:
+      213: 3686721027468664105
+    second: Guna Tank Walk Sprite_24
+  - first:
+      213: -6663187138248849446
+    second: Guna Tank Walk Sprite_25
+  - first:
+      213: -2689609023174724496
+    second: Guna Tank Walk Sprite_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ef430a475d0ee50800000000000000
+      internalID: 6836698931229163048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7809001fd6f21870800000000000000
+      internalID: 8652249272039311482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0454b20bfc509b0800000000000000
+      internalID: -5114453446262177576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be57634161ad4d9a0800000000000000
+      internalID: -6209098197873822229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c07613860d46dd90800000000000000
+      internalID: -7073381474374356797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead87d90f1f9a1e0800000000000000
+      internalID: -2185950128375276831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0d45476cc1ccb00800000000000000
+      internalID: 850086068346998944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6ec8cd5f8599820800000000000000
+      internalID: 2925467245944301288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fafb670a4b9aba20800000000000000
+      internalID: 3078944037515557619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1365612891f5be800800000000000000
+      internalID: 642711934991750705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208114a39b9ec9710800000000000000
+      internalID: 1701491740994770946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47feceee96884ce30800000000000000
+      internalID: 4522889914348269428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35577e74b8698da00800000000000000
+      internalID: 781540060299752787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbd1ad71170d6710800000000000000
+      internalID: 1688013207037402078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876a1e9954ab2f250800000000000000
+      internalID: 5977044463571281528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbbcea5eeb342910800000000000000
+      internalID: 1811638845023501297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1bf53e3e4fe9460800000000000000
+      internalID: 7250501709722530221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae38f31d1f26ff540800000000000000
+      internalID: 5043858898415485930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d459d4616d20530e0800000000000000
+      internalID: -2290921716927589043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a794c2916b19900800000000000000
+      internalID: 689532437197847135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f341ddc38b89c8bc0800000000000000
+      internalID: -3779478070208162753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6019531fc159b0800000000000000
+      internalID: -5093062021573742907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d729183ecd8f2da0800000000000000
+      internalID: -5967395064398665775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f105244b9db940800000000000000
+      internalID: 5313573852348020776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d9b3ccd3dd92330800000000000000
+      internalID: 3686721027468664105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7c9b0d99a9783a0800000000000000
+      internalID: -6663187138248849446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Walk Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743cf4f7d69caad0800000000000000
+      internalID: -2689609023174724496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

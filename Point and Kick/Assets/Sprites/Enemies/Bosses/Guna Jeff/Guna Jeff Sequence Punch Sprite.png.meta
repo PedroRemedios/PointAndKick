@@ -1,0 +1,1440 @@
+fileFormatVersion: 2
+guid: 81e8b173c4de89349bae7aa2e3851920
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6864510566686401660
+    second: Guna Jeff Sequence Punch Sprite_0
+  - first:
+      213: -83025554319836994
+    second: Guna Jeff Sequence Punch Sprite_1
+  - first:
+      213: -978776714239587994
+    second: Guna Jeff Sequence Punch Sprite_2
+  - first:
+      213: -8660222842801711261
+    second: Guna Jeff Sequence Punch Sprite_3
+  - first:
+      213: 2641750917949235720
+    second: Guna Jeff Sequence Punch Sprite_4
+  - first:
+      213: -6614644065829149063
+    second: Guna Jeff Sequence Punch Sprite_5
+  - first:
+      213: -2790770078224900377
+    second: Guna Jeff Sequence Punch Sprite_6
+  - first:
+      213: 7657595477844696535
+    second: Guna Jeff Sequence Punch Sprite_7
+  - first:
+      213: -3138861758402534743
+    second: Guna Jeff Sequence Punch Sprite_8
+  - first:
+      213: 4437308501315868095
+    second: Guna Jeff Sequence Punch Sprite_9
+  - first:
+      213: 2014014060773667748
+    second: Guna Jeff Sequence Punch Sprite_10
+  - first:
+      213: -8889159239953849993
+    second: Guna Jeff Sequence Punch Sprite_11
+  - first:
+      213: -6393097444788689516
+    second: Guna Jeff Sequence Punch Sprite_12
+  - first:
+      213: -7856552358294523814
+    second: Guna Jeff Sequence Punch Sprite_13
+  - first:
+      213: -109375508434072902
+    second: Guna Jeff Sequence Punch Sprite_14
+  - first:
+      213: -2804577889335236666
+    second: Guna Jeff Sequence Punch Sprite_15
+  - first:
+      213: -7171901326452086321
+    second: Guna Jeff Sequence Punch Sprite_16
+  - first:
+      213: 1322059474739429475
+    second: Guna Jeff Sequence Punch Sprite_17
+  - first:
+      213: -7110030418618605549
+    second: Guna Jeff Sequence Punch Sprite_18
+  - first:
+      213: -8846820887830147845
+    second: Guna Jeff Sequence Punch Sprite_19
+  - first:
+      213: 5491057599879964227
+    second: Guna Jeff Sequence Punch Sprite_20
+  - first:
+      213: 2626514208023672776
+    second: Guna Jeff Sequence Punch Sprite_21
+  - first:
+      213: -6640177258458113934
+    second: Guna Jeff Sequence Punch Sprite_22
+  - first:
+      213: 7974015537211572871
+    second: Guna Jeff Sequence Punch Sprite_23
+  - first:
+      213: -193459702508635693
+    second: Guna Jeff Sequence Punch Sprite_24
+  - first:
+      213: -8368742541988990893
+    second: Guna Jeff Sequence Punch Sprite_25
+  - first:
+      213: 4067480876257144588
+    second: Guna Jeff Sequence Punch Sprite_26
+  - first:
+      213: 604370772743606689
+    second: Guna Jeff Sequence Punch Sprite_27
+  - first:
+      213: -2473776936093914884
+    second: Guna Jeff Sequence Punch Sprite_28
+  - first:
+      213: 1574976760827806237
+    second: Guna Jeff Sequence Punch Sprite_29
+  - first:
+      213: 1930329736770065260
+    second: Guna Jeff Sequence Punch Sprite_30
+  - first:
+      213: 1171514940488750601
+    second: Guna Jeff Sequence Punch Sprite_31
+  - first:
+      213: -5998322724643334462
+    second: Guna Jeff Sequence Punch Sprite_32
+  - first:
+      213: 8884221205122450053
+    second: Guna Jeff Sequence Punch Sprite_33
+  - first:
+      213: -4226326964318330218
+    second: Guna Jeff Sequence Punch Sprite_34
+  - first:
+      213: 4090006522373891871
+    second: Guna Jeff Sequence Punch Sprite_35
+  - first:
+      213: 5172238100567070879
+    second: Guna Jeff Sequence Punch Sprite_36
+  - first:
+      213: 2851376575508490954
+    second: Guna Jeff Sequence Punch Sprite_37
+  - first:
+      213: -4239870543924749194
+    second: Guna Jeff Sequence Punch Sprite_38
+  - first:
+      213: -4418253355908058235
+    second: Guna Jeff Sequence Punch Sprite_39
+  - first:
+      213: -2030295289697255483
+    second: Guna Jeff Sequence Punch Sprite_40
+  - first:
+      213: -7923357238385822703
+    second: Guna Jeff Sequence Punch Sprite_41
+  - first:
+      213: 1148757334115838195
+    second: Guna Jeff Sequence Punch Sprite_42
+  - first:
+      213: 5231648240974695654
+    second: Guna Jeff Sequence Punch Sprite_43
+  - first:
+      213: -1178603002145703926
+    second: Guna Jeff Sequence Punch Sprite_44
+  - first:
+      213: -588149978239580652
+    second: Guna Jeff Sequence Punch Sprite_45
+  - first:
+      213: -9146607645722205027
+    second: Guna Jeff Sequence Punch Sprite_46
+  - first:
+      213: -8425850108983762732
+    second: Guna Jeff Sequence Punch Sprite_47
+  - first:
+      213: -3153504365993328353
+    second: Guna Jeff Sequence Punch Sprite_48
+  - first:
+      213: 2472496611277943178
+    second: Guna Jeff Sequence Punch Sprite_49
+  - first:
+      213: -3446248042617304458
+    second: Guna Jeff Sequence Punch Sprite_50
+  - first:
+      213: -6730720133287849013
+    second: Guna Jeff Sequence Punch Sprite_51
+  - first:
+      213: 1162980227335460767
+    second: Guna Jeff Sequence Punch Sprite_52
+  - first:
+      213: 5431435930669255046
+    second: Guna Jeff Sequence Punch Sprite_53
+  - first:
+      213: -2144994585425421312
+    second: Guna Jeff Sequence Punch Sprite_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7584
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bddb3620c5cb0a0800000000000000
+      internalID: -6864510566686401660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 7584
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87c7fb2b809def0800000000000000
+      internalID: -83025554319836994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 7584
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694351a3cfaa62f0800000000000000
+      internalID: -978776714239587994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 7584
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36794135535b0d780800000000000000
+      internalID: -8660222842801711261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 7584
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8022d69967269a420800000000000000
+      internalID: 2641750917949235720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 7584
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ab9c94401434a0800000000000000
+      internalID: -6614644065829149063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 6894
+        y: 7584
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee9d9566613549d0800000000000000
+      internalID: -2790770078224900377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 8043
+        y: 7584
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd1292f38e354a60800000000000000
+      internalID: 7657595477844696535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2eb537cd58074d0800000000000000
+      internalID: -3138861758402534743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d0c3729c749d30800000000000000
+      internalID: 4437308501315868095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a37e091e1733fb10800000000000000
+      internalID: 2014014060773667748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7716bae94cc53a480800000000000000
+      internalID: -8889159239953849993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495a9ecfeb72747a0800000000000000
+      internalID: -6393097444788689516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50f894814be7f290800000000000000
+      internalID: -7856552358294523814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 6894
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac8a8fd8b6b7ef0800000000000000
+      internalID: -109375508434072902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 8043
+        y: 6320
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c72249d4432419d0800000000000000
+      internalID: -2804577889335236666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9aba0fdb9487c90800000000000000
+      internalID: -7171901326452086321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36088c37616e85210800000000000000
+      internalID: 1322059474739429475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310240c3109145d90800000000000000
+      internalID: -7110030418618605549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcc0656647c93580800000000000000
+      internalID: -8846820887830147845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346ed025bc7243c40800000000000000
+      internalID: 5491057599879964227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c774ce91c0437420800000000000000
+      internalID: 2626514208023672776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 6894
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2781affe6f959d3a0800000000000000
+      internalID: -6640177258458113934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 8043
+        y: 5056
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78201f802e469ae60800000000000000
+      internalID: 7974015537211572871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9be91fc61b05df0800000000000000
+      internalID: -193459702508635693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350fb006ff04cdb80800000000000000
+      internalID: -8368742541988990893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f60087e48927830800000000000000
+      internalID: 4067480876257144588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d2060408236800800000000000000
+      internalID: 604370772743606689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf86196bbf06badd0800000000000000
+      internalID: -2473776936093914884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1203a6f4017bd510800000000000000
+      internalID: 1574976760827806237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 6894
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c639d831ba8e9ca10800000000000000
+      internalID: 1930329736770065260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 8043
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90615e4a1ae024010800000000000000
+      internalID: 1171514940488750601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c61b7d234da1cca0800000000000000
+      internalID: -5998322724643334462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582015d8d181b4b70800000000000000
+      internalID: 8884221205122450053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a62b94021955c0800000000000000
+      internalID: -4226326964318330218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176027234f92c830800000000000000
+      internalID: 4090006522373891871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f989a06162b77c740800000000000000
+      internalID: 5172238100567070879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaad0063ef129720800000000000000
+      internalID: 2851376575508490954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 6894
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c19bf3434f825c0800000000000000
+      internalID: -4239870543924749194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 8043
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5833c615bf53fa2c0800000000000000
+      internalID: -4418253355908058235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf3274e031f2d3e0800000000000000
+      internalID: -2030295289697255483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1143e7942949a0290800000000000000
+      internalID: -7923357238385822703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8691185b431ff00800000000000000
+      internalID: 1148757334115838195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec08115b5c8a9840800000000000000
+      internalID: 5231648240974695654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0875e560d2c4afe0800000000000000
+      internalID: -1178603002145703926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416406006b876d7f0800000000000000
+      internalID: -588149978239580652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 6894
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d942bd89ec8b01180800000000000000
+      internalID: -9146607645722205027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 8043
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0265bc7fd511b80800000000000000
+      internalID: -8425850108983762732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110353bc708c34d0800000000000000
+      internalID: -3153504365993328353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81349f6192105220800000000000000
+      internalID: 2472496611277943178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a09eb0aa77c20d0800000000000000
+      internalID: -3446248042617304458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3decc13bda792a0800000000000000
+      internalID: -6730720133287849013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f971223ea5cb32010800000000000000
+      internalID: 1162980227335460767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68985d3b336506b40800000000000000
+      internalID: 5431435930669255046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Sequence Punch Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 6894
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.54, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cd49a0ac27b32e0800000000000000
+      internalID: -2144994585425421312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

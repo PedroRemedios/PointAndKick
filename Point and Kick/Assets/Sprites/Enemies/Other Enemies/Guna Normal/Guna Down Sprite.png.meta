@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: d2b4a6422acbb4f43891ff6e1ee96086
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -619907230940363106
+    second: Guna Down Sprite_0
+  - first:
+      213: 3802488267115077139
+    second: Guna Down Sprite_1
+  - first:
+      213: 7625515557611912059
+    second: Guna Down Sprite_2
+  - first:
+      213: -8160437783328039527
+    second: Guna Down Sprite_3
+  - first:
+      213: -9135631134307171424
+    second: Guna Down Sprite_4
+  - first:
+      213: -6094121977957943770
+    second: Guna Down Sprite_5
+  - first:
+      213: -5424005662327865210
+    second: Guna Down Sprite_6
+  - first:
+      213: 1268842681141019577
+    second: Guna Down Sprite_7
+  - first:
+      213: -4330803052682187274
+    second: Guna Down Sprite_8
+  - first:
+      213: -5315121254831198722
+    second: Guna Down Sprite_9
+  - first:
+      213: -7604686702387070664
+    second: Guna Down Sprite_10
+  - first:
+      213: -4644607815585273906
+    second: Guna Down Sprite_11
+  - first:
+      213: 7456625989560958201
+    second: Guna Down Sprite_12
+  - first:
+      213: -7267325770686266369
+    second: Guna Down Sprite_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Down Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968a1a68a5a567f0800000000000000
+      internalID: -619907230940363106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e1cf7bee625c430800000000000000
+      internalID: 3802488267115077139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b3ca87ff543d960800000000000000
+      internalID: 7625515557611912059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 3792
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d5e09621d40ce80800000000000000
+      internalID: -8160437783328039527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34f90d2e7b73180800000000000000
+      internalID: -9135631134307171424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6267aed59545d6ba0800000000000000
+      internalID: -6094121977957943770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6808d35769f0ab4b0800000000000000
+      internalID: -5424005662327865210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 2528
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3c34522b5db9110800000000000000
+      internalID: 1268842681141019577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd63b4b195e5e3c0800000000000000
+      internalID: -4330803052682187274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd68a32165ec36b0800000000000000
+      internalID: -5315121254831198722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839f41c4cb9b67690800000000000000
+      internalID: -7604686702387070664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1264
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec76907ccc90b8fb0800000000000000
+      internalID: -4644607815585273906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf9b2a4d14b7760800000000000000
+      internalID: 7456625989560958201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Down Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 1124
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3043b27b5452b90800000000000000
+      internalID: -7267325770686266369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: bc07c8c573670f849a6a1f1bb1ed1219
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7241872831873805528
+    second: Guna Tank Fall Sprite_0
+  - first:
+      213: 1647524277970751638
+    second: Guna Tank Fall Sprite_1
+  - first:
+      213: 6525308214279424554
+    second: Guna Tank Fall Sprite_2
+  - first:
+      213: 1716789721084116717
+    second: Guna Tank Fall Sprite_3
+  - first:
+      213: -7916301332150231880
+    second: Guna Tank Fall Sprite_4
+  - first:
+      213: -4556626616759178038
+    second: Guna Tank Fall Sprite_5
+  - first:
+      213: -5786309556901677376
+    second: Guna Tank Fall Sprite_6
+  - first:
+      213: -3832847331810972982
+    second: Guna Tank Fall Sprite_7
+  - first:
+      213: -7265578264279268051
+    second: Guna Tank Fall Sprite_8
+  - first:
+      213: 6135852552736882169
+    second: Guna Tank Fall Sprite_9
+  - first:
+      213: -747022182437879370
+    second: Guna Tank Fall Sprite_10
+  - first:
+      213: 5166867850641381052
+    second: Guna Tank Fall Sprite_11
+  - first:
+      213: 1084158555839810768
+    second: Guna Tank Fall Sprite_12
+  - first:
+      213: 422333110601800651
+    second: Guna Tank Fall Sprite_13
+  - first:
+      213: -8944760115691616355
+    second: Guna Tank Fall Sprite_14
+  - first:
+      213: 2404703214322990088
+    second: Guna Tank Fall Sprite_15
+  - first:
+      213: -6277880744346952106
+    second: Guna Tank Fall Sprite_16
+  - first:
+      213: -772731362472363485
+    second: Guna Tank Fall Sprite_17
+  - first:
+      213: -8646274542849720974
+    second: Guna Tank Fall Sprite_18
+  - first:
+      213: -7436392792344696143
+    second: Guna Tank Fall Sprite_19
+  - first:
+      213: 1094441695926352453
+    second: Guna Tank Fall Sprite_20
+  - first:
+      213: -7297983698788733100
+    second: Guna Tank Fall Sprite_21
+  - first:
+      213: -1448558627739792890
+    second: Guna Tank Fall Sprite_22
+  - first:
+      213: 73229912317630958
+    second: Guna Tank Fall Sprite_23
+  - first:
+      213: 8212032210280740977
+    second: Guna Tank Fall Sprite_24
+  - first:
+      213: 7027948135112076383
+    second: Guna Tank Fall Sprite_25
+  - first:
+      213: 7393795452755308662
+    second: Guna Tank Fall Sprite_26
+  - first:
+      213: 1752891517169809469
+    second: Guna Tank Fall Sprite_27
+  - first:
+      213: -6092702639227727563
+    second: Guna Tank Fall Sprite_28
+  - first:
+      213: -158401070452259576
+    second: Guna Tank Fall Sprite_29
+  - first:
+      213: 8498278211739739816
+    second: Guna Tank Fall Sprite_30
+  - first:
+      213: -6590511595055214131
+    second: Guna Tank Fall Sprite_31
+  - first:
+      213: 6002897444244116141
+    second: Guna Tank Fall Sprite_32
+  - first:
+      213: 7328818437603783058
+    second: Guna Tank Fall Sprite_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce364b8fc408460800000000000000
+      internalID: 7241872831873805528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69057431a9e2dd610800000000000000
+      internalID: 1647524277970751638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a40129f3d8e8a50800000000000000
+      internalID: 6525308214279424554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb247c72343d710800000000000000
+      internalID: 1716789721084116717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcdb3a71e5a32290800000000000000
+      internalID: -7916301332150231880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accaafdeb3c93c0c0800000000000000
+      internalID: -4556626616759178038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c67d6c7d16e2bfa0800000000000000
+      internalID: -5786309556901677376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca6a15b8adfecac0800000000000000
+      internalID: -3832847331810972982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c5d5301b7b2b90800000000000000
+      internalID: -7265578264279268051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd3e08336de62550800000000000000
+      internalID: 6135852552736882169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10470784b02a5f0800000000000000
+      internalID: -747022182437879370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb69dd65fe664b740800000000000000
+      internalID: 5166867850641381052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc48016674bb0f00800000000000000
+      internalID: 1084158555839810768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb5e4af9bd6cd500800000000000000
+      internalID: 422333110601800651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d978e1fe014ddd380800000000000000
+      internalID: -8944760115691616355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c36ff25d83f5120800000000000000
+      internalID: 2404703214322990088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e5fe289bc70e8a0800000000000000
+      internalID: -6277880744346952106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32af7018be4b645f0800000000000000
+      internalID: -772731362472363485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d70fafc13420880800000000000000
+      internalID: -8646274542849720974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bae402b720acc890800000000000000
+      internalID: -7436392792344696143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54af0118cec303f00800000000000000
+      internalID: 1094441695926352453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f2b190e7a58ba90800000000000000
+      internalID: -7297983698788733100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a0e355a9fa5ebe0800000000000000
+      internalID: -1448558627739792890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee910ae973a240100800000000000000
+      internalID: 73229912317630958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17879d939cff6f170800000000000000
+      internalID: 8212032210280740977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c693dd799488160800000000000000
+      internalID: 7027948135112076383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f06f4ac90c9660800000000000000
+      internalID: 7393795452755308662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38b3b23c85835810800000000000000
+      internalID: 1752891517169809469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5311fbaea3f527ba0800000000000000
+      internalID: -6092702639227727563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c6afc01f3dcdf0800000000000000
+      internalID: -158401070452259576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6603df103ffe570800000000000000
+      internalID: 8498278211739739816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc114a05f9cc984a0800000000000000
+      internalID: -6590511595055214131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2554bbb639e4350800000000000000
+      internalID: 6002897444244116141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Fall Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291f4bc0a8135b560800000000000000
+      internalID: 7328818437603783058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

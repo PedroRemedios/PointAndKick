@@ -41,6 +41,30 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """"
+                },
+                {
+                    ""name"": ""Interact"",
+                    ""type"": ""Button"",
+                    ""id"": ""be3c395f-4f5e-47a0-be03-b4f06819168d"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""LookAt"",
+                    ""type"": ""Button"",
+                    ""id"": ""db9d8ddb-49cd-45dd-ad9b-aacddc8cc272"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""QAM"",
+                    ""type"": ""Button"",
+                    ""id"": ""22a93bf4-79ae-4b04-b1de-0149eddcd2bf"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
                 }
             ],
             ""bindings"": [
@@ -206,6 +230,94 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                     ""processors"": """",
                     ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
                     ""action"": ""Jump"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""95dbe027-df3e-4221-9e66-d6f068f0caec"",
+                    ""path"": ""<Gamepad>/buttonNorth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Interact"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""52c25be8-0318-499f-b11c-59a3f67fd6f3"",
+                    ""path"": ""<Keyboard>/k"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""action"": ""Interact"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""23ef3c57-4c3b-4eb7-8695-7412bcf6c934"",
+                    ""path"": ""<Keyboard>/x"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""action"": ""Interact"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""7bcd8b1c-556b-4831-8926-3788b75b6ddb"",
+                    ""path"": ""<Gamepad>/buttonEast"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""LookAt"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""73a9d968-0aeb-4244-91b1-6e889d70d8ad"",
+                    ""path"": ""<Keyboard>/l"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""action"": ""LookAt"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""3e95c8c1-9a35-4429-a58e-bb9bbc0505de"",
+                    ""path"": ""<Keyboard>/c"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""action"": ""LookAt"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""db9c4a7f-1a61-45c3-95be-c92b371d6b5f"",
+                    ""path"": ""<Gamepad>/select"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""QAM"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""116b370a-6df5-439b-96c6-6eb1c7bc237c"",
+                    ""path"": ""<Keyboard>/backspace"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
+                    ""action"": ""QAM"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -517,22 +629,11 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""74632845-436b-4e29-8964-cf8ad1349b4b"",
-                    ""path"": ""<Keyboard>/l"",
+                    ""id"": ""d5433390-04ff-4a54-bc6e-a54ca6e19696"",
+                    ""path"": ""<Keyboard>/leftCtrl"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": ""Keyboard - WASD Setup"",
-                    ""action"": ""Diabolo Attack"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
-                    ""id"": ""ac5d8b48-6532-4ce2-99fd-6b57546fe28d"",
-                    ""path"": ""<Keyboard>/c"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
                     ""action"": ""Diabolo Attack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -551,10 +652,422 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
             ]
         },
         {
+            ""name"": ""Interaction"",
+            ""id"": ""eb9704b9-066c-47e6-8355-a81b3e0f9284"",
+            ""actions"": [
+                {
+                    ""name"": ""Continue"",
+                    ""type"": ""Button"",
+                    ""id"": ""8b17474d-5ef1-412c-9b54-a97d58e23fd7"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""NavigateUp"",
+                    ""type"": ""Button"",
+                    ""id"": ""4f020693-3350-4d14-8ae4-299fa1540fa1"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""NavigateDown"",
+                    ""type"": ""Button"",
+                    ""id"": ""39ee7b62-09e7-4187-b0c7-671b7db645a9"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""QAM"",
+                    ""type"": ""Button"",
+                    ""id"": ""484da2e5-a8b8-40f0-94af-f6f03a85bc5f"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                }
+            ],
+            ""bindings"": [
+                {
+                    ""name"": """",
+                    ""id"": ""29e5b92b-ebf7-4f8a-b361-e545e548b2ff"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
+                    ""action"": ""Jump"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""62a3327f-2acf-4640-9985-e0efd158e205"",
+                    ""path"": ""<Gamepad>/buttonSouth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Jump"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""dbec12da-036a-4a34-925e-f41a6641e2b4"",
+                    ""path"": ""<Gamepad>/buttonSouth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Continue"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""f95e0bbe-9981-45dc-a5fd-034c39ce5d81"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
+                    ""action"": ""Continue"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""c4667dd1-7b99-4938-9f48-75a115259e04"",
+                    ""path"": ""<Gamepad>/dpad/up"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""NavigateUp"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""6f739f49-3fc1-478b-886f-29fca8e0a157"",
+                    ""path"": ""<Keyboard>/upArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""action"": ""NavigateUp"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""5d0c9332-0c97-40cc-8219-16cddb40211a"",
+                    ""path"": ""<Keyboard>/w"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""action"": ""NavigateUp"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""d97471fb-79ff-4ba7-bb91-28badb1f3ad3"",
+                    ""path"": ""<Gamepad>/dpad/down"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""NavigateDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""aa0dc633-3a0a-4728-ba18-2354bef502e1"",
+                    ""path"": ""<Keyboard>/downArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup"",
+                    ""action"": ""NavigateDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""202c724b-fd09-4eab-8b46-3dbd33d97b87"",
+                    ""path"": ""<Keyboard>/s"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - WASD Setup"",
+                    ""action"": ""NavigateDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""009bba28-04f0-45a3-a935-7ff8682ef90a"",
+                    ""path"": ""<Gamepad>/select"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""QAM"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""80558674-78a6-4fd8-88dd-1428e4306b91"",
+                    ""path"": ""<Keyboard>/backspace"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
+                    ""action"": ""QAM"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                }
+            ]
+        },
+        {
             ""name"": ""UI"",
             ""id"": ""ee2ccce4-f930-4980-99d3-ac55ca76d91a"",
             ""actions"": [],
             ""bindings"": []
+        },
+        {
+            ""name"": ""QTE"",
+            ""id"": ""5a5454cd-66a6-4d6b-8c8c-543c6db93b53"",
+            ""actions"": [
+                {
+                    ""name"": ""FinalInteraction"",
+                    ""type"": ""Button"",
+                    ""id"": ""4f853c2c-e71c-4bdb-b422-c38077d5bd62"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""BasicInteraction"",
+                    ""type"": ""Button"",
+                    ""id"": ""cc310ef6-9975-41c1-921b-abb6162f60bb"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""JoystickInteraction"",
+                    ""type"": ""Value"",
+                    ""id"": ""55c9ffde-12bb-4250-a32d-5c6200623d92"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""UpKeyboardInteraction"",
+                    ""type"": ""Button"",
+                    ""id"": ""021d6406-08c0-4293-828e-537e6c9eb297"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""LeftKeyboardInteraction"",
+                    ""type"": ""Button"",
+                    ""id"": ""ebc42011-b5e4-4a9d-a7d2-e512d7533a1c"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""DownKeyboardInteraction"",
+                    ""type"": ""Button"",
+                    ""id"": ""0a1d3143-4a41-400f-b9d1-d8c20acaeb0b"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""RightKeyboardInteraction"",
+                    ""type"": ""Button"",
+                    ""id"": ""289b533c-3f8c-490e-bd6b-625355658df0"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                }
+            ],
+            ""bindings"": [
+                {
+                    ""name"": """",
+                    ""id"": ""6c0a8837-e5b1-4fa6-948b-d36ff18f8138"",
+                    ""path"": ""<Gamepad>/rightTrigger"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""FinalInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""03e8306e-4338-4550-936f-077f48563d24"",
+                    ""path"": ""<Keyboard>/enter"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
+                    ""action"": ""FinalInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""69435a43-e1cd-407b-86fb-b47bf559eecd"",
+                    ""path"": ""<Keyboard>/numpadEnter"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
+                    ""action"": ""FinalInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""84d078f7-e7c1-48be-ba90-6ad2ad001f7b"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
+                    ""action"": ""BasicInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""d6fe9563-b267-49bb-bc3f-10ed7fe424b1"",
+                    ""path"": ""<Keyboard>/k"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard - Arrow Keys Setup;Keyboard - WASD Setup"",
+                    ""action"": ""BasicInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""75c66d45-b4d5-4167-bf59-fbf865c76b88"",
+                    ""path"": ""<Keyboard>/x"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""BasicInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""6840a02f-5cf0-4a9f-91f9-3cb5a3c791bd"",
+                    ""path"": ""<Gamepad>/buttonSouth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""BasicInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""14ece29f-862f-4d63-9d27-f9d5d1d621df"",
+                    ""path"": ""<Gamepad>/rightStick"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""JoystickInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""0c290e51-2eca-4cf2-8172-8c98acc36fbb"",
+                    ""path"": ""<Keyboard>/upArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""UpKeyboardInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""5a031317-ae44-4f88-b826-fa7316708333"",
+                    ""path"": ""<Keyboard>/w"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""UpKeyboardInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""195a6057-1440-4221-8f89-d5ab7f181b2a"",
+                    ""path"": ""<Keyboard>/leftArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""LeftKeyboardInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""b7aaa639-1939-4f52-9f81-66be683da8d1"",
+                    ""path"": ""<Keyboard>/a"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""LeftKeyboardInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""52cb12df-eaac-408d-b620-0755b30261d7"",
+                    ""path"": ""<Keyboard>/downArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""DownKeyboardInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""cc9e7e59-c564-4693-9565-352f38275b85"",
+                    ""path"": ""<Keyboard>/s"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""DownKeyboardInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""d235fc80-4406-4c2c-9915-dc61c478e3a0"",
+                    ""path"": ""<Keyboard>/rightArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""RightKeyboardInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""88f102d8-0d78-44b3-9043-3fc153754181"",
+                    ""path"": ""<Keyboard>/d"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""RightKeyboardInteraction"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                }
+            ]
         }
     ],
     ""controlSchemes"": [
@@ -598,6 +1111,9 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         m_Exploration_Move = m_Exploration.FindAction("Move", throwIfNotFound: true);
         m_Exploration_Run = m_Exploration.FindAction("Run", throwIfNotFound: true);
         m_Exploration_Jump = m_Exploration.FindAction("Jump", throwIfNotFound: true);
+        m_Exploration_Interact = m_Exploration.FindAction("Interact", throwIfNotFound: true);
+        m_Exploration_LookAt = m_Exploration.FindAction("LookAt", throwIfNotFound: true);
+        m_Exploration_QAM = m_Exploration.FindAction("QAM", throwIfNotFound: true);
         // Combat
         m_Combat = asset.FindActionMap("Combat", throwIfNotFound: true);
         m_Combat_Move = m_Combat.FindAction("Move", throwIfNotFound: true);
@@ -607,8 +1123,23 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         m_Combat_HeavyAttack = m_Combat.FindAction("Heavy Attack", throwIfNotFound: true);
         m_Combat_DiaboloAttack = m_Combat.FindAction("Diabolo Attack", throwIfNotFound: true);
         m_Combat_GuardDodge = m_Combat.FindAction("Guard Dodge", throwIfNotFound: true);
+        // Interaction
+        m_Interaction = asset.FindActionMap("Interaction", throwIfNotFound: true);
+        m_Interaction_Continue = m_Interaction.FindAction("Continue", throwIfNotFound: true);
+        m_Interaction_NavigateUp = m_Interaction.FindAction("NavigateUp", throwIfNotFound: true);
+        m_Interaction_NavigateDown = m_Interaction.FindAction("NavigateDown", throwIfNotFound: true);
+        m_Interaction_QAM = m_Interaction.FindAction("QAM", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
+        // QTE
+        m_QTE = asset.FindActionMap("QTE", throwIfNotFound: true);
+        m_QTE_FinalInteraction = m_QTE.FindAction("FinalInteraction", throwIfNotFound: true);
+        m_QTE_BasicInteraction = m_QTE.FindAction("BasicInteraction", throwIfNotFound: true);
+        m_QTE_JoystickInteraction = m_QTE.FindAction("JoystickInteraction", throwIfNotFound: true);
+        m_QTE_UpKeyboardInteraction = m_QTE.FindAction("UpKeyboardInteraction", throwIfNotFound: true);
+        m_QTE_LeftKeyboardInteraction = m_QTE.FindAction("LeftKeyboardInteraction", throwIfNotFound: true);
+        m_QTE_DownKeyboardInteraction = m_QTE.FindAction("DownKeyboardInteraction", throwIfNotFound: true);
+        m_QTE_RightKeyboardInteraction = m_QTE.FindAction("RightKeyboardInteraction", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -661,6 +1192,9 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
     private readonly InputAction m_Exploration_Move;
     private readonly InputAction m_Exploration_Run;
     private readonly InputAction m_Exploration_Jump;
+    private readonly InputAction m_Exploration_Interact;
+    private readonly InputAction m_Exploration_LookAt;
+    private readonly InputAction m_Exploration_QAM;
     public struct ExplorationActions
     {
         private @PlayerInputActions m_Wrapper;
@@ -668,6 +1202,9 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         public InputAction @Move => m_Wrapper.m_Exploration_Move;
         public InputAction @Run => m_Wrapper.m_Exploration_Run;
         public InputAction @Jump => m_Wrapper.m_Exploration_Jump;
+        public InputAction @Interact => m_Wrapper.m_Exploration_Interact;
+        public InputAction @LookAt => m_Wrapper.m_Exploration_LookAt;
+        public InputAction @QAM => m_Wrapper.m_Exploration_QAM;
         public InputActionMap Get() { return m_Wrapper.m_Exploration; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -686,6 +1223,15 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 @Jump.started -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnJump;
                 @Jump.performed -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnJump;
                 @Jump.canceled -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnJump;
+                @Interact.started -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnInteract;
+                @Interact.performed -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnInteract;
+                @Interact.canceled -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnInteract;
+                @LookAt.started -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnLookAt;
+                @LookAt.performed -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnLookAt;
+                @LookAt.canceled -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnLookAt;
+                @QAM.started -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnQAM;
+                @QAM.performed -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnQAM;
+                @QAM.canceled -= m_Wrapper.m_ExplorationActionsCallbackInterface.OnQAM;
             }
             m_Wrapper.m_ExplorationActionsCallbackInterface = instance;
             if (instance != null)
@@ -699,6 +1245,15 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                 @Jump.started += instance.OnJump;
                 @Jump.performed += instance.OnJump;
                 @Jump.canceled += instance.OnJump;
+                @Interact.started += instance.OnInteract;
+                @Interact.performed += instance.OnInteract;
+                @Interact.canceled += instance.OnInteract;
+                @LookAt.started += instance.OnLookAt;
+                @LookAt.performed += instance.OnLookAt;
+                @LookAt.canceled += instance.OnLookAt;
+                @QAM.started += instance.OnQAM;
+                @QAM.performed += instance.OnQAM;
+                @QAM.canceled += instance.OnQAM;
             }
         }
     }
@@ -785,6 +1340,63 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
     }
     public CombatActions @Combat => new CombatActions(this);
 
+    // Interaction
+    private readonly InputActionMap m_Interaction;
+    private IInteractionActions m_InteractionActionsCallbackInterface;
+    private readonly InputAction m_Interaction_Continue;
+    private readonly InputAction m_Interaction_NavigateUp;
+    private readonly InputAction m_Interaction_NavigateDown;
+    private readonly InputAction m_Interaction_QAM;
+    public struct InteractionActions
+    {
+        private @PlayerInputActions m_Wrapper;
+        public InteractionActions(@PlayerInputActions wrapper) { m_Wrapper = wrapper; }
+        public InputAction @Continue => m_Wrapper.m_Interaction_Continue;
+        public InputAction @NavigateUp => m_Wrapper.m_Interaction_NavigateUp;
+        public InputAction @NavigateDown => m_Wrapper.m_Interaction_NavigateDown;
+        public InputAction @QAM => m_Wrapper.m_Interaction_QAM;
+        public InputActionMap Get() { return m_Wrapper.m_Interaction; }
+        public void Enable() { Get().Enable(); }
+        public void Disable() { Get().Disable(); }
+        public bool enabled => Get().enabled;
+        public static implicit operator InputActionMap(InteractionActions set) { return set.Get(); }
+        public void SetCallbacks(IInteractionActions instance)
+        {
+            if (m_Wrapper.m_InteractionActionsCallbackInterface != null)
+            {
+                @Continue.started -= m_Wrapper.m_InteractionActionsCallbackInterface.OnContinue;
+                @Continue.performed -= m_Wrapper.m_InteractionActionsCallbackInterface.OnContinue;
+                @Continue.canceled -= m_Wrapper.m_InteractionActionsCallbackInterface.OnContinue;
+                @NavigateUp.started -= m_Wrapper.m_InteractionActionsCallbackInterface.OnNavigateUp;
+                @NavigateUp.performed -= m_Wrapper.m_InteractionActionsCallbackInterface.OnNavigateUp;
+                @NavigateUp.canceled -= m_Wrapper.m_InteractionActionsCallbackInterface.OnNavigateUp;
+                @NavigateDown.started -= m_Wrapper.m_InteractionActionsCallbackInterface.OnNavigateDown;
+                @NavigateDown.performed -= m_Wrapper.m_InteractionActionsCallbackInterface.OnNavigateDown;
+                @NavigateDown.canceled -= m_Wrapper.m_InteractionActionsCallbackInterface.OnNavigateDown;
+                @QAM.started -= m_Wrapper.m_InteractionActionsCallbackInterface.OnQAM;
+                @QAM.performed -= m_Wrapper.m_InteractionActionsCallbackInterface.OnQAM;
+                @QAM.canceled -= m_Wrapper.m_InteractionActionsCallbackInterface.OnQAM;
+            }
+            m_Wrapper.m_InteractionActionsCallbackInterface = instance;
+            if (instance != null)
+            {
+                @Continue.started += instance.OnContinue;
+                @Continue.performed += instance.OnContinue;
+                @Continue.canceled += instance.OnContinue;
+                @NavigateUp.started += instance.OnNavigateUp;
+                @NavigateUp.performed += instance.OnNavigateUp;
+                @NavigateUp.canceled += instance.OnNavigateUp;
+                @NavigateDown.started += instance.OnNavigateDown;
+                @NavigateDown.performed += instance.OnNavigateDown;
+                @NavigateDown.canceled += instance.OnNavigateDown;
+                @QAM.started += instance.OnQAM;
+                @QAM.performed += instance.OnQAM;
+                @QAM.canceled += instance.OnQAM;
+            }
+        }
+    }
+    public InteractionActions @Interaction => new InteractionActions(this);
+
     // UI
     private readonly InputActionMap m_UI;
     private IUIActions m_UIActionsCallbackInterface;
@@ -809,6 +1421,87 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         }
     }
     public UIActions @UI => new UIActions(this);
+
+    // QTE
+    private readonly InputActionMap m_QTE;
+    private IQTEActions m_QTEActionsCallbackInterface;
+    private readonly InputAction m_QTE_FinalInteraction;
+    private readonly InputAction m_QTE_BasicInteraction;
+    private readonly InputAction m_QTE_JoystickInteraction;
+    private readonly InputAction m_QTE_UpKeyboardInteraction;
+    private readonly InputAction m_QTE_LeftKeyboardInteraction;
+    private readonly InputAction m_QTE_DownKeyboardInteraction;
+    private readonly InputAction m_QTE_RightKeyboardInteraction;
+    public struct QTEActions
+    {
+        private @PlayerInputActions m_Wrapper;
+        public QTEActions(@PlayerInputActions wrapper) { m_Wrapper = wrapper; }
+        public InputAction @FinalInteraction => m_Wrapper.m_QTE_FinalInteraction;
+        public InputAction @BasicInteraction => m_Wrapper.m_QTE_BasicInteraction;
+        public InputAction @JoystickInteraction => m_Wrapper.m_QTE_JoystickInteraction;
+        public InputAction @UpKeyboardInteraction => m_Wrapper.m_QTE_UpKeyboardInteraction;
+        public InputAction @LeftKeyboardInteraction => m_Wrapper.m_QTE_LeftKeyboardInteraction;
+        public InputAction @DownKeyboardInteraction => m_Wrapper.m_QTE_DownKeyboardInteraction;
+        public InputAction @RightKeyboardInteraction => m_Wrapper.m_QTE_RightKeyboardInteraction;
+        public InputActionMap Get() { return m_Wrapper.m_QTE; }
+        public void Enable() { Get().Enable(); }
+        public void Disable() { Get().Disable(); }
+        public bool enabled => Get().enabled;
+        public static implicit operator InputActionMap(QTEActions set) { return set.Get(); }
+        public void SetCallbacks(IQTEActions instance)
+        {
+            if (m_Wrapper.m_QTEActionsCallbackInterface != null)
+            {
+                @FinalInteraction.started -= m_Wrapper.m_QTEActionsCallbackInterface.OnFinalInteraction;
+                @FinalInteraction.performed -= m_Wrapper.m_QTEActionsCallbackInterface.OnFinalInteraction;
+                @FinalInteraction.canceled -= m_Wrapper.m_QTEActionsCallbackInterface.OnFinalInteraction;
+                @BasicInteraction.started -= m_Wrapper.m_QTEActionsCallbackInterface.OnBasicInteraction;
+                @BasicInteraction.performed -= m_Wrapper.m_QTEActionsCallbackInterface.OnBasicInteraction;
+                @BasicInteraction.canceled -= m_Wrapper.m_QTEActionsCallbackInterface.OnBasicInteraction;
+                @JoystickInteraction.started -= m_Wrapper.m_QTEActionsCallbackInterface.OnJoystickInteraction;
+                @JoystickInteraction.performed -= m_Wrapper.m_QTEActionsCallbackInterface.OnJoystickInteraction;
+                @JoystickInteraction.canceled -= m_Wrapper.m_QTEActionsCallbackInterface.OnJoystickInteraction;
+                @UpKeyboardInteraction.started -= m_Wrapper.m_QTEActionsCallbackInterface.OnUpKeyboardInteraction;
+                @UpKeyboardInteraction.performed -= m_Wrapper.m_QTEActionsCallbackInterface.OnUpKeyboardInteraction;
+                @UpKeyboardInteraction.canceled -= m_Wrapper.m_QTEActionsCallbackInterface.OnUpKeyboardInteraction;
+                @LeftKeyboardInteraction.started -= m_Wrapper.m_QTEActionsCallbackInterface.OnLeftKeyboardInteraction;
+                @LeftKeyboardInteraction.performed -= m_Wrapper.m_QTEActionsCallbackInterface.OnLeftKeyboardInteraction;
+                @LeftKeyboardInteraction.canceled -= m_Wrapper.m_QTEActionsCallbackInterface.OnLeftKeyboardInteraction;
+                @DownKeyboardInteraction.started -= m_Wrapper.m_QTEActionsCallbackInterface.OnDownKeyboardInteraction;
+                @DownKeyboardInteraction.performed -= m_Wrapper.m_QTEActionsCallbackInterface.OnDownKeyboardInteraction;
+                @DownKeyboardInteraction.canceled -= m_Wrapper.m_QTEActionsCallbackInterface.OnDownKeyboardInteraction;
+                @RightKeyboardInteraction.started -= m_Wrapper.m_QTEActionsCallbackInterface.OnRightKeyboardInteraction;
+                @RightKeyboardInteraction.performed -= m_Wrapper.m_QTEActionsCallbackInterface.OnRightKeyboardInteraction;
+                @RightKeyboardInteraction.canceled -= m_Wrapper.m_QTEActionsCallbackInterface.OnRightKeyboardInteraction;
+            }
+            m_Wrapper.m_QTEActionsCallbackInterface = instance;
+            if (instance != null)
+            {
+                @FinalInteraction.started += instance.OnFinalInteraction;
+                @FinalInteraction.performed += instance.OnFinalInteraction;
+                @FinalInteraction.canceled += instance.OnFinalInteraction;
+                @BasicInteraction.started += instance.OnBasicInteraction;
+                @BasicInteraction.performed += instance.OnBasicInteraction;
+                @BasicInteraction.canceled += instance.OnBasicInteraction;
+                @JoystickInteraction.started += instance.OnJoystickInteraction;
+                @JoystickInteraction.performed += instance.OnJoystickInteraction;
+                @JoystickInteraction.canceled += instance.OnJoystickInteraction;
+                @UpKeyboardInteraction.started += instance.OnUpKeyboardInteraction;
+                @UpKeyboardInteraction.performed += instance.OnUpKeyboardInteraction;
+                @UpKeyboardInteraction.canceled += instance.OnUpKeyboardInteraction;
+                @LeftKeyboardInteraction.started += instance.OnLeftKeyboardInteraction;
+                @LeftKeyboardInteraction.performed += instance.OnLeftKeyboardInteraction;
+                @LeftKeyboardInteraction.canceled += instance.OnLeftKeyboardInteraction;
+                @DownKeyboardInteraction.started += instance.OnDownKeyboardInteraction;
+                @DownKeyboardInteraction.performed += instance.OnDownKeyboardInteraction;
+                @DownKeyboardInteraction.canceled += instance.OnDownKeyboardInteraction;
+                @RightKeyboardInteraction.started += instance.OnRightKeyboardInteraction;
+                @RightKeyboardInteraction.performed += instance.OnRightKeyboardInteraction;
+                @RightKeyboardInteraction.canceled += instance.OnRightKeyboardInteraction;
+            }
+        }
+    }
+    public QTEActions @QTE => new QTEActions(this);
     private int m_KeyboardArrowKeysSetupSchemeIndex = -1;
     public InputControlScheme KeyboardArrowKeysSetupScheme
     {
@@ -841,6 +1534,9 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         void OnMove(InputAction.CallbackContext context);
         void OnRun(InputAction.CallbackContext context);
         void OnJump(InputAction.CallbackContext context);
+        void OnInteract(InputAction.CallbackContext context);
+        void OnLookAt(InputAction.CallbackContext context);
+        void OnQAM(InputAction.CallbackContext context);
     }
     public interface ICombatActions
     {
@@ -852,7 +1548,24 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         void OnDiaboloAttack(InputAction.CallbackContext context);
         void OnGuardDodge(InputAction.CallbackContext context);
     }
+    public interface IInteractionActions
+    {
+        void OnContinue(InputAction.CallbackContext context);
+        void OnNavigateUp(InputAction.CallbackContext context);
+        void OnNavigateDown(InputAction.CallbackContext context);
+        void OnQAM(InputAction.CallbackContext context);
+    }
     public interface IUIActions
     {
+    }
+    public interface IQTEActions
+    {
+        void OnFinalInteraction(InputAction.CallbackContext context);
+        void OnBasicInteraction(InputAction.CallbackContext context);
+        void OnJoystickInteraction(InputAction.CallbackContext context);
+        void OnUpKeyboardInteraction(InputAction.CallbackContext context);
+        void OnLeftKeyboardInteraction(InputAction.CallbackContext context);
+        void OnDownKeyboardInteraction(InputAction.CallbackContext context);
+        void OnRightKeyboardInteraction(InputAction.CallbackContext context);
     }
 }

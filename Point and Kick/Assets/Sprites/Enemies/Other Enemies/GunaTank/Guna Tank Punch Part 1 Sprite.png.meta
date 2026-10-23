@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: add6953b8f9c9b94996f093822e6117b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2320342823089167923
+    second: Guna Tank Punch Part 1 Sprite_0
+  - first:
+      213: 2416772412713767443
+    second: Guna Tank Punch Part 1 Sprite_1
+  - first:
+      213: -5998630214454415022
+    second: Guna Tank Punch Part 1 Sprite_2
+  - first:
+      213: 1505848232126887944
+    second: Guna Tank Punch Part 1 Sprite_3
+  - first:
+      213: 4355661287354398433
+    second: Guna Tank Punch Part 1 Sprite_4
+  - first:
+      213: -9111233931642960453
+    second: Guna Tank Punch Part 1 Sprite_5
+  - first:
+      213: -1966146812824956068
+    second: Guna Tank Punch Part 1 Sprite_6
+  - first:
+      213: 215589004234763852
+    second: Guna Tank Punch Part 1 Sprite_7
+  - first:
+      213: 7023219512380090921
+    second: Guna Tank Punch Part 1 Sprite_8
+  - first:
+      213: -916256632348996180
+    second: Guna Tank Punch Part 1 Sprite_9
+  - first:
+      213: -6226653219230438590
+    second: Guna Tank Punch Part 1 Sprite_10
+  - first:
+      213: 225720962908802040
+    second: Guna Tank Punch Part 1 Sprite_11
+  - first:
+      213: -4433683171623019671
+    second: Guna Tank Punch Part 1 Sprite_12
+  - first:
+      213: -3594298707660576119
+    second: Guna Tank Punch Part 1 Sprite_13
+  - first:
+      213: -1876087047620363479
+    second: Guna Tank Punch Part 1 Sprite_14
+  - first:
+      213: -751630902862419296
+    second: Guna Tank Punch Part 1 Sprite_15
+  - first:
+      213: -6554326123296756774
+    second: Guna Tank Punch Part 1 Sprite_16
+  - first:
+      213: 1970960971017815159
+    second: Guna Tank Punch Part 1 Sprite_17
+  - first:
+      213: -449256462431289972
+    second: Guna Tank Punch Part 1 Sprite_18
+  - first:
+      213: 931869160641856310
+    second: Guna Tank Punch Part 1 Sprite_19
+  - first:
+      213: -5693317769137110009
+    second: Guna Tank Punch Part 1 Sprite_20
+  - first:
+      213: -3106495101437974935
+    second: Guna Tank Punch Part 1 Sprite_21
+  - first:
+      213: 388299367403136811
+    second: Guna Tank Punch Part 1 Sprite_22
+  - first:
+      213: 3466572751033001948
+    second: Guna Tank Punch Part 1 Sprite_23
+  - first:
+      213: -390056201011769108
+    second: Guna Tank Punch Part 1 Sprite_24
+  - first:
+      213: 344502945307460687
+    second: Guna Tank Punch Part 1 Sprite_25
+  - first:
+      213: -3927867715199736952
+    second: Guna Tank Punch Part 1 Sprite_26
+  - first:
+      213: 3827462560629000584
+    second: Guna Tank Punch Part 1 Sprite_27
+  - first:
+      213: 6756434261058809703
+    second: Guna Tank Punch Part 1 Sprite_28
+  - first:
+      213: 8232781616300576782
+    second: Guna Tank Punch Part 1 Sprite_29
+  - first:
+      213: -1448295084633083400
+    second: Guna Tank Punch Part 1 Sprite_30
+  - first:
+      213: 7427203895632652692
+    second: Guna Tank Punch Part 1 Sprite_31
+  - first:
+      213: 7458572031034729561
+    second: Guna Tank Punch Part 1 Sprite_32
+  - first:
+      213: 967444113551919964
+    second: Guna Tank Punch Part 1 Sprite_33
+  - first:
+      213: 4677026305997333681
+    second: Guna Tank Punch Part 1 Sprite_34
+  - first:
+      213: -2317258107608661758
+    second: Guna Tank Punch Part 1 Sprite_35
+  - first:
+      213: 7628326529524931362
+    second: Guna Tank Punch Part 1 Sprite_36
+  - first:
+      213: 3224733056426276027
+    second: Guna Tank Punch Part 1 Sprite_37
+  - first:
+      213: 2574562953744953696
+    second: Guna Tank Punch Part 1 Sprite_38
+  - first:
+      213: -7402231282202409058
+    second: Guna Tank Punch Part 1 Sprite_39
+  - first:
+      213: 5667807870263342984
+    second: Guna Tank Punch Part 1 Sprite_40
+  - first:
+      213: 649421853906803179
+    second: Guna Tank Punch Part 1 Sprite_41
+  - first:
+      213: 5186341420459320723
+    second: Guna Tank Punch Part 1 Sprite_42
+  - first:
+      213: -4300557605379752374
+    second: Guna Tank Punch Part 1 Sprite_43
+  - first:
+      213: 5178117135391649689
+    second: Guna Tank Punch Part 1 Sprite_44
+  - first:
+      213: 4732166213131165428
+    second: Guna Tank Punch Part 1 Sprite_45
+  - first:
+      213: -5002335916417167281
+    second: Guna Tank Punch Part 1 Sprite_46
+  - first:
+      213: 3359869051166729650
+    second: Guna Tank Punch Part 1 Sprite_47
+  - first:
+      213: -3135670879650156667
+    second: Guna Tank Punch Part 1 Sprite_48
+  - first:
+      213: 8391549534793878452
+    second: Guna Tank Punch Part 1 Sprite_49
+  - first:
+      213: -2383841952676106893
+    second: Guna Tank Punch Part 1 Sprite_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e5b5ff083833020800000000000000
+      internalID: 2320342823089167923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31294ca64b91a8120800000000000000
+      internalID: 2416772412713767443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f4802a9590cca0800000000000000
+      internalID: -5998630214454415022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b2912df8d5e410800000000000000
+      internalID: 1505848232126887944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6fda21dda627c30800000000000000
+      internalID: 4355661287354398433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb58fe633056e8180800000000000000
+      internalID: -9111233931642960453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535d4d04e7d6b4e0800000000000000
+      internalID: -1966146812824956068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 8856
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ea4ee9e0dedf200800000000000000
+      internalID: 215589004234763852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae1079fec777160800000000000000
+      internalID: 7023219512380090921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0eb9827dc843f0800000000000000
+      internalID: -916256632348996180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b2a3823eb7699a0800000000000000
+      internalID: -6226653219230438590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbc984150ce12300800000000000000
+      internalID: 225720962908802040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b58c465a46872c0800000000000000
+      internalID: -4433683171623019671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aee396e5c7e1ec0800000000000000
+      internalID: -3594298707660576119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b70e625ccc6f5e0800000000000000
+      internalID: -1876087047620363479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 7380
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaeda81daba195f0800000000000000
+      internalID: -751630902862419296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb65defd1b5a05a0800000000000000
+      internalID: -6554326123296756774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7740daf7f824a5b10800000000000000
+      internalID: 1970960971017815159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dfbbfa0abe3c9f0800000000000000
+      internalID: -449256462431289972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330339701aaeec00800000000000000
+      internalID: 931869160641856310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704c92947a54df0b0800000000000000
+      internalID: -5693317769137110009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9666c460a2383e4d0800000000000000
+      internalID: -3106495101437974935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a294a734836500800000000000000
+      internalID: 388299367403136811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 5904
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ee55ec8dbb1030800000000000000
+      internalID: 3466572751033001948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce05148a3fd369af0800000000000000
+      internalID: -390056201011769108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44802f7a9be7c400800000000000000
+      internalID: 344502945307460687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8836bceaf196d79c0800000000000000
+      internalID: -3927867715199736952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889066d8be0ed1530800000000000000
+      internalID: 3827462560629000584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f60bec92da3cd50800000000000000
+      internalID: 6756434261058809703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0056f8c247b04270800000000000000
+      internalID: 8232781616300576782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1308e3b4f96ebe0800000000000000
+      internalID: -1448295084633083400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 4428
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499e491979ab21760800000000000000
+      internalID: 7427203895632652692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9542d79bebb228760800000000000000
+      internalID: 7458572031034729561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b0e48ab4d0d6d00800000000000000
+      internalID: 967444113551919964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e02635a228e040800000000000000
+      internalID: 4677026305997333681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201871b470277dfd0800000000000000
+      internalID: -2317258107608661758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b950fdf824dd960800000000000000
+      internalID: 7628326529524931362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb47fb321ad80cc20800000000000000
+      internalID: 3224733056426276027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06139d5ad5faab320800000000000000
+      internalID: 2574562953744953696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 2952
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e978a071eddf54990800000000000000
+      internalID: -7402231282202409058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b53a8a3918ae40800000000000000
+      internalID: 5667807870263342984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be99d7f3cb5330900800000000000000
+      internalID: 649421853906803179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3956f522b0699f740800000000000000
+      internalID: 5186341420459320723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e3c3ba4a95154c0800000000000000
+      internalID: -4300557605379752374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fe16c891e5cd740800000000000000
+      internalID: 5178117135391649689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed9c749180ca140800000000000000
+      internalID: 4732166213131165428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d6ceccf1249ab0800000000000000
+      internalID: -5002335916417167281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 11368
+        y: 1476
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52f96c917a0ae20800000000000000
+      internalID: 3359869051166729650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f6aedc2fbdb74d0800000000000000
+      internalID: -3135670879650156667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbcb7077d5c47470800000000000000
+      internalID: 8391549534793878452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Tank Punch Part 1 Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 1624
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d211acf54eaeed0800000000000000
+      internalID: -2383841952676106893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

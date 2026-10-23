@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8acf10eca6722114399cc2dece158e2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - interactionChannel: {fileID: 11400000, guid: c4f17f203554d4b4499329067d054928, type: 2}
+  - narrationSpeaker: {instanceID: 0}
+  - cinemachineNPC: {instanceID: 0}
+  - cinemachineAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

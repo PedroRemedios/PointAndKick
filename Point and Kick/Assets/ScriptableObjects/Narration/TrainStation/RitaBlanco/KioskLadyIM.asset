@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47aeec26089f2da48913cf26619f5aa9, type: 3}
+  m_Name: KioskLadyIM
+  m_EditorClassIdentifier: 
+  defaultDialogue: {fileID: 11400000, guid: 5306dfb74e19bd64cbbbee83d2e44660, type: 2}
+  exitDialogue: {fileID: 11400000, guid: 865dabef27a844a4b938acf71a36d1ef, type: 2}
+  interactions:
+  - {fileID: 11400000, guid: 5306dfb74e19bd64cbbbee83d2e44660, type: 2}
+  - {fileID: 11400000, guid: 001b673c8c4310a45ae1740aeea53564, type: 2}
+  - {fileID: 11400000, guid: cd8011e73d5bb834da7dd6a0e3dfb7d4, type: 2}

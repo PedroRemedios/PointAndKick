@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35432205b9a6a374bbbfe6b7cac92179, type: 3}
+  m_Name: EnteringCombat
+  m_EditorClassIdentifier: 
+  _actions:
+  - {fileID: 11400000, guid: b2c47176ec347c34da7464b7ace7c11f, type: 2}
+  - {fileID: 11400000, guid: bcd255d62181dca49831d117a6e09112, type: 2}
+  - {fileID: 11400000, guid: aea397ffc5a70af40b6045026c9bedd5, type: 2}
+  - {fileID: 11400000, guid: 5caf92a78d328074eba23791187a32dc, type: 2}
+  - {fileID: 11400000, guid: 91e48a0eb44659548bd72c06650764e3, type: 2}
+  - {fileID: 11400000, guid: edd9cae7e58111148b50b486bd97e9b3, type: 2}
+  - {fileID: 11400000, guid: a65073ca269ead84686e2216ca5fc530, type: 2}
+  - {fileID: 11400000, guid: f1644ebf35da15c4fadfc6e83f10c0a9, type: 2}

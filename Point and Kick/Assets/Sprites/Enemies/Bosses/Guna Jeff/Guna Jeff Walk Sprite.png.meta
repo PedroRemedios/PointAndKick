@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 8c0dc9b995d68ed408af13ce94dd9332
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8715788278013589440
+    second: Guna Jeff Walk Sprite_0
+  - first:
+      213: -1925218148926037819
+    second: Guna Jeff Walk Sprite_1
+  - first:
+      213: -836302653511794987
+    second: Guna Jeff Walk Sprite_2
+  - first:
+      213: -8677642098070836570
+    second: Guna Jeff Walk Sprite_3
+  - first:
+      213: 7507542561624648135
+    second: Guna Jeff Walk Sprite_4
+  - first:
+      213: -2422244775806329134
+    second: Guna Jeff Walk Sprite_5
+  - first:
+      213: -7208074871447082030
+    second: Guna Jeff Walk Sprite_6
+  - first:
+      213: -4432776120995901410
+    second: Guna Jeff Walk Sprite_7
+  - first:
+      213: 5591355279252256125
+    second: Guna Jeff Walk Sprite_8
+  - first:
+      213: -2568899263645284160
+    second: Guna Jeff Walk Sprite_9
+  - first:
+      213: 2755083109020717251
+    second: Guna Jeff Walk Sprite_10
+  - first:
+      213: -7687734302522715271
+    second: Guna Jeff Walk Sprite_11
+  - first:
+      213: -4620573808204570833
+    second: Guna Jeff Walk Sprite_12
+  - first:
+      213: 9143017645500316167
+    second: Guna Jeff Walk Sprite_13
+  - first:
+      213: 7133324388339613359
+    second: Guna Jeff Walk Sprite_14
+  - first:
+      213: -3399234212955387261
+    second: Guna Jeff Walk Sprite_15
+  - first:
+      213: -1681335203495085236
+    second: Guna Jeff Walk Sprite_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c77388b243b4f870800000000000000
+      internalID: 8715788278013589440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0e0263b404845e0800000000000000
+      internalID: -1925218148926037819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de76b4ea2bd464f0800000000000000
+      internalID: -836302653511794987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa2388ec72d29780800000000000000
+      internalID: -8677642098070836570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 3792
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c963c1ee26203860800000000000000
+      internalID: 7507542561624648135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de9403c535726ed0800000000000000
+      internalID: -2422244775806329134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db2afc2816c7fb90800000000000000
+      internalID: -7208074871447082030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1094339a9d9b72c0800000000000000
+      internalID: -4432776120995901410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f5d0900c789d40800000000000000
+      internalID: 5591355279252256125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 2528
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c809a6fabf695cd0800000000000000
+      internalID: -2568899263645284160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0dbd79d750c3620800000000000000
+      internalID: 2755083109020717251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9735c8a126eaf4590800000000000000
+      internalID: -7687734302522715271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f1e7f2a9c60efb0800000000000000
+      internalID: -4620573808204570833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abc275b1682ee70800000000000000
+      internalID: 9143017645500316167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 1264
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faefc9abcb8aef260800000000000000
+      internalID: 7133324388339613359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a80744e7e73d0d0800000000000000
+      internalID: -3399234212955387261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guna Jeff Walk Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 1149
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.53, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf05f5a82baa8e0800000000000000
+      internalID: -1681335203495085236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
